@@ -2,11 +2,11 @@
     "common": {
         "name":         "icons-open-icon-library-png",
         "version":      "0.1.0",
-        "title":        "Addictive flavour icon set as PNG",
+        "title":        "Open icon library set as PNG",
         "desc":         {
-            "en": "Icon set for visualisation as PNG",
-            "de": "Bildersatz für die Visualisierung als PNG",
-            "ru": "Набор иконок для визуализации в PNG"
+            "en": "Open icon library set for visualisation as PNG",
+            "de": "Open icon library Bildersatz für die Visualisierung als PNG",
+            "ru": "Набор иконок для из open icon library визуализации в PNG"
         },
         "authors": [
             "bluefox <bluefox@ccu.io>"
