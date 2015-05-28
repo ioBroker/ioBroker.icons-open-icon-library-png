@@ -1,0 +1,5 @@
+nethack.xpm
+
+Debian GNU/Linux Nethack 3.4.3
+License:
+Nethack General Public License

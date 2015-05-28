@@ -1,0 +1,72 @@
+#######################################################
+# AUTHORS_homemade
+#
+
+
+#######################################################
+# Description
+#
+Icons in the 'homemade' directory where created specificly for the 
+Open Icon Library, and are Public Domain.  This file includes the authors
+of these icons
+
+
+#######################################################
+# Authors
+# 
+
+#######################################################
+# The following icons were created by
+# Jeff Israel, aka User:ZyMOS, aka zymos000
+#
+svn/openiconlibrary/trunk/icons/apps:
+angband.svg                distributions-os-2.svg
+distributions-debian.svg   distributions-solaris.svg
+distributions-dos.svg      distributions-windows.svg
+distributions-freebsd.svg  games-ascii.svg
+distributions-mac.svg      gnu-nano.svg
+distributions-netbsd.svg   notepad.svg
+
+svn/openiconlibrary/trunk/web_icons/designed_using:
+designed_using_gimp.svg      designed_using_notepad.svg
+designed_using_inkscape.svg
+
+svn/openiconlibrary/trunk/web_icons/licenses:
+licenses-bsd-88x31.svg               licenses-gpl.svg
+licenses-bsd.svg                     licenses-kopime-88x31.svg
+licenses-copyleft-88x31.svg          licenses-lgpl-88x31.svg
+licenses-copyright-88x31.svg         licenses-lgpl.svg
+licenses-creative_commons-88x31.svg  licenses-mit-2.svg
+licenses-gpl-2.svg                   licenses-mit-88x31-2.svg
+licenses-gpl-3.svg                   licenses-mit-88x31.svg
+licenses-gpl-88x31-2.svg             licenses-mit.svg
+licenses-gpl-88x31.svg               licenses-pd-88x31.svg
+
+svn/openiconlibrary/trunk/web_icons/os:
+distributions-debian.svg   distributions-netbsd.svg
+distributions-dos.svg      distributions-os-2.svg
+distributions-freebsd.svg  distributions-solaris.svg
+distributions-mac.svg      distributions-windows.svg
+
+svn/openiconlibrary/trunk/web_icons/powered_by:
+powered_by_linux.svg  powered_by_mac_os_x.svg  powered_by_netbsd.svg
+
+svn/openiconlibrary/trunk/web_icons/social:
+aim.svg         flickr.svg        openid.svg      stumbleupon.svg
+bebo.svg        friendfeed.svg    orkut.svg       technorati.svg
+blogger.svg     gamespot.svg      pandora.svg     tumblr.svg
+blogmarks.svg   google.svg        picasa.svg      twitter.svg
+brightkit.svg   google_voice.svg  ping_fm.svg     viddler.svg
+delicious.svg   google_wave.svg   plurk.svg       vimeo.svg
+designmoo.svg   googletalk.svg    posterous.svg   virb.svg
+deviantart.svg  lastfm.svg        print-2.svg     windows.svg
+digg.svg        linkedin.svg      print.svg       wordpress.svg
+diigo.svg       mac.svg           qik.svg         y_combinator.svg
+dopplr.svg      mixx.svg          readernaut.svg  yahoo.svg
+email.svg       mobileme.svg      reddit.svg      yahoobuzz.svg
+ember.svg       mynameise.svg     rss-feed.svg    yelp.svg
+epinions.svg    myspace.svg       save_as-2.svg   youtube.svg
+evernote.svg    netvibes.svg      save_as.svg
+facebook.svg    newstrust.svg     sharethis.svg
+favorites.svg   newsvine.svg      skype.svg
+

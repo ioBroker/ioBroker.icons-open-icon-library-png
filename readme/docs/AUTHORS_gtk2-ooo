@@ -1,0 +1,97 @@
+================================================================================
+ begin   10/22/03
+ author  Rohit Kaul
+ email   rohitkaul@sbcglobal.net
+
+ License
+ -------
+ GPL
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+
+ Warranty
+ --------
+ Absolutely none! Use at your own risk!
+================================================================================
+
+
+ To install the static theme:
+ ----------------------------
+ copy "genBitmaps" directory and "imagelist.xml" to OOo config directory
+ (OpenOffice.org1.1.0/user/config/soffice.cfg/)
+ Note: If soffice.cfg does not exist, you will have to create it yourself.
+
+ You may notice that the icon backgound color may not match the rest of
+ the toolbar.  Default toolbar color is light, something that goes well with
+ standard kde themes.  There is also a userimages.gray.bmp under genBitmaps.
+ You can rename it to userimages.bmp and install that instead (if it goes
+ better with your OOo background).
+
+ You can also change the background color to a specific color, explained as
+ follows.
+
+ To change the icon background color:
+ ------------------------------------
+ 1. set background_color <your_color> in bkColor.tcl
+
+ 2. run: tclsh bkColor.tcl
+
+ 3. copy "genBitmaps" directory and "imagelist.xml" to your OOo
+    config directory
+
+ (see README.bkColor)
+
+
+ To generate new icon themes:
+ ----------------------------
+ see README.gentheme
+ distribute "genBitmaps" and "imagelist.xml" along with bkColor.tcl
+ 
+
+ ISSUES:
+ -------
+ 1. If background color is lighter than #f1f1f1, toolbar highlighting
+    will get messed up.
+
+ 2. Debian users installing the custom OOo cannot set icon-masking false
+
+
+  Change Log:
+ -----------
+
+  10/22/03   v 0.1  - Test release to check functionality
+
+  10/25/05   v 0.12 - Sync with the dynamic themer v. 0.5
+                      (http://www.kde-look.org/content/show.php?content=7131)
+                      Included an additional grey background
+                      Improved docmentation
+
+
+ Acknowledgements:
+ -----------------
+
+ * Everaldo for his crystal icon theme (KDE 3 default),
+   David Vignoni and the original creators of various kde themes
+
+ * Ximian OOo icon theme
+
+ * Icons/Testing:
+   Koen Muylkens
+   Lukasz Purgal
+   radu coc
+
+ * evolvedoo Gnome2-0.1 theme for imagelist.xml format
+   (Mark Finlay, sisob)
+
+
+ Reference:
+ ----------
+ (so6_adminguide_204.pdf)
+ http://se.sun.com/edu/staroffice60/so6_adminguide_0204.pdf
+
+
+ Questions/Comments:
+ ------------------
+ rohitkaul@sbcglobal.net

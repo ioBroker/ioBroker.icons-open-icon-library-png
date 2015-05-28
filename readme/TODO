@@ -1,0 +1,149 @@
+############################################################
+#  The Open Icon Library ToDo list
+#
+# if you want to help out, or have a solution, contact me
+# via the website: 
+# 	http://openiconlibrary.sourceforge.net/developers.html
+#
+
+
+# Priority
+* Create theme files (index.theme, iconrc, )
+* Create install files
+* Create icon naming standard webpages
+* Add to web icon package
+* Get more device icons
+* create list of icon aliases (common names that are used, but are unoffical)
+
+
+# Help Wanted
+* Find/create Public Domain icon alternatives to current non-PD icons
+* Find/create new apps icons
+* Find/create fullish mimetype icon set
+	* Decide to add to gnome or tango theme
+* Make list of common and uncommon devices
+ 	* Get icons for them
+* Add to web icon package
+	* OS icons (Windows, mac, linux, distro specific, etc)
+	* Social ( facebook, etc)
+	* Browsers (maybe other webapps)
+	* Licenses (CC, GPL, etc)
+	* Web languages (PHP, Perl, XML. etc_)
+	* Certifications, (CSS checked, W3 checked, etc)
+		http://www.w3.org/QA/Tools/Icons (cant be added)
+	* Power by ... (Powered by Linux, etc)
+	* Designed Using ... (Designed using notepad, etc)
+	* Optimized for ... (Optimized for Firefox, etc)
+	* Create a way to add odd shapes, like the ones on bottom of pages
+	* e-commerce (credit cards, paypal, etc)
+		* visa, master_card, paypal, (done)
+		* cart, cart_add, cart_del, check_out
+	* International Flags (done)
+* Test win/mac icons
+	* can windows or mac use png or svg, if so they need to be added to 
+	  packages
+	* solve ico grayscale conversion problem
+	* solve icns 64x64 conversion prob
+* Webmaster wanted
+	* General mainance, improvments
+	* php programmer to Improve gallery
+		* make a single directory (no sizes), and each file has links to 
+			all sizes
+		* each file has license underneth
+
+
+# TODO
+Decisions to be made
+	* what non-alphanumeric chars to use, currently [-_.]
+	* should openopffice be labeled openofficeorg, openoffice.org, 
+	  or openoffice
+	* Use capitals in apps
+	* use script to downsizr below 32x32
+	* what to do with famfamfam drive/actions
+	* create license file for each file
+	* make seprete packages for specific licenses 
+	  ie CC-BY-3.0, CC-BY-SA-3.0, CC-BY-2.5, CC-BY-SA-2.5, etc
+	* make seperite folders of wikicommons for specific licenses 
+
+
+Improve organizations (renaming and moving)
+	* Come up with a standard
+		* Posibly add categories
+	* Renaming icons
+		* Conform to naming specification
+			* Follow Gnome standard
+				* http://standards.freedesktop.org/icon-theme-spec/icon-theme-spec-latest.html 
+			* or come up with a modified or alternative spec
+		* Make sure apps icon name match applications common name
+		* Make official icons the first, ie no -2, -3
+			* make script  to move to lowest number available
+
+Sort Icons
+	* Rename icons to standard
+		* Mimetypes
+		* Apps		(done)
+		* Devices 	(done)
+		* Actions
+		* Status
+
+
+Add Apps Icons
+	*Make a list of common linux applications
+		* find icons for them
+	*Make list of programins languages and std libs
+		* find icons for them
+	*Make a list of common linux distributions
+		* find icons for them
+
+		
+Add Mimetypes icons
+	* Find standard mime-type icons
+	* Create simple mime-type icons
+		* use page with corner folded, overlay text, like PNG
+	* List available: /etc/mime.types
+
+
+Add general icons
+	* make list of common items, plants, animals, etc
+	*Get icons/clipart for them
+	
+
+Duplicute named icons
+	* fix duplicute names scripts
+
+
+Windows Support
+	* Fix grayscale support, png2ico doesn't support grayscale, 
+	  maybe use mogrify to convert to color before png2ico
+	* ...
+	* howto add license in metadata
+
+
+Mac Support
+	* Find someone to test them
+	* Figure out what the errors are and fix them
+	* howto add license in metadata
+
+
+
+Work on webpage
+	* Make developers page
+	* Make about page
+	* Improve gallery
+	* make page, howto find license for an icon
+	* make page, howto image conversion
+
+Icon modification
+	*Convert white background icons to transparent
+		*convert highest res icons then resize for each size
+	*Upscale and sharpen or blur icons that can be without looking crappy
+	*Make svg versions of png-only files
+	* somehow make notations of chages and upload improvements to 
+	  wikicommons
+
+Road signs
+	*Download road signs
+	*http://commons.wikimedia.org/wiki/Category:Diagrams_of_road_signs_by_country
+	*deside howto organize them
+	*what to keep, and what to not
+	*Iff keeping non-square ones, them make square

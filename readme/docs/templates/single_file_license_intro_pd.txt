@@ -1,0 +1,119 @@
+#################################################################
+#################################################################
+#######                                                   #######
+#######               Open Icon Library                   #######
+#######                  License File                     #######
+#######                                                   #######
+#################################################################
+#################################################################
+
+Table of Contents:
+	* Description
+	* Sources
+	* Licenses
+	* File List
+	* Icons from Wikicommons
+		* Icons under Creative Commons licenses
+		* Icons under GPL and LGPL licenses
+		* Icons under Public Domain
+		* Icons under MIT license
+		* Icons under BSD license
+
+#################################################################
+## Description:
+
+The Open Icon Library contains icons from various sources.  This file list 
+the license and source of each file in this package.  In the rare
+occasion where there is two files with the same name, you will have to check
+the developers package.  If you wish to use these icons in your project,
+include this file in your projects documentation.
+
+
+#################################################################
+## Sources:
+
+AEM Pictorial Database (aem) 
+	link: http://www.aem.org/Technical/PictorialDatabase/index.asp
+	license: PD
+	license link: http://en.wikipedia.org/wiki/Public_domain
+	format: eps -> svg, png
+	subdirectory: open_icon_library-devel/icons/aem
+
+Technische Regeln für Arbeitsstätten (DIN Standard) (din)
+	link: http://www.baua.de/nn_56926/de/Themen-von-A-Z/Arbeitsstaetten/ASR/pdf/ASR-A1-3.pdf
+	license: Public Domain
+	license link: http://en.wikipedia.org/wiki/Public_domain
+	format: pdf -> svg, png
+	subdirectory: open_icon_library-devel/icons/din
+ 
+FAMFAMFAM Flag Icons (famfamfam-flag)
+	link: http://www.famfamfam.com/lab/icons/flags/
+	license: Public Domain
+	license link: http://en.wikipedia.org/wiki/Public_domain
+	formats: png
+	subdirectory: open_icon_library-devel/icons/famfamfam-flag
+
+Map Symbols & Patterns for NPS Maps (nps)
+	link: http://www.nps.gov/hfc/carto/map-symbols.htm
+	aquired: 27 Dec 2009
+	license: Public Domain
+	license link: http://en.wikipedia.org/wiki/Public_domain
+	format: pdf -> png, svg
+	subdirectory:  open_icon_library-devel/icons/nps
+
+Open Clip Art Library (open_clip_art_library)
+	link: http://openclipart.org
+	license: Public Domain
+	license link: http://en.wikipedia.org/wiki/Public_domain
+	format: svg -> png
+	subdirectory: open_icon_library-devel/icons/open_clip_art_library
+
+Open Icon Library (homemade)
+	link: http://openiconlibrary.sourceforge.net/
+	license: Public Domain
+	license link: http://en.wikipedia.org/wiki/Public_domain
+	format: svg -> png
+	subdirectories: open_icon_library-devel/icons/homemade
+					open_icon_library-devel/icons_by_subject/homemade
+
+Tango Icon Library 0.8.90 (tango)
+	link: http://tango.freedesktop.org/Tango_Icon_Library
+	license: Public Domain 
+	License link: http://en.wikipedia.org/wiki/Public_domain
+	formats: svg, png
+	subdirectory: open_icon_library-devel/icons/tango
+
+Wikimedia Commons
+	link: http://commons.wikimedia.org/wiki/Main_Page
+	license: CC, GPL, PD, MIT, BSD (in separate directories)
+	License link: 
+	format: svg, png
+	subdirectory: open_icon_library-devel/icons/wiki_commons_bsd
+	subdirectory: open_icon_library-devel/icons/wiki_commons_mit
+	subdirectories: open_icon_library-devel/icons/wiki_commons_cc
+				open_icon_library-devel/icons_by_subject/wiki_commons_cc
+	subdirectories: open_icon_library-devel/icons/wiki_commons_gpl
+				open_icon_library-devel/icons_by_subject/wiki_commons_gpl
+	subdirectories: open_icon_library-devel/icons/wiki_commons_pd
+				open_icon_library-devel/icons_by_subject/wiki_commons_pd
+	See AUTHORS_wiki_commons* for details on each image with license info
+
+WPClipart (wpclipart)
+	link: http://www.wpclipart.com/
+	license: PD
+
+
+##################################################################
+## Licenses:
+
+
+Public Domain (PD)
+	link: http://en.wikipedia.org/wiki/Public_domain
+
+List of other Free/Open licenses (not used)
+	link: http://www.gnu.org/philosophy/license-list.html
+
+
+File List:
+
+File Name   /    Source    /

@@ -1,0 +1,220 @@
+
+WPClipart is a collection of high-quality, Public Domain 
+images tailored for use in word processors and output on 
+inkjet printers. The entire collection is included in the 
+WPClipart download (although the website is more frequently 
+updated, and has a search function atop every page.)
+
+The WPClipart website is:
+http://www.wpclipart.com
+
+
+WPClipart-7.0
+Contains 22,313 non-transparent PNG images.
+
+The full package contains all the clipart along with the 
+viewer/editor application. (This application is useful, but 
+is NOT necessary in order to use the clipart, as the images 
+are all in standard PNG format.)
+
+There are also packs of clip art categories, downloadable 
+with the viewer and packed in a Windows installer. 
+
+The viewer/editor also has a stand-alone installer.
+
+And finally, individual zip archives of each and every 
+category are also available for download.
+
+
+
+Terms of Use 
+
+These images are public domain, and that means they can be 
+used and edited for whatever purpose you wish, personal or 
+commercial. No attribution or linking is required.  the 
+sources for all the images are listed on the WPClipart legal 
+page http://www.wpclipart/legal.html. There is only one 
+modest exceptions to being able to do anything at all with 
+any of the images . . . 
+
+
+--- Minor Exception --------
+
+  My website is mine. I do not expect anyone to copy my 
+site or the image collection (in large part) to host online 
+or sell. This would compete with my site, draining what 
+revenue I generate through online ads. These pay for hosting 
+and modestly compensate me all the ink I use in test printing 
+and for the hundreds of hours I spend finding, creating and 
+editing images. 
+
+  That said, if you wish to include the collection within 
+a GPL-ed Linux distribution or create a package for that 
+distribution, you are more than welcome to do so. I am a 
+big proponent of Open Source and originally created a modest 
+version of the collection for my kids to use on Linux with 
+AbiWord. To be able to devote time to the project I need 
+the site to generate some revenue -- but first and foremost, 
+the clipart was made as a resource for school kids and others 
+to use without fear of copyright infringement and the risk of 
+running into all sorts of "untoward" pictures when searching 
+the web for graphics. I'd like to keep it that way.
+
+  If any school wishes to place the collection on a common 
+server for use within the school or district -- it would be 
+my honour for you to use the project in such a way.
+
+
+[VIEWER/EDITOR]
+
+WP Clipper (c)2005-2008 by Paul Sherman
+Distributed under the GNU GPL version 3
+
+WP Clipper is a cross-platform, hybrid image viewer and 
+image editing program. It was designed specifically with 
+WPClipart in mind, but it can be used to view/edit almost 
+any clipart or photograph. 
+
+It can accomplish several simple transforms (tilt/rotate) 
+and has several filters as well as color/brightness tweaking 
+abilities.It can then re-save the image in PNG or JPG format 
+or copy to the clipboard for immediate pasting into another 
+program. It can paste into OpenOffice, AbiWord, Windows Word 
+and WordPad. (So you can view images easily and paste them, 
+with some quick change, directly into your word-processing 
+application.
+
+
+
+[INSTALLATION]
+
+
+FOR WINDOWS:
+------------
+I distribute binaries for Windows, tested on 2000 and XP.
+(So you don't even need Python to run it on Windows.)
+
+Run the program "wpclipper",
+...or browse the WPClipart directoty tree.
+
+
+
+FOR LINUX:
+----------
+Use the source for Linux.
+
+For ease of use with the clipart collection, place the 
+wpclipper.py script in the wpclipart-x.x/viewer folder.
+In that way the viewer will open with the first directory 
+listedcontaining the clipart. Make sure the wpclipper.py 
+is set as executable.
+
+
+Look for WPClipper or WPClipart on my website:
+http://www.wpclipart.com
+
+If you use the source version you will need to have
+python >= 2.5
+pyGTK >= 2.10
+PIL >= 1.1.6 (Python Imaging Library)
+
+
+
+[Program background...]
+
+It was initially developed on Linux for my kids to use in 
+conjunction with AbiWord (which they used on Windows machines 
+in their middle school.) There were two reasons I made the 
+collection and program:
+
+1] I was uncomfortable with the kids doing image searches 
+    online. (See the site information below...)
+
+2] Linux did not have a little viewer/editor program that 
+    could copy and paste into AbiWord. Also, for ease of 
+	use I wanted the speed and simplicity of a viewer, 
+	but with some quick and easy editing for basic things 
+	like rotation, some color/contrast adjustments and 
+	for fun a few filters.
+    
+The program was first written using the wxWindows GUI 
+toolkit, as it was then needed for proper clipboard 
+functionality... but updates to pyGTK have made the use 
+of that toolkit possible, and has made the overall 
+software requirements for the program leaner, able to 
+be used on computers with slightly older hardware and 
+in most cases able to run without installing additional 
+dependencies -- as python-gtk is a much more commonly 
+installed development library. It is also available on 
+the OLPC machines.
+
+Making the program/collection available to OLPC machines, 
+as well as many commodity PCs in use for education, 
+fits precisely with the goals of WPClipart.
+
+
+[Clipart Site background...]
+
+The project started as a "safe" collection of clipart 
+for my kids. Their middle school used AbiWord, and they 
+were often searching for clipart that was both safe and 
+copyright-free. Since this proved to be both difficult 
+and hazardous (since image searches often yielded some 
+very untoward photos) I decided to create a  simple 
+collection for their use. My background as both a photographer 
+and a programmer lent itself well to the project, I put it 
+online with my software for others to download and as the 
+months passed it became very popular.
+
+I made thumbnail pages and put up some Google ads, 
+(made a bit of change every day), then suddenly the 
+Google image search engine spidered the site and my 
+server was a bit overwhelmed. After fielding 20-30k hits 
+a day for a year or so I ended up putting the collection on 
+a dedicated remote server, and the ad revenue takes care 
+of the expense. And by using good image tagging and 
+submitting XML sitemaps to Google with each update, the 
+custom search function really helps track images down.
+
+
+
+Regarding possible errors in PD status
+
+    Wpclipart.com respects the intellectual property 
+	rights of others, and I ask our users to do the same. 
+	If you believe that your copyrighted work has been copied 
+	and is accessible on the wpclipart.com web site in a way 
+	that constitutes copyright infringement, please send a 
+	notice providing the following information:
+
+       1. The electronic or physical signature of the 
+	      owner of the copyright or the person authorized 
+		  to act on the owner's behalf;
+
+       2. A description of the copyrighted work that you 
+	      claim has been infringed;
+
+       3. A description of where the material that you claim 
+	      is infringing is located, such as the URL where it 
+		  is posted;
+
+       4. Your name, address, telephone number and 
+	      email address;
+
+       5. A statement by you that you have a good faith 
+	      belief that the disputed use of the material is 
+		  not authorized by the copyright owner, its agent 
+		  or the law; and
+
+       6. A statement by you, made under penalty of perjury, 
+	      that the above information in your notice is accurate 
+		  and that you are the copyright owner or are 
+		  authorized to act on the copyright owner's behalf. 
+
+
+    Send this information to:
+
+    	Paul Sherman
+    	416 Stone Road
+    	Rochester, NY 14616
+    	

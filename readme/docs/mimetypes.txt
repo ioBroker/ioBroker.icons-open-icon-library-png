@@ -1,0 +1,681 @@
+http:--svn.apache.org-repos-asf/httpd/httpd/trunk/docs/conf/mime.types
+http:--rpm.pbone.net-index.php3-stat/4/idpl/12603561/com/kde4-kde3support-3.5.10-8.i486.rpm.html
+http:--plugindoc.mozdev.org-winmime.php
+http:--www.freedesktop.org-wiki/Software/shared-mime-info
+	 freedesktop.org.xml
+
+
+# Generic Offical
+application-x-executable
+audio-x-generic
+font-x-generic
+image-x-generic
+package-x-generic
+text-html
+text-x-generic
+text-x-generic-template
+text-x-script
+video-x-generic
+x-office-address-book
+x-office-calendar
+x-office-document
+x-office-presentation
+x-office-spreadsheet
+
+# Generic Unofficial
+application-octet-stream
+x-office-contact
+x-office-document-template
+x-office-drawing
+x-office-drawing-template
+x-office-presentation-template
+x-office-spreadsheet-template
+encrypted ?
+compressed ?
+locked ?
+unknown ?
+text-x-source-code ?
+text-x-source ?
+
+text-x-source-template ?
+
+
+
+
+
+# Binary
+application-x-object 			*.o 		object code
+application-x-sharedlib 		*.so 		shared library
+application-x-ms-dos-executable 	*.exe 	DOS-Windows executabl
+application-x-python-bytecode 	*.pyc *.pyo 	Python bytecode
+application-x-java 				*.class 	Java class
+application-octet-stream					Any Binary
+
+# Font
+application-x-tex-gf 			*.gf 	generic tex font file (metafont)
+application-x-tex-pk 			*.pk 	packed tex font file
+application-x-gz-font-linux-psf *.psf.gz 	Linux PSF console font (compressed)
+application-x-font-linux-psf 	*.psf 		Linux PSF console font
+application-x-font-bdf			BDF
+application-x-font-otf			OTF
+application-x-font-speedo
+application-x-font-ttf			TTF						Truetype font
+application-x-font-type1		afm pfa pfb pfm
+application-x-font-pcf 			*.pcf *.pcf.Z *.pcf.gz 	PCF font
+
+
+# Image
+application-illustrator 	*.ai 			Adobe Illustrator document
+application-pdf 			*.pdf	 		PDF document
+application-vnd.corel-draw 	*.cdr 			Corel Draw drawing
+image-bmp 					*.bmp 			Windows BMP image
+image-gif 					*.gif 			GIF image
+image-jpeg 					*.jpeg *.jpg *.jpe 	JPEG image
+image-png 					*.png 			PNG image
+image-svg+xml 				*.svg 			SVG image
+image-svg+xml-compressed 	*.svgz 			compressed SVG image
+image-tiff 					*.tif *.tiff 	TIFF image
+image-vnd.dwg 				*.dwg 			AutoCAD image
+image-vnd.dxf 				*.dxf 			DXF vector image
+image-vnd.djvu 				*.djvu *.djv 	DjVu image
+image-x-eps 				*.eps *.epsi *.epsf 	EPS image
+image-vnd.microsoft.icon 	*.ico 			Microsoft icon
+image-x-icns 				*.icns 			MacOS X icon
+image-x-xpixmap 			*.xpm 			XPM image
+image-x-xcf 				*.xcf 			GIMP image
+image-x-photo-cd 			*.pcd 			PCD image
+
+
+
+# Video
+video-x-matroska 			*.mkv 			Matroska video
+video-ogg 					*.ogv 			Ogg Video
+video-x-ogm+ogg 			*.ogm 			OGM video
+video-mp4 					*.mp4 *.m4v 	MPEG-4 video
+application-ram 			*.ram 			RealMedia Metafile
+video-vnd.rn-realvideo	 	*.rv *.rvx 		RealVideo document
+application-vnd.rn-realmedia 	*.rm *.rmj *.rmm *.rms *.rmx *.rmvb 	RealMedia document
+video-mpeg 			*.mpeg *.mpg *.mp2 *.mpe *.vob *.m2t 	MPEG video
+video-dv 			*.dv 	DV video
+video-quicktime 	*.qt *.mov *.moov *.qtvr 	QuickTime video
+video-x-ms-asf 		*.asf 					ASF video
+video-x-ms-wmv 		*.wmv 					Windows Media video
+video-x-msvideo 	*.avi *.divx 			AVI video
+
+
+
+
+
+# Audio
+audio-x-matroska 	*.mka 				Matroska audio
+application-x-ogg 	*.ogg *.spx 	Ogg Multimedia
+audio-ogg 			*.oga 			Ogg Audio
+
+audio-acc
+audio-ac3 			*.ac3 					Dolby Digital audio
+audio-x-aiff 		*.aiff *.aif *.aifc 	AIFF-Amiga-Mac audio
+audio-x-flac 		*.flac 				FLAC audio
+audio-midi 			*.mid *.midi *.kar 	MIDI audio
+audio-mp4 			*.m4a *.aac 		MPEG-4 audio
+audio-mp2 			*.mp2 				MP2 audio
+audio-mpeg 			*.mp3 *.mpga 		MP3 audio
+audio-x-mpegurl 	*.m3u *.m3u8 *.vlc 	MP3 audio (streamed)
+audio-vnd.rn-realaudio 	*.ra *.rax 		RealAudio document
+audio-x-wav 		*.wav 				WAV audio
+audio-x-ms-wma
+audio-x-vorbis+ogg
+text-vnd.abc
+
+
+# Devices-Special files
+inode-blockdevice 		block device  	
+inode-chardevice 		character device 	 	
+inode-directory 		folder  	
+inode-fifo 				pipe  	
+inode-mount-point 		mount point 	
+inode-socket 			socket 	
+inode-symlink 			symbolic link
+
+
+
+
+
+# Archive-Compressed
+application-x-bzip-compressed-tar 	*.tar.bz *.tar.bz2 *.tbz *.tbz2 	Tar archive (bzip-compressed)
+application-vnd.ms-cab-compressed 	*.cab 		Microsoft Cabinet archive
+application-x-compress 				*.Z 		UNIX-compressed file
+application-x-compressed-tar 	*.tar.gz *.tgz 	Tar archive (gzip-compressed)
+application-x-cpio 				*.cpio 			CPIO archive
+application-x-cpio-compressed 	*.cpio.gz 		CPIO archive (gzip-compressed)
+application-x-deb 				*.deb 		Debian package
+application-x-gzip 				*.gz 		Gzip archive
+application-x-java-archive 		*.jar 		Java archive
+application-x-lhz 				*.lhz 		LHZ archive
+application-x-lzma 				*.lzma 		LZMA archive
+application-x-lzma-compressed-tar 	*.tar.lzma *.tlz 	Tar archive (LZMA-compressed)
+application-x-rar 				*.rar 			RAR archive
+application-x-tar 				*.tar *.gtar 	Tar archive
+application-x-rpm 				*.rpm 			RPM package
+application-zip 				*.zip 			Zip archive
+
+
+
+
+
+# Code-Scripts
+application-x-csh 			*.csh 			C shell script
+application-x-java 			*.class 		Java class
+application-javascript	 	*.js 			JavaScript program
+text-x-java 				*.java 			Java source code
+application-x-perl 			*.pl *.pm *.al *.perl 	Perl script
+application-x-php 			*.php *.php3 *.php4 	PHP script
+application-x-shellscript 	*.sh 			shell script
+application-x-ruby 			*.rb 			Ruby script
+application-xhtml+xml 		*.xhtml 		XHTML page
+application-x-awk
+text-x-yacc				*.y
+application-x-lisp			*.lisp *.lsp *.gcl *.cl
+text-css 				*.css *.CSSL 					CSS stylesheet
+text-x-c++hdr 			*.hh *.hp *.hpp *.h++ *.hxx 	C++ header
+text-x-c++src 			*.cpp *.cxx *.cc *.C *.c++	 	C++ source code
+text-x-chdr 			*.h 							C header
+text-x-cmake 			*.cmake CMakeLists.txt 			CMake source code
+text-x-csrc 			*.c 					C source code
+text-x-csharp 			*.cs 					C# source code
+text-x-fortran 			*.f *.f90 *.f95 *.for 	Fortran source code
+text-x-emacs-lisp 		*.el 					Emacs Lisp source code
+text-html 				*.html *.htm 			HTML document
+text-mathml
+text-sgml
+text-troff
+text-x-adasrc
+text-x-dtd
+text-x-hex
+text-x-haskell 			*.hs 		Haskell source code
+text-x-java 			*.java 		Java source code
+text-x-literate-haskell 	*.lhs 	LHS source code
+text-x-makefile 		Makefile makefile GNUmakefile Makefile 	
+text-x-moc 				*.moc 			Qt MOC file
+text-x-matlab 			*.m 			MATLAB script-function
+text-x-pascal 			*.p *.pas 		Pascal source code
+text-x-patch 			*.diff *.patch 	differences between files
+text-x-python 			*.py 			Python script
+text-x-lua 				*.lua 			Lua script
+text-x-tcl 				*.tcl *.tk 		Tcl script
+application-xml 		*.xml *.xbl 	XML document
+text-x-sql	?
+text-x-lilypond
+text-x-opml+xml 		*.opml 		OPML syndication feed
+text-x-ebuild			*.ebuild	Gentoo Ebuild
+text-x-asm				ASM S
+
+
+
+# Text
+text-plain		 		*.txt *.asc *,v 	plain text document
+text-x-authors 			AUTHORS 		author list
+text-x-changelog 		ChangeLog 		ChangeLog document
+text-x-copying 			COPYING 		license terms
+text-x-credits 			CREDITS 		author credits
+text-x-install 			INSTALL 		installation instructions
+text-x-todo
+text-x-log 				*.log 			application log
+text-x-readme 			 README 		document
+text-x-nfo 				*.nfo 			NFO document
+text-rtf ?
+text-rdf ?
+text-vcalender
+text-calender
+text-x-vcard
+application-x-lyx 		*.lyx 			LyX document
+
+
+
+
+
+# TeX
+text-x-bibtex 		*.bib 	BibTeX document
+text-x-tex 		*.tex *.ltx *.sty *.cls *.dtx *.ins *.latex 	TeX document
+text-x-texinfo 		*.texi *.texinfo 	TeXInfo document
+application-x-dvi
+
+
+
+
+
+
+# Office
+application-x-abiword 	*.abw *.abw.CRASHED *.abw.gz *.zabw 	AbiWord doc
+application-rtf 		*.rtf 		RTF document
+application-postscript 	*.ps 		PS document
+application-vnd.ms-excel 	*.xls *.xlc *.xll *.xlm *.xlw *.xla *.xlt *.xld 	Excel spreadsheet
+application-msword 		*.doc 		Word document
+application-vnd.ms-powerpoint 	*.ppz *.ppt *.pps *.pot 	PowerPoint presentation
+application-vnd.stardivision.calc 		*.sdc 	StarCalc spreadsheet
+application-vnd.stardivision.chart	 	*.sds 	StarChart chart
+application-vnd.stardivision.draw 		*.sda 	StarDraw drawing
+application-vnd.stardivision.impress 	*.sdd *.sdp 	StarImpress presentation
+application-vnd.stardivision.math 		*.smf 	StarMath formula
+application-vnd.stardivision.writer 	*.sdw *.vor *.sgl 	StarWriter document
+
+application-vnd.sun.xml.calc 			*.sxc 	OpenOffice Calc spreadsheet
+application-vnd.sun.xml.calc.template 	*.stc 	OpenOffice Calc templat
+application-vnd.sun.xml.draw 			*.sxd 	OpenOffice Draw drawing
+application-vnd.sun.xml.draw.template 	*.std 	OpenOffice Draw template
+application-vnd.sun.xml.impress 		*.sxi 	OpenOffice Impress presentation
+application-vnd.sun.xml.impress.template 	*.sti 	OpenOffice Impress templateapplication-vnd.sun.xml.impress.template 	*.sti 	OpenOffice Impress template
+application-vnd.sun.xml.math 			*.sxm 	OpenOffice Math formula
+application-vnd.sun.xml.writer 			*.sxw 	OpenOffice Writer document
+application-vnd.sun.xml.writer.global 	*.sxg 	OpenOffice Writer global document
+application-vnd.sun.xml.writer.template *.stw 	OpenOffice Writer template
+
+application-vnd.oasis.opendocument.text *.odt 	ODT document
+application-vnd.oasis.opendocument.text-flat-xml 	*.fodt 	ODT document (Flat XML)
+application-vnd.oasis.opendocument.text-template 	*.ott 	ODT template
+application-vnd.oasis.opendocument.text-web 		*.oth 	OTH template
+application-vnd.oasis.opendocument.text-master 		*.odm 	ODM document
+application-vnd.oasis.opendocument.graphics 		*.odg 	ODG drawing
+application-vnd.oasis.opendocument.graphics-flat-xml 	*.fodg 	ODG drawing (Flat XML)
+application-vnd.oasis.opendocument.graphics-template 	*.otg 	ODG template
+application-vnd.oasis.opendocument.presentation 		*.odp 	ODP presentation
+application-vnd.oasis.opendocument.presentation-flat-xml 	*.fodp 	ODP presentation (Flat XML)
+application-vnd.oasis.opendocument.presentation-template 	*.otp 	ODP template
+application-vnd.oasis.opendocument.spreadsheet 	*.ods 	ODS spreadsheet
+application-vnd.oasis.opendocument.spreadsheet-flat-xml 	*.fods 	ODS spreadsheet (Flat XML)
+application-vnd.oasis.opendocument.spreadsheet-template 	*.ots 	ODS template
+application-vnd.oasis.opendocument.chart 			*.odc 	ODC chart
+application-vnd.oasis.opendocument.chart-template 	*.otc 	ODC template
+application-vnd.oasis.opendocument.formula 			*.odf 	ODF formula
+application-vnd.oasis.opendocument.formula-template 	*.otf 	ODF template
+application-vnd.oasis.opendocument.database 		*.odb 	ODB database
+application-vnd.oasis.opendocument.image 			*.odi 	ODI image
+application-vnd.openofficeorg.extension 	*.oxt 	OpenOffice.org extensio
+application-vnd.wordperfect 	*.wp *.wp4 *.wp5 *.wp6 *.wpd *.wpp 	WordPerfect document
+application-x-karbon 				*.karbon 	Karbon14 drawing
+application-x-kchart 				*.chrt 	KChart chart
+application-x-kexi-connectiondata 	*.kexic 	Kexi settings for database server connection
+application-x-kexiproject-shortcut 	*.kexis 	shortcut to Kexi project on database server
+application-x-kexiproject-sqlite3 	*.kexi 	Kexi database file-based project
+application-x-kformula 				*.kfo 		KFormula formula
+application-x-killustrator 			*.kil 		KIllustrator drawing
+application-x-kivio 				*.flw 		Kivio flowchart
+application-x-kontour 				*.kon 		Kontour drawing
+application-x-kpresenter 			*.kpr *.kpt 	KPresenter presentation
+application-x-krita 				*.kra 		Krita document
+application-x-kspread 				*.ksp 		KSpread spreadsheet
+application-x-kugar 				*.kud 		Kugar document
+application/x-vnd.kde.kugar.mixed 	*.kug 	Kugar archive
+application/x-kudesigner 	*.kut 	Kugar report template
+kugar template	? 	*.ktf 
+kugar data		?	*.kdf
+application-x-kword 				*.kwd *.kwt 	KWord document
+application-x-applix-spreadsheet
+application-x-applix-word
+application-x-kig
+application-x-kpovmodeler 			*.kpm 		KPovModeler scene
+audio-x-krec						*.krec		Krec file
+
+
+
+# Message
+message
+message-news
+message-rfc822		*.eml		Email
+
+
+#Other
+application-x-zerosize
+
+application-x-kcsrc 	*.kcsrc 	KDE color scheme
+application-x-kgetlist		.kgt	KGet download list
+application-x-troff-man 	*.man 	Troff document (with manpage macros)
+application-x-troff-man-compressed 		manual page (compressed)
+application-x-trash 		*~ *% *.bak *.old *.sik 	backup file
+application-x-shockwave-flash 	*.swf *.spl 	Shockwave Flash file
+application-x-dia-diagram 	*.dia 	Dia diagram
+application-x-desktop 		*.desktop *.kdelnk 	desktop configuration file
+application-x-theme			*.theme			Theme file
+application-x-core		 	core 	program crash data
+application-x-blender 		*.blender *.blend *.BLEND 	Blender scene
+application-x-cue 			*.cue 	CD image cuesheet
+application-x-bittorrent 	*.torrent 	BitTorrent 
+application-x-cd-image 		*.iso *.iso9660 	raw CD image
+application-x-cda								Audio CD track
+text-x-gettext-translation 	*.po 	translation file
+text-x-gettext-translation-template 	*.pot 	translation template
+application-x-cdrdao-toc 	*.toc 				CD Table Of Contents
+application-x-gnome-app-info 
+application-vnd.mozilla.xul+xml 	*.xul 	XUL interface document
+
+x-content-video-vcd 		Video CD 	
+x-content-video-svcd 		Super Video CD 	
+x-content-video-dvd 		video DVD 			
+x-content-audio-cdda 		audio CD 		
+x-content-blank-cd 			blank CD disc 	
+x-content-blank-dvd 		blank DVD disc 		
+x-content-blank-bd 			blank Blu-ray disc 		
+x-content-blank-hddvd 		blank HD DVD disc 	
+x-content-audio-dvd 		audio DVD 		
+x-content-video-bluray 		Blu-ray video disc 	 	
+x-content-video-hddvd 		HD DVD video disc
+
+
+______________________________________________________________________
+
+
+# Binaries
+application-x-executable exec
+application-x-object source_o
+application-x-msdos-program			EXE COM BAT DLL
+application-octet-stream			bin bpk deploy dist distz dmg dms dump elc iso lha lrf lzh pkg so
+
+
+# Archives
+package-x-generic 						generic package
+application-zip							ZIP		DOS-PC - Pkzipped archive
+application-x-redhat-package-manager 	RPM
+application-x-debian-package			DEB
+application-x-cpio				cpio		POSIX CPIO format
+application-x-bccpio			bccpio		Old CPIO format
+application-x-gzip
+application-x-gtar				gtar		Gnu tar format
+application-x-tar				tar			4.3BSD tar format
+application-x-ustar				ustar		POSIX tar format
+application-x-shar				shar		UNIX sh shell archive
+application-rar					rar
+application-x-apple-diskimage		dmg
+application-mac-binhex40 			hqx 		Macintosh Binhexed archive
+application-x-macbinary				bin			Macintosh Macbinary
+application-x-java-archive			jar
+application-x-7z
+application-x-ace
+application-x-arc
+application-x-arj
+application-x-bzip					BZ
+application-x-bzip2					BZ2 BOZ
+application-x-archive
+application-x-zoo					ZOO
+application-x-lzma-compressed-tar
+
+
+
+# Fonts
+font-x-generic 			generic font
+application-x-font-bdf					BDF
+application-x-font-ghostscript			GSF
+application-x-font-linux-psf			PSF
+application-x-font-otf					OTF
+application-x-font-pcf					PCF
+application-x-font-snf					SNF
+application-x-font-speedo
+application-x-font-ttc
+application-x-font-ttf					TTF			Truetype font
+application-x-font-type1				afm pfa pfb pfm
+application-x-gettext
+
+#images
+image-x-generic 		generic image
+image-cgm
+image-g3fax
+image-gif					gif
+image-ief					ief
+image-jpeg					jpeg jpg jpe
+image-naplps
+image-pcx					pcx
+image-png					png				Portable Network Graphics
+image-prs.btif
+image-prs.pti
+image-svg+xml				svg svgz
+image-svg+xml-compressed	SVGZ
+image-tiff					tiff tif
+image-vnd.cns.inf2
+image-vnd.djvu				djvu djv
+image-x-cmu-raster			ras			CMU raster 
+image-x-coreldraw			cdr
+image-x-coreldrawpattern	pat
+image-x-coreldrawtemplate	cdt
+image-x-corelphotopaint		cpt
+image-x-icon				ico
+image-x-jg					art
+image-x-jng					jng
+image-x-ms-bmp				bmp			Microsoft Windows bitmap
+image-x-photoshop			psd
+image-x-portable-anymap		pnm
+image-x-portable-bitmap		pbm
+image-x-portable-graymap	pgm
+image-x-portable-pixmap		ppm
+image-x-rgb					rgb
+image-x-xbitmap				xbm			X-Windows bitmap (b-w) 
+image-x-xpixmap				xpm			X-Windows pixelmap (8-bit color) 
+image-x-xwindowdump			xwd			X Windowdump format
+application-x-xcf			xcf
+application-x-xfig			fig
+image-x-photoshop			psd
+application-postscript_old				postscript printers
+application-postscript		ps ai eps
+image-x-pict				pict 		Macintosh PICT format
+ image-x-dwg 				dwg			AutoCad Drawing (SoftSource)
+image-x-dxf 				dxf			AutoCad DXF file (SoftSource)
+image-x-eps					eps epsi epsf	Encapusulated PostScript
+
+
+
+# Audio 
+audio-x-generic				generic audio
+audio-mpeg					mpga mpega mp2 mp3 m4a	MPEG audio
+audio-x-mpeg2				mp2a mpa2		MPEG-2 audio
+audio-mpegurl				m3u
+audio-basic					au snd		"basic"audio - 8-bit u-law PCM
+audio-x-ms-wma				wma
+audio-x-ms-asx
+audio-x-mpegurl				m3u
+audio-x-pn-realaudio		ra rm ram
+audio-x-realaudio			ra
+audio-x-wav					wav			Microsoft audio 
+audio-midi					MID MIDI KAR
+audio-x-vorbis
+audio-x-vorbis+ogg
+audio-x-aiff				aif aifc aiff	Macintosh audio format (AIpple)
+audio-x-aac					aac
+audio-ogg					oga ogg spx
+application-x-audacity-project
+
+
+# Video
+video-x-generic 			generic video
+video-mpeg					m1v m2v mpe mpeg mpg	MPEG video
+video-mpeg2					mpv2 mp2v		MPEG-2 video
+video-mp4					mp4 mp4v mpg4
+video-dv					dif dv
+video-h261					h261
+video-h263					h263
+video-h264					h264
+video-quicktime				qt mov			Macintosh Quicktime
+video-ogg					ogv
+video-vnd.rn-realvideo
+video-x-ms-wm				wm
+video-x-m4v					m4v
+video-x-matroska
+video-x-mng					mng
+video-x-ms-asf				asf asx
+video-x-ms-wm				wm
+video-x-ms-wmv				wmv
+video-x-ms-wmx				wmx
+video-x-ms-wvx				wvx
+video-x-msvideo				avi				Microsoft video 
+video-x-ogm
+video-x-sgi-movie			movie			SGI Movie format
+video-x-theora
+
+
+# Devices
+inode-chardevice
+inode-blockdevice
+inode-directory-locked
+inode-directory
+inode-fifo
+inode-socket
+
+# Code
+text-x-generic			txt
+text-x-generic-template template_source NEW
+text-x-source			generic source code
+text-x-script 			generic shellscript
+application-x-shellscript generic shellscript
+text-x-asm				ASM S
+text-javascript			JS					Javascript program 
+text-vbscript								VBScript program 
+text-x-java				JAVA
+text-x-java-source		J JAVA
+text-x-pascal			P PAS
+text-x-python 			PY
+text-x-csrc 			C
+text-x-c++src 			CPP C++ CXX CC
+text-x-chdr 			H
+text-x-c++hdr			H++ HPP HXX HH
+text-sgml				sgm sgml		SGML documents (RFC 1874)
+text-html 				HTM HTML SHTML
+text-x-cmake
+text-x-csharp
+text-css				CSS				Cascading Stylesheets 
+text-x-csh				CSH				UNIX c-shell program
+text-x-makefile			Makefile
+text-x-moc				MOC
+text-x-perl				PL PM			Perl program
+text-x-tcl				TLC TK			Tcl program
+text-x-fortran			f f77 f90 for
+text-x-haskell			hs
+text-x-sh				SH				UNIX bourne shell program
+text-scriptlet			SCT WSC
+text-mathml				MML
+text-x-patch
+text-x-yacc				Y YY			bison-yacc file (unoffical)
+application-xhtml+xml				xht xhtml
+application-xml					xml xsl
+application-x-httpd-php				phtml pht php
+application-x-httpd-php-source			phps
+application-x-httpd-php3			php3
+application-x-httpd-php3-preprocessed		php3p
+application-x-httpd-php4			php4
+text-x-haskell						hs
+text-x-hex
+text-x-patch					pathch diff
+application-x-lisp				L LISP
+application-x-troff				t tr roff	Troff document
+application-x-troff-ms			ms 			Troff document with MS macros
+application-x-troff-me			me 			Troff document with ME macros
+application-x-troff-man			man			Troff document with MAN macros
+text-x-opml+xml
+application-x-ruby				RB			ruby code
+
+
+
+
+# Text non-code
+text-x-generic
+text-x-generic-template
+text-x-preview
+text-plain				asc conf def diff in list log pot text txt
+text-calendar						ics icz ifb
+text-x-log
+text-x-diff
+text-x-bibtex				bib
+text-x-latex				latex				LaTeX document 
+text-x-tex					cls ltx sty tex		Tex-LateX document
+application-x-texinfo		texinfo texi 		GNU TexInfo document
+application-x-dvi			dvi					TeX dvi format 
+text-texmacs				TM TS
+application-x-tex-gf		GF
+application-x-tex-pk		PK
+text-x-authors
+text-x-copying
+text-x-changelog
+text-x-install
+text-x-nfo
+text-x-readme
+text-x-vcalendar						vcs
+text-x-vcard						vcf
+text-x-po
+
+# Office files
+x-office-address-book 	generic address book NONE
+x-office-calendar 		generic calendar
+x-office-document 		generic document
+x-office-document-template
+x-office-presentation 	generic presentation
+x-office-spreadsheet 	generic spreadsheet 
+x-office-drawing
+x-office-drawing-template
+x-office-contact
+application-certificate
+application-x-karbon	
+application-x-kchart
+application-x-kformula
+application-x-kivio
+application-x-kspread	ksp
+application-x-kword
+application-x-kugar						KUD
+application-x-krita					KRA
+application-x-kpresenter						kpr kpt
+application-x-vnd.kde.kexi
+application-x-vnd.kde.kplato
+application-vnd.sun.xml.calc				sxc
+application-vnd.sun.xml.calc.template		stc
+application-vnd.sun.xml.draw				sxd
+application-vnd.sun.xml.draw.template		std
+application-vnd.sun.xml.impress				sxi
+application-vnd.sun.xml.impress.template	sti
+application-vnd.sun.xml.math				sxm
+application-vnd.sun.xml.writer				sxw
+application-vnd.sun.xml.writer.global		sxg
+application-vnd.sun.xml.writer.template		stw
+application-vnd.visio				vsd
+application-x-abiword				abw
+application-vnd.ms-excel			xls xlb xlt
+application-vnd.ms-powerpoint			ppt pps
+application-vnd.ms-word
+application-vnd.oasis.opendocument.chart
+application-vnd.oasis.opendocument.formula
+application-vnd.oasis.opendocument.graphics
+application-vnd.oasis.opendocument.graphics-template
+application-vnd.oasis.opendocument.image
+application-vnd.oasis.opendocument.presentation
+application-vnd.oasis.opendocument.presentation-template
+application-vnd.oasis.opendocument.spreadsheet
+application-vnd.oasis.opendocument.spreadsheet-template
+application-vnd.oasis.opendocument.text
+application-vnd.oasis.opendocument.text-template
+application-vnd.ms-excel			
+application-msaccess			mdb
+application-msword				doc dot
+application-rtf					rtf			Microsoft Rich Text Format
+
+
+
+# Other
+application-mathematica			nb
+application-pdf					pdf
+application-pgp-encrypted
+application-pgp-keys
+application-pgp-signature		pgp
+application-x-shockwave-flash	swf swfl
+
+application-rdf+xml				rdf
+application-rss+xml				rss
+application-x-bittorrent		torrent
+
+application-mshelp				hlp			Help Docs(Microsoft)
+application-vnd.mozilla.xul+xml	XUL
+application-applixware			AW
+application-atom+xml			atom
+application-atomcat+xml			atomcat
+application-atomsvc+xml			atomsvc
+application-x-core
+application-x-trash				~ % bak old sik
+application-x-director 						Macromedia Shockwave
+# Messages	(mostly email)
+message
+message-news					Message containing USENET news
+message-rfc822		eml mime	MIME message
+message-http					HTTP message 
+

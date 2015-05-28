@@ -1,0 +1,8 @@
+Created by:
+
+
+Modified by Jeff Israel:
+method
+eps2svg
+mogrify -resize 350x350! -format png -background none *.svg
+mogrify -crop 256x256+47+47 *.png

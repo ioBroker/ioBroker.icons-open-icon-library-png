@@ -1,0 +1,124 @@
+################################################################
+##          Open Icon Library Naming Specifications           ##
+################################################################
+
+Table of Contents:
+
+
+
+################################################################
+#  1: Rules
+
+################################
+# 1.1: Naming Rules
+1.1.1: All lowercase charators, tr/[A-Z]/[a-z]/ 
+1.1.2: All Chartactors Alphanumeric, underscore, or dash, [a-z0-9_-]
+1.1.3: Spaces are underscores, s/ /_/g
+1.1.3: Application names, named in the format given by developers, except 
+	follows rules above
+1.1.4
+http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html
+################################
+# 1.2: Placement Rules
+1.2.1 All Icons with size Not equal to 8x8, 16x16, 22x22, 32x32, 48x48, 
+	64x64, 128x128, or 256x256 must be placed in the 'odd' directory
+
+
+################################
+# 1.3: Documentation Rules
+
+
+
+################################################################
+# 2: Directory format
+
+###############################
+# 2.2: Package Directories
+
+open_icon_library-devel/
+open_icon_library-devel-CC/
+open_icon_library-devel-GPL/
+open_icon_library-devel-PD/
+open_icon_library-standard/
+open_icon_library-full/
+open_icon_library-CC/
+open_icon_library-GPL/
+open_icon_library-PD/
+
+
+###############################
+# 2.2: Root Directory
+
+# 2.3.1: Developers Root Directories
+open_icon_library-devel/
+open_icon_library-devel/README.txt
+open_icon_library-devel/LICENCES.txt
+open_icon_library-devel/docs/
+open_icon_library-devel/icons/
+open_icon_library-devel/icon_tools/
+
+# 2.3.1: Release Root Directories
+open_icon_library-standard/
+open_icon_library-standard/README.txt
+open_icon_library-standard/LICENCES.txt
+open_icon_library-standard/docs/
+open_icon_library-standard/icons/
+
+
+
+###############################
+# Developers Icon Directory Format
+
+# Definitions
+[SourcesName] = Abriviated Sorce name, defined by subdirectory 
+	in LICENSES.txt 
+[FileType] = file extentions of icons.  ie. svg, png, xpm, ico, icns
+[IconCategory] = Category of icons. ie. actions, apps, mimetypes, etc
+[IconFiles] = Icons filenames
+[IconSize] = Icons WidthxHeight.  ie. 8x8, 16x16, 32x32
+... = "open_icon_lib"
+
+# Directory Structure for Scalable files
+...ary-devel/icons/[SourcesName]/[FileType]/[IconCategory]/[IconFiles]
+
+# Directory Structure for Non-Scalable files
+...ary-devel/icons/[SourcesName]/[FileType]/[IconSize]/[IconCategory]/[IconFiles]
+
+
+###############################
+# Release Icon Directory Format
+
+# Definitions
+[FileType] 	= file extentions of icons.  ie. svg, png, xpm, ico, icns
+[IconCategory] = Category of icons. ie. actions, apps, mimetypes, etc
+[IconFiles] = Icons filenames
+[IconSize] 	= Icons WidthxHeight.  ie. 8x8, 16x16, 32x32
+... = "open_icon_lib"
+* 	= Release type. ie. standard, full, CC, GPL, PD, etc
+
+
+# Directory Structure for Scalable files
+...ary-*/icons/[FileType]/[IconCategory]/[IconFiles]
+
+# Directory Structure for Non-Scalable files
+...ary-*/icons/[FileType]/[IconSize]/[IconCategory]/[IconFiles]
+
+
+
+#################################
+# Icons naming: category others
+
+# prefixes
+transportation
+transportation-plane
+transportation-bike
+food
+plant
+plant-flower
+plant-tree
+person
+person-girl
+person-boy
+tool
+
+

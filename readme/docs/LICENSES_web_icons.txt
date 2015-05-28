@@ -1,0 +1,113 @@
+######################################################
+#                Web Icon Licenses                   #
+######################################################
+
+Open Icon Library currently uses icons from many different 
+sources, using various free/open licenses.  This file lists the 
+various sources and their respective licenses.  For more 
+detailed documentation of the icons licenses, authors and 
+file lists see the docs/ folder. 
+
+Icons from the various sources are stored in the developers 
+package, open_icon_library-devel. Each source is place in a 
+separate directories, whose name is listed below.  To see 
+which icons came from which packages look it 
+the 'docs' directory for the FILELIST files, or download the 
+developers package.  To see how they are combined download the 
+developers package or icon_tools package, and look at 
+the icon-tools/make_directories_stage*.sh scripts.
+
+In addition these documents, each file is embeded with its 
+license and source in the metadata.
+
+
+######################################################
+# Links to Free/Open Licenses used
+
+Creative Commons Attribution 1.0 Generic (CC-BY 1.0)
+	link: http://creativecommons.org/licenses/by/1.0/
+
+Creative Commons Attribution 2.0 Generic (CC-BY 2.0)
+	link: http://creativecommons.org/licenses/by/2.0/
+
+Creative Commons Attribution 2.5 Generic (CC-BY 2.5)
+	link: http://creativecommons.org/licenses/by/2.5/
+
+Creative Commons Attribution 3.0 Unported (CC-BY 3.0)
+	link: http://creativecommons.org/licenses/by/3.0/
+
+Creative Commons Attribution-Share Alike 1.0 Generic (CC-BY-SA 1.0)
+	link: http://creativecommons.org/licenses/by-sa/1.0/
+
+Creative Commons Attribution-Share Alike 2.0 Generic (CC-BY-SA 2.0)
+	link: http://creativecommons.org/licenses/by-sa/2.0/
+
+Creative Commons Attribution-Share Alike 2.5 Generic (CC-BY-SA 2.5)
+	link: http://creativecommons.org/licenses/by-sa/2.5/
+
+Creative Commons Attribution-Share Alike 3.0 Unported (CC-BY-SA 3.0)
+	link: http://creativecommons.org/licenses/by-sa/3.0/
+
+GNU General Public License 2 (GPLv2)
+	link: http://creativecommons.org/licenses/GPL/2.0/
+
+GNU Lesser General Public License 2.1 (LGPL)
+	link: http://creativecommons.org/licenses/LGPL/2.1/
+
+MIT License (MIT)
+	link: http://creativecommons.org/licenses/MIT/
+
+BSD License (BSD)
+	link: http://creativecommons.org/licenses/BSD/
+
+Public Domain (PD)
+	link: http://en.wikipedia.org/wiki/Public_domain
+
+List of other Free/Open licenses
+	link: http://www.gnu.org/philosophy/license-list.html
+
+
+ 
+#####################################################
+# Licenses used by icon's sources
+#
+
+Creative Commons 
+	link: http://creativecommons.org/about/downloads
+	license: CC-BY 3.0 
+	License link: http://creativecommons.org/licenses/by/3.0/
+	formats: svg, png
+	subdirectory: open_icon_library-devel/icons/cc
+
+fineicons
+	link: http://www.fineicons.com/en/free-icons/credit-cards/
+	license: CC-BY-SA-2.0-UK
+	License link: http://creativecommons.org/licenses/by-sa/2.0/uk/
+	formats: gif -> png
+	subdirectory: open_icon_library-devel/web-icons/fineicons
+
+Open Icon Library (Homemade)
+	link: http://openiconlibrary.sourceforge.net/
+	license: Public Domain
+	License link: http://en.wikipedia.org/wiki/Public_domain
+	format: svg -> png
+	subdirectory: open_icon_library-devel/icons/homemade
+
+WPClipart
+	link: http://www.wpclipart.com/
+	license: PD
+	License link: http://en.wikipedia.org/wiki/Public_domain
+	formats: png
+	subdirectory: open_icon_library-devel/icons/wpclipart
+
+Wikimedia Commons
+	link: http://commons.wikimedia.org/wiki/Main_Page
+	license: CC, GPL, PD, MIT, BSD (in seperate directories)
+	License link: 
+	format: svg, png
+	subdirectory: open_icon_library-devel/icons/wiki_commons_bsd
+	subdirectory: open_icon_library-devel/icons/wiki_commons_mit
+	subdirectory: open_icon_library-devel/icons/wiki_commons_cc
+	subdirectory: open_icon_library-devel/icons/wiki_commons_gpl
+	subdirectory: open_icon_library-devel/icons/wiki_commons_pd
+	See AUTHORS_wiki_commons* for details on each image with license info

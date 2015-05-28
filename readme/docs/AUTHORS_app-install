@@ -1,0 +1,5589 @@
+###########################################################
+## Description
+##
+
+
+Licenses and Authors of these icons are from many different debian packages.  Below is a list of the icons name and its respective package.  The easiest way to find the authors and licenses of an icon is:
+
+  *Go to: http://www.debian.org/distrib/packages#search_packages
+  *Search for the package
+  *Click one of the packages.  Example "lenny (stable)"
+  *Click the, "Copyright File", link on the left
+  *There you go
+
+ These files are collected from various packages in Debian. Please take a look
+at the copyright file of the package to find out the exact license
+
+ 
+ Each sections has the following keys:
+ 	File - The name of the icon file in /usr/share/app-install/icons/
+ 	Location - The path of the icon inside the package
+ 	Package - The name of the package the file has been extracted of
+ 
+ It may also contain the following keys:
+ 	Orig-Location: The initial filename, without following symlinks, etc.
+ 	Orig-Package: The initial package, without following symlinks.
+
+
+#############################################################
+## Files
+## 
+
+File: Azureus.png
+Location: usr/share/pixmaps/Azureus.png
+Package: azureus
+
+File: CaRMetal.png
+Location: usr/share/pixmaps/CaRMetal.png
+Package: carmetal
+
+File: DeSmuME.xpm
+Location: usr/share/pixmaps/DeSmuME.xpm
+Package: desmume
+
+File: FBReader.png
+Location: usr/share/pixmaps/FBReader.png
+Package: fbreader
+
+File: LabPlot.png
+Location: usr/share/icons/hicolor/48x48/apps/LabPlot.png
+Package: labplot
+
+File: RLPlot.xpm
+Location: usr/share/pixmaps/RLPlot.xpm
+Package: rlplot
+
+File: TagTool.png
+Location: usr/share/icons/hicolor/48x48/apps/TagTool.png
+Package: tagtool
+
+File: TeXmacs.xpm
+Location: usr/share/pixmaps/TeXmacs.xpm
+Package: texmacs-common
+
+File: Terminal.png
+Location: usr/share/icons/hicolor/48x48/apps/Terminal.png
+Package: xfce4-terminal
+
+File: Thunar.png
+Location: usr/share/icons/hicolor/48x48/apps/Thunar.png
+Package: thunar-data
+Orig-Package: thunar
+
+File: _usr_lib_GNUstep_Applications_AClock.app_Resources_AClock.tiff
+Location: usr/lib/GNUstep/Applications/AClock.app/Resources/AClock.tiff
+Package: aclock.app
+
+File: _usr_lib_GNUstep_Applications_BioCocoa.app_Resources_biococoa.tiff
+Location: usr/lib/GNUstep/Applications/BioCocoa.app/Resources/biococoa.tiff
+Package: biococoa.app
+
+File: _usr_lib_GNUstep_Applications_Camera.app_Resources_Camera.png
+Location: usr/lib/GNUstep/Applications/Camera.app/Resources/Camera.png
+Package: camera.app
+
+File: _usr_lib_GNUstep_Applications_Cenon.app_Resources_Cenon.tiff
+Location: usr/lib/GNUstep/Applications/Cenon.app/Resources/Cenon.tiff
+Package: cenon.app
+
+File: _usr_lib_GNUstep_Applications_Charmap.app_Resources_Charmap.png
+Location: usr/lib/GNUstep/Applications/Charmap.app/Resources/Charmap.png
+Package: charmap.app
+
+File: _usr_lib_GNUstep_Applications_DictionaryReader.app_Resources_dict.png
+Location: usr/lib/GNUstep/Applications/DictionaryReader.app/Resources/dict.png
+Package: dictionaryreader.app
+
+File: _usr_lib_GNUstep_Applications_EdenMath.app_Resources_EdenMath.tiff
+Location: usr/lib/GNUstep/Applications/EdenMath.app/Resources/EdenMath.tiff
+Package: edenmath.app
+
+File: _usr_lib_GNUstep_Applications_GNUWash.app_Resources_GNUTimer.tiff
+Location: usr/lib/GNUstep/Applications/GNUWash.app/Resources/GNUTimer.tiff
+Package: gnuwash.app
+
+File: _usr_lib_GNUstep_Applications_GTAMSAnalyzer.app_Resources_largeApp.tif
+Location: usr/lib/GNUstep/Applications/GTAMSAnalyzer.app/Resources/largeApp.tif
+Package: gtamsanalyzer.app
+
+File: _usr_lib_GNUstep_Applications_Gorm.app_Resources_Gorm.tiff
+Location: usr/lib/GNUstep/Applications/Gorm.app/Resources/Gorm.tiff
+Package: gorm.app
+
+File: _usr_lib_GNUstep_Applications_Gridlock.app_Resources_Gridlock.tiff
+Location: usr/lib/GNUstep/Applications/Gridlock.app/Resources/Gridlock.tiff
+Package: gridlock.app
+
+File: _usr_lib_GNUstep_Applications_Lynkeos.app_Resources_Lynkeos.png
+Location: usr/lib/GNUstep/Applications/Lynkeos.app/Resources/Lynkeos.png
+Package: lynkeos.app
+
+File: _usr_lib_GNUstep_Applications_MPDCon.app_Resources_MPDCon.tiff
+Location: usr/lib/GNUstep/Applications/MPDCon.app/Resources/MPDCon.tiff
+Package: mpdcon.app
+
+File: _usr_lib_GNUstep_Applications_Mines.app_Resources_Mines.tiff
+Location: usr/lib/GNUstep/Applications/Mines.app/Resources/Mines.tiff
+Package: mines.app
+
+File: _usr_lib_GNUstep_Applications_PRICE.app_Resources_price-icon-os.tiff
+Location: usr/lib/GNUstep/Applications/PRICE.app/Resources/price-icon-os.tiff
+Package: price.app
+
+File: _usr_lib_GNUstep_Applications_PlopFolio.app_Resources_PlopFolio.tiff
+Location: usr/lib/GNUstep/Applications/PlopFolio.app/Resources/PlopFolio.tiff
+Package: plopfolio.app
+
+File: _usr_lib_GNUstep_Applications_Poe.app_Resources_Poe.tiff
+Location: usr/lib/GNUstep/Applications/Poe.app/Resources/Poe.tiff
+Package: poe.app
+
+File: _usr_lib_GNUstep_Applications_Preview.app_Resources_Preview.tiff
+Location: usr/lib/GNUstep/Applications/Preview.app/Resources/Preview.tiff
+Package: preview.app
+
+File: _usr_lib_GNUstep_Applications_ProjectManager.app_Resources_ProjectManager.tiff
+Location: usr/lib/GNUstep/Applications/ProjectManager.app/Resources/ProjectManager.tiff
+Package: projectmanager.app
+
+File: _usr_lib_GNUstep_Applications_RemoteDesk.app_Resources_remotedesk.tiff
+Location: usr/lib/GNUstep/Applications/RemoteDesk.app/Resources/remotedesk.tiff
+Package: remotedesk.app
+
+File: _usr_lib_GNUstep_Applications_Terminal.app_Resources_Terminal.tiff
+Location: usr/lib/GNUstep/Applications/Terminal.app/Resources/Terminal.tiff
+Package: terminal.app
+
+File: _usr_lib_GNUstep_Applications_TextEdit.app_Resources_Edit.tiff
+Location: usr/lib/GNUstep/Applications/TextEdit.app/Resources/Edit.tiff
+Package: textedit.app
+
+File: _usr_lib_GNUstep_Applications_TimeMon.app_Resources_icon.png
+Location: usr/lib/GNUstep/Applications/TimeMon.app/Resources/icon.png
+Package: timemon.app
+
+File: _usr_lib_GNUstep_Applications_VolumeControl.app_Resources_headphones.tiff
+Location: usr/lib/GNUstep/Applications/VolumeControl.app/Resources/headphones.tiff
+Package: volumecontrol.app
+
+File: _usr_lib_GNUstep_Applications_WrapperFactory.app_Resources_WrapperFactory.tiff
+Location: usr/lib/GNUstep/Applications/WrapperFactory.app/Resources/WrapperFactory.tiff
+Package: wrapperfactory.app
+
+File: _usr_lib_dssi_ll-scope_icon.png
+Location: usr/lib/dssi/ll-scope/icon.png
+Package: ll-scope
+
+File: _usr_share_GNUstep_Grr.app_rssreader.png
+Location: usr/share/GNUstep/Grr.app/rssreader.png
+Package: rssreader.app
+
+File: _usr_share_GNUstep_LuserNET.app_News.app.tiff
+Location: usr/share/GNUstep/LuserNET.app/News.app.tiff
+Package: lusernet.app
+
+File: _usr_share_GvRng_bitmaps_gvrIcon-big.png
+Location: usr/share/GvRng/bitmaps/gvrIcon-big.png
+Package: gvrng
+
+File: _usr_share_albumshaper_images_miscImages_as32.xpm
+Location: usr/share/albumshaper/images/miscImages/as32.xpm
+Package: albumshaper
+
+File: _usr_share_avant-window-navigator_avant-window-navigator-48.png
+Location: usr/share/avant-window-navigator/avant-window-navigator-48.png
+Package: avant-window-navigator-data
+Orig-Package: avant-window-navigator
+
+File: _usr_share_bitpim_resources_bitpim.ico
+Location: usr/share/bitpim/resources/bitpim.ico
+Package: bitpim
+
+File: _usr_share_cameramonitor_cameramonitor.png
+Location: usr/share/cameramonitor/cameramonitor.png
+Package: cameramonitor
+
+File: _usr_share_dfo_icons_FontBookSquareThumbnail.png
+Location: usr/share/dfo/icons/FontBookSquareThumbnail.png
+Package: dfo
+
+File: _usr_share_djplay_djplay-icon.png
+Location: usr/share/djplay/djplay-icon.png
+Package: djplay
+
+File: _usr_share_driconf_driconf-icon.png
+Location: usr/share/driconf/driconf-icon.png
+Package: driconf
+
+File: _usr_share_eiciel_img_icona_eiciel_24.png
+Location: usr/share/eiciel/img/icona_eiciel_24.png
+Package: eiciel
+
+File: _usr_share_emacs_22.2_etc_images_icons_emacs_48.png
+Location: usr/share/emacs/22.2/etc/images/icons/emacs_48.png
+Package: emacs22-common
+Orig-Package: emacs22
+
+File: _usr_share_fpm2_pixmaps_logo.png
+Location: usr/share/fpm2/pixmaps/logo.png
+Package: fpm2
+
+File: _usr_share_games_angrydd_angrydd.png
+Location: usr/share/games/angrydd/angrydd.png
+Package: angrydd
+
+File: _usr_share_games_ghextris_ghextris.png
+Location: usr/share/games/ghextris/ghextris.png
+Package: ghextris
+
+File: _usr_share_games_kq_kq.xpm
+Location: usr/share/games/kq/kq.xpm
+Package: kq
+
+File: _usr_share_games_monsterz_graphics_icon.png
+Location: usr/share/games/monsterz/graphics/icon.png
+Package: monsterz
+
+File: _usr_share_games_pixmaps_briquolo.svg
+Location: usr/share/games/pixmaps/briquolo.svg
+Package: briquolo
+
+File: _usr_share_games_slune_images_slune_icon_32.xpm
+Location: usr/share/games/slune/images/slune_icon_32.xpm
+Package: slune
+
+File: _usr_share_games_tecnoballz_tecnoballz.xpm
+Location: usr/share/games/tecnoballz/tecnoballz.xpm
+Package: tecnoballz
+
+File: _usr_share_gazpacho_pixmaps_gazpacho-icon.png
+Location: usr/share/gazpacho/pixmaps/gazpacho-icon.png
+Package: gazpacho
+
+File: _usr_share_ggz_ggzboard_common_icon.png
+Location: usr/share/ggz/ggzboard/common/icon.png
+Package: ggz-python-games
+
+File: _usr_share_glame_pixmaps_glame.xpm
+Location: usr/share/glame/pixmaps/glame.xpm
+Package: glame
+
+File: _usr_share_gmobilemedia_ui_gmobilemedia_icon.svg
+Location: usr/share/gmobilemedia/ui/gmobilemedia_icon.svg
+Package: gmobilemedia
+
+File: _usr_share_gnomecatalog_pixmaps_gcatalog.png
+Location: usr/share/gnomecatalog/pixmaps/gcatalog.png
+Package: gnomecatalog
+
+File: _usr_share_gnubg_gnubg.png
+Location: usr/share/gnubg/gnubg.png
+Package: gnubg-data
+Orig-Package: gnubg
+
+File: _usr_share_gnusound_gui_logo.xpm
+Location: usr/share/gnusound/gui/logo.xpm
+Package: gnusound
+
+File: _usr_share_gscan2pdf_gscan2pdf.svg
+Location: usr/share/gscan2pdf/gscan2pdf.svg
+Package: gscan2pdf
+
+File: _usr_share_gtkvncviewer_data_gtkvncviewer_64.png
+Location: usr/share/gtkvncviewer/data/gtkvncviewer_64.png
+Package: gtkvncviewer
+
+File: _usr_share_gupnp-tools_pixmaps_av-cp.png
+Location: usr/share/gupnp-tools/pixmaps/av-cp.png
+Package: gupnp-tools
+
+File: _usr_share_gupnp-tools_pixmaps_network-light-256x256.png
+Location: usr/share/gupnp-tools/pixmaps/network-light-256x256.png
+Package: gupnp-tools
+
+File: _usr_share_gupnp-tools_pixmaps_universal-cp.png
+Location: usr/share/gupnp-tools/pixmaps/universal-cp.png
+Package: gupnp-tools
+
+File: _usr_share_hardinfo_pixmaps_logo.png
+Location: usr/share/hardinfo/pixmaps/logo.png
+Package: hardinfo
+
+File: _usr_share_httrack_icons_webhttrack.xpm
+Location: usr/share/httrack/icons/webhttrack.xpm
+Package: webhttrack
+
+File: _usr_share_hydrogen_data_img_gray_icon24.png
+Location: usr/share/hydrogen/data/img/gray/icon24.png
+Package: hydrogen
+
+File: _usr_share_icons_beidgui.png
+Location: usr/share/icons/beidgui.png
+Package: beidgui
+
+File: _usr_share_icons_icon48.png
+Location: usr/share/icons/icon48.png
+Package: extcalc
+
+File: _usr_share_icons_isomaster_isomaster.png
+Location: usr/share/icons/isomaster/isomaster.png
+Package: isomaster
+
+File: _usr_share_icons_qnapi-48.png
+Location: usr/share/icons/qnapi-48.png
+Package: qnapi
+
+File: _usr_share_icons_qterm.png
+Location: usr/share/icons/qterm.png
+Package: qterm
+
+File: _usr_share_icons_screenlets.svg
+Location: usr/share/icons/hicolor/scalable/apps/screenlets.svg
+Package: screenlets
+Orig-Location: usr/share/icons/screenlets.svg
+
+File: _usr_share_icons_wings3d.xpm
+Location: usr/share/icons/wings3d.xpm
+Package: wings3d
+
+File: _usr_share_jackeq_thai-gold.png
+Location: usr/share/jackeq/thai-gold.png
+Package: jackeq
+
+File: _usr_share_k3d_icons_k3d2.png
+Location: usr/share/k3d/icons/k3d2.png
+Package: k3d
+
+File: _usr_share_keytouch-editor_pixmaps_icon.png
+Location: usr/share/keytouch-editor/pixmaps/icon.png
+Package: keytouch-editor
+
+File: _usr_share_keytouch_pixmaps_icon.png
+Location: usr/share/keytouch/pixmaps/icon.png
+Package: keytouch
+
+File: _usr_share_klavaro_pixmaps_logo.xpm
+Location: usr/share/klavaro/pixmaps/logo.xpm
+Package: klavaro
+
+File: _usr_share_live-magic_debian_openlogo-nd-100.png
+Location: usr/share/live-magic/debian_openlogo-nd-100.png
+Package: live-magic
+
+File: _usr_share_multisync_pixmaps_multisync.png
+Location: usr/share/multisync/pixmaps/multisync.png
+Package: multisync
+
+File: _usr_share_nip2_data_vips-128.png
+Location: usr/share/nip2/data/vips-128.png
+Package: nip2
+
+File: _usr_share_octave_3.0.1_imagelib_octave-sombrero.png
+Location: usr/share/octave/3.0.1/imagelib/octave-sombrero.png
+Package: octave3.0
+
+File: _usr_share_ogle_ogle.xpm
+Location: usr/share/ogle/ogle.xpm
+Package: ogle-mmx
+Orig-Package: ogle-gui
+
+File: _usr_share_pdfedit_icon_pdfedit_logo.png
+Location: usr/share/pdfedit/icon/pdfedit_logo.png
+Package: pdfedit
+
+File: _usr_share_pixmaps_CA2pp.png
+Location: usr/share/pixmaps/CA2pp.png
+Package: controlaula
+
+File: _usr_share_pixmaps_HPmenu.xpm
+Location: usr/share/pixmaps/HPmenu.xpm
+Package: hplip-gui
+
+File: _usr_share_pixmaps_HelpViewer.xpm
+Location: usr/share/pixmaps/HelpViewer.xpm
+Package: helpviewer.app
+
+File: _usr_share_pixmaps_MB.ico
+Location: usr/share/pixmaps/MB.ico
+Package: model-builder
+
+File: _usr_share_pixmaps_PipeWalker.xpm
+Location: usr/share/pixmaps/PipeWalker.xpm
+Package: pipewalker
+
+File: _usr_share_pixmaps_ProjectCenter.xpm
+Location: usr/share/pixmaps/ProjectCenter.xpm
+Package: projectcenter.app
+
+File: _usr_share_pixmaps_Sci48M.png
+Location: usr/share/pixmaps/Sci48M.png
+Package: scite
+
+File: _usr_share_pixmaps_abe.xpm
+Location: usr/share/pixmaps/abe.xpm
+Package: abe
+
+File: _usr_share_pixmaps_aconnectgui.xpm
+Location: usr/share/pixmaps/aconnectgui.xpm
+Package: aconnectgui
+
+File: _usr_share_pixmaps_alsamixergui.xpm
+Location: usr/share/pixmaps/alsamixergui.xpm
+Package: alsamixergui
+
+File: _usr_share_pixmaps_ams.xpm
+Location: usr/share/pixmaps/ams.xpm
+Package: ams
+
+File: _usr_share_pixmaps_amsynth.xpm
+Location: usr/share/pixmaps/amsynth.xpm
+Package: amsynth
+
+File: _usr_share_pixmaps_armagetronad_icons_large_armagetronad.png
+Location: usr/share/pixmaps/armagetronad/icons/large/armagetronad.png
+Package: armagetronad
+
+File: _usr_share_pixmaps_ayttm.png
+Location: usr/share/pixmaps/ayttm.png
+Package: ayttm
+
+File: _usr_share_pixmaps_big.qucs.xpm
+Location: usr/share/pixmaps/big.qucs.xpm
+Package: qucs
+
+File: _usr_share_pixmaps_bluefish-icon.png
+Location: usr/share/pixmaps/bluefish-icon.png
+Package: bluefish
+
+File: _usr_share_pixmaps_boswars.png
+Location: usr/share/pixmaps/boswars.png
+Package: boswars
+
+File: _usr_share_pixmaps_bsc.png
+Location: usr/share/pixmaps/bsc.png
+Package: bsc
+
+File: _usr_share_pixmaps_bum.png
+Location: usr/share/pixmaps/bum.png
+Package: bum
+
+File: _usr_share_pixmaps_clusterssh-32x32.xpm
+Location: usr/share/pixmaps/clusterssh-32x32.xpm
+Package: clusterssh
+
+File: _usr_share_pixmaps_creox.xpm
+Location: usr/share/pixmaps/creox.xpm
+Package: creox
+
+File: _usr_share_pixmaps_dc-qt.xpm
+Location: usr/share/pixmaps/dc-qt.xpm
+Package: dc-qt
+
+File: _usr_share_pixmaps_debian-logo.png
+Location: usr/share/pixmaps/debian-logo.png
+Package: debconf
+Orig-Package: debian-reference-common
+
+File: _usr_share_pixmaps_ebview.xpm
+Location: usr/share/pixmaps/ebview.xpm
+Package: ebview
+
+File: _usr_share_pixmaps_egicon.png
+Location: usr/share/pixmaps/egicon.png
+Package: epigrass
+
+File: _usr_share_pixmaps_flamerobin.png
+Location: usr/share/pixmaps/flamerobin.png
+Package: flamerobin
+
+File: _usr_share_pixmaps_freedroidrpg.xpm
+Location: usr/share/pixmaps/freedroidrpg.xpm
+Package: freedroidrpg
+
+File: _usr_share_pixmaps_freemat_freemat.xpm
+Location: usr/share/pixmaps/freemat/freemat.xpm
+Package: freemat
+
+File: _usr_share_pixmaps_freepops-updater-zenity.svg
+Location: usr/share/pixmaps/freepops-updater-zenity.svg
+Package: freepops-updater-gnome
+
+File: _usr_share_pixmaps_freevo.xpm
+Location: usr/share/pixmaps/freevo.xpm
+Package: freevo
+
+File: _usr_share_pixmaps_fwbuilder_firewall_64.xpm
+Location: usr/share/pixmaps/fwbuilder/firewall_64.xpm
+Package: fwbuilder
+
+File: _usr_share_pixmaps_fyre.png
+Location: usr/share/pixmaps/fyre.png
+Package: fyre
+
+File: _usr_share_pixmaps_galternatives.png
+Location: usr/share/pixmaps/galternatives.png
+Package: galternatives
+
+File: _usr_share_pixmaps_gambas2.xpm
+Location: usr/share/pixmaps/gambas2.xpm
+Package: gambas2-ide
+
+File: _usr_share_pixmaps_gbgoffice-icon.png
+Location: usr/share/bgoffice/gbgoffice-icon.png
+Package: gbgoffice
+Orig-Location: usr/share/pixmaps/gbgoffice-icon.png
+
+File: _usr_share_pixmaps_gcolor2_gcolor2.xpm
+Location: usr/share/pixmaps/gcolor2/gcolor2.xpm
+Package: gcolor2
+
+File: _usr_share_pixmaps_gcstar.png
+Location: usr/share/pixmaps/gcstar.png
+Package: gcstar
+
+File: _usr_share_pixmaps_gcvs-32x32.xpm
+Location: usr/share/pixmaps/gcvs-32x32.xpm
+Package: gcvs
+
+File: _usr_share_pixmaps_giFToxic-48.png
+Location: usr/share/pixmaps/giFToxic-48.png
+Package: giftoxic
+
+File: _usr_share_pixmaps_giftui.png
+Location: usr/share/pixmaps/giftui.png
+Package: giftui
+
+File: _usr_share_pixmaps_gkdebconf-icon.xpm
+Location: usr/share/pixmaps/gkdebconf-icon.xpm
+Package: gkdebconf
+
+File: _usr_share_pixmaps_gnome-alsamixer_gnome-alsamixer-icon.png
+Location: usr/share/pixmaps/gnome-alsamixer/gnome-alsamixer-icon.png
+Package: gnome-alsamixer
+
+File: _usr_share_pixmaps_gnome-schedule_gnome-schedule.svg
+Location: usr/share/pixmaps/gnome-schedule/gnome-schedule.svg
+Package: gnome-schedule
+
+File: _usr_share_pixmaps_gnomesword_gs2-48x48.png
+Location: usr/share/pixmaps/gnomesword/gs2-48x48.png
+Package: gnomesword
+
+File: _usr_share_pixmaps_gnubik.xpm
+Location: usr/share/pixmaps/gnubik.xpm
+Package: gnubik
+
+File: _usr_share_pixmaps_gnudoq-icon.xpm
+Location: usr/share/pixmaps/gnudoq-icon.xpm
+Package: gnudoq
+
+File: _usr_share_pixmaps_gnusim8085_gnusim8085_icon.png
+Location: usr/share/pixmaps/gnusim8085/gnusim8085_icon.png
+Package: gnusim8085
+
+File: _usr_share_pixmaps_gprename_gprename.png
+Location: usr/share/pixmaps/gprename/gprename.png
+Package: gprename
+
+File: _usr_share_pixmaps_gringotts.xpm
+Location: usr/share/pixmaps/gringotts.xpm
+Package: gringotts
+
+File: _usr_share_pixmaps_grisbi_grisbi.png
+Location: usr/share/pixmaps/grisbi/grisbi.png
+Package: grisbi
+
+File: _usr_share_pixmaps_gtick_32x32.xpm
+Location: usr/share/pixmaps/gtick_32x32.xpm
+Package: gtick
+
+File: _usr_share_pixmaps_gtk-chtheme.xpm
+Location: usr/share/pixmaps/gtk-chtheme.xpm
+Package: gtk-chtheme
+
+File: _usr_share_pixmaps_gtk-imonc.png
+Location: usr/share/pixmaps/gtk-imonc.png
+Package: gtk-imonc
+
+File: _usr_share_pixmaps_gtkorphan.png
+Location: usr/share/pixmaps/gtkorphan.png
+Package: gtkorphan
+
+File: _usr_share_pixmaps_gtkwhiteboard.xpm
+Location: usr/share/pixmaps/gtkwhiteboard.xpm
+Package: gtkwhiteboard
+
+File: _usr_share_pixmaps_hp-logo.xpm
+Location: usr/share/pixmaps/hp-logo.xpm
+Package: hplip-gui
+
+File: _usr_share_pixmaps_jokosher-icon.png
+Location: usr/share/pixmaps/jokosher-icon.png
+Package: jokosher
+
+File: _usr_share_pixmaps_jumpnbump.xpm
+Location: usr/share/pixmaps/jumpnbump.xpm
+Package: jumpnbump
+
+File: _usr_share_pixmaps_k3dsurf.xpm
+Location: usr/share/pixmaps/k3dsurf.xpm
+Package: k3dsurf
+
+File: _usr_share_pixmaps_ktoon.png
+Location: usr/share/pixmaps/ktoon.png
+Package: ktoon
+
+File: _usr_share_pixmaps_lincity.xpm
+Location: usr/share/pixmaps/lincity.xpm
+Package: lincity
+
+File: _usr_share_pixmaps_lingot_lingot-icon.svg
+Location: usr/share/pixmaps/lingot/lingot-icon.svg
+Package: lingot
+
+File: _usr_share_pixmaps_linsmith_linsmith_icon.xpm
+Location: usr/share/pixmaps/linsmith/linsmith_icon.xpm
+Package: linsmith
+
+File: _usr_share_pixmaps_littlewizard_littlewizard-icon.png
+Location: usr/share/pixmaps/littlewizard/littlewizard-icon.png
+Package: littlewizard-data
+Orig-Package: littlewizard
+
+File: _usr_share_pixmaps_mgm.xpm
+Location: usr/share/pixmaps/mgm.xpm
+Package: mgm
+
+File: _usr_share_pixmaps_mini_opencubicplayer_mini.xpm
+Location: usr/share/pixmaps/mini/opencubicplayer_mini.xpm
+Package: opencubicplayer
+
+File: _usr_share_pixmaps_mit-scheme_lambda2.png
+Location: usr/share/pixmaps/mit-scheme/lambda2.png
+Package: mit-scheme
+
+File: _usr_share_pixmaps_multisync-gui_multisync.png
+Location: usr/share/pixmaps/multisync-gui/multisync.png
+Package: multisync0.90
+
+File: _usr_share_pixmaps_openmovieeditor.png
+Location: usr/share/pixmaps/openmovieeditor.png
+Package: openmovieeditor
+
+File: _usr_share_pixmaps_patchage.xpm
+Location: usr/share/pixmaps/patchage.xpm
+Package: patchage
+
+File: _usr_share_pixmaps_pcmanx.png
+Location: usr/share/pixmaps/pcmanx.png
+Package: pcmanx-gtk2
+
+File: _usr_share_pixmaps_peless.png
+Location: usr/share/pixmaps/peless.png
+Package: peless
+
+File: _usr_share_pixmaps_polyxmass-icon-32x32.png
+Location: usr/share/pixmaps/polyxmass-icon-32x32.png
+Package: polyxmass-bin
+
+File: _usr_share_pixmaps_pppoeconf.xpm
+Location: usr/share/pixmaps/pppoeconf.xpm
+Package: pppoeconf
+
+File: _usr_share_pixmaps_pyracerz.xpm
+Location: usr/share/pixmaps/pyracerz.xpm
+Package: pyracerz
+
+File: _usr_share_pixmaps_pysycache.png
+Location: usr/share/pixmaps/pysycache.png
+Package: pysycache
+
+File: _usr_share_pixmaps_python2.4.xpm
+Location: usr/share/pixmaps/python2.4.xpm
+Package: python2.4
+Orig-Package: idle-python2.4
+
+File: _usr_share_pixmaps_python2.5.xpm
+Location: usr/share/pixmaps/python2.5.xpm
+Package: python2.5
+Orig-Package: idle-python2.5
+
+File: _usr_share_pixmaps_qcad.xpm
+Location: usr/share/pixmaps/qcad.xpm
+Package: qcad
+
+File: _usr_share_pixmaps_qliss3d.xpm
+Location: usr/share/pixmaps/qliss3d.xpm
+Package: qliss3d
+
+File: _usr_share_pixmaps_qsynth.xpm
+Location: usr/share/pixmaps/qsynth.xpm
+Package: qsynth
+
+File: _usr_share_pixmaps_qtodo.xpm
+Location: usr/share/pixmaps/qtodo.xpm
+Package: qtodo
+
+File: _usr_share_pixmaps_qtractor.png
+Location: usr/share/pixmaps/qtractor.png
+Package: qtractor
+
+File: _usr_share_pixmaps_qtstalker.xpm
+Location: usr/share/pixmaps/qtstalker.xpm
+Package: qtstalker
+
+File: _usr_share_pixmaps_rasmol_32x32.xpm
+Location: usr/share/pixmaps/rasmol_32x32.xpm
+Package: rasmol
+
+File: _usr_share_pixmaps_rfdump.png
+Location: usr/share/pixmaps/rfdump.png
+Package: rfdump
+
+File: _usr_share_pixmaps_scim-setup.png
+Location: usr/share/pixmaps/scim-setup.png
+Package: scim
+
+File: _usr_share_pixmaps_searchmonkey_searchmonkey-32x32.png
+Location: usr/share/pixmaps/searchmonkey/searchmonkey-32x32.png
+Package: searchmonkey
+
+File: _usr_share_pixmaps_singularity.xpm
+Location: usr/share/pixmaps/singularity.xpm
+Package: singularity
+
+File: _usr_share_pixmaps_snake4.xpm
+Location: usr/share/pixmaps/snake4.xpm
+Package: snake4
+
+File: _usr_share_pixmaps_squeak.png
+Location: usr/share/pixmaps/squeak.png
+Package: squeak-vm
+
+File: _usr_share_pixmaps_stopwatch.xpm
+Location: usr/share/pixmaps/stopwatch.xpm
+Package: stopwatch
+
+File: _usr_share_pixmaps_stroq-icon.xpm
+Location: usr/share/pixmaps/stroq-icon.xpm
+Package: stroq
+
+File: _usr_share_pixmaps_tomatoes_icon.png
+Location: usr/share/pixmaps/tomatoes/icon.png
+Package: tomatoes
+
+File: _usr_share_pixmaps_toppler.xpm
+Location: usr/share/pixmaps/toppler.xpm
+Package: toppler
+
+File: _usr_share_pixmaps_tworld.xpm
+Location: usr/share/pixmaps/tworld.xpm
+Package: tworld
+
+File: _usr_share_pixmaps_vectoroids-icon.xpm
+Location: usr/share/pixmaps/vectoroids-icon.xpm
+Package: vectoroids
+
+File: _usr_share_pixmaps_vim.svg
+Location: usr/share/pixmaps/vim.svg
+Package: vim-gui-common
+
+File: _usr_share_pixmaps_wine.xpm
+Location: usr/share/pixmaps/wine.xpm
+Package: wine-bin
+
+File: _usr_share_pixmaps_workrave_workrave.xpm
+Location: usr/share/pixmaps/workrave/workrave.xpm
+Package: workrave
+
+File: _usr_share_pixmaps_xabacus.m.xpm
+Location: usr/share/pixmaps/xabacus.m.xpm
+Package: xabacus
+
+File: _usr_share_pixmaps_xbarrel.m.xpm
+Location: usr/share/pixmaps/xbarrel.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xcubes.m.xpm
+Location: usr/share/pixmaps/xcubes.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xdemineur-icon.xpm
+Location: usr/share/pixmaps/xdemineur-icon.xpm
+Package: xdemineur
+
+File: _usr_share_pixmaps_xdino.m.xpm
+Location: usr/share/pixmaps/xdino.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xhexagons.m.xpm
+Location: usr/share/pixmaps/xhexagons.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xmball.m.xpm
+Location: usr/share/pixmaps/xmball.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xmlink.m.xpm
+Location: usr/share/pixmaps/xmlink.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xoct.m.xpm
+Location: usr/share/pixmaps/xoct.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xpanex.m.xpm
+Location: usr/share/pixmaps/xpanex.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xpyraminx.m.xpm
+Location: usr/share/pixmaps/xpyraminx.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xrubik.m.xpm
+Location: usr/share/pixmaps/xrubik.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xskewb.m.xpm
+Location: usr/share/pixmaps/xskewb.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_xtriangles.m.xpm
+Location: usr/share/pixmaps/xtriangles.m.xpm
+Package: xmpuzzles
+
+File: _usr_share_pixmaps_zapping_gnome-television.png
+Location: usr/share/pixmaps/zapping/gnome-television.png
+Package: zapping
+
+File: _usr_share_pixmaps_zynaddsubfx.xpm
+Location: usr/share/pixmaps/zynaddsubfx.xpm
+Package: zynaddsubfx
+
+File: _usr_share_pybridge_pixmaps_pybridge.png
+Location: usr/share/pybridge/pixmaps/pybridge.png
+Package: pybridge
+
+File: _usr_share_pykaraoke_icons_pykaraoke.xpm
+Location: usr/share/pykaraoke/icons/pykaraoke.xpm
+Package: pykaraoke
+
+File: _usr_share_pype_icons_pype.ico
+Location: usr/share/pype/icons/pype.ico
+Package: pype
+
+File: _usr_share_pyrenamer_pyrenamer.png
+Location: usr/share/pyrenamer/pyrenamer.png
+Package: pyrenamer
+
+File: _usr_share_qcomicbook_qcomicbook.png
+Location: usr/share/qcomicbook/qcomicbook.png
+Package: qcomicbook
+
+File: _usr_share_qdacco_qdacco.png
+Location: usr/share/qdacco/qdacco.png
+Package: qdacco
+
+File: _usr_share_rbbr_icon.png
+Location: usr/share/rbbr/icon.png
+Package: rbbr
+
+File: _usr_share_songwrite_data_songwrite_32x32.png
+Location: usr/share/songwrite/data/songwrite_32x32.png
+Package: songwrite
+
+File: _usr_share_startupmanager_startupmanager.svg
+Location: usr/share/startupmanager/startupmanager.svg
+Package: startupmanager
+
+File: _usr_share_svn-workbench_wb.tiff
+Location: usr/share/svn-workbench/wb.tiff
+Package: svn-workbench
+
+File: _usr_share_system-config-lvm_pixmaps_lv_icon.png
+Location: usr/share/system-config-lvm/pixmaps/lv_icon.png
+Package: system-config-lvm
+
+File: _usr_share_thwab-lib_images_thwab-lib.png
+Location: usr/share/thwab-lib/images/thwab-lib.png
+Package: thwab-lib
+
+File: _usr_share_tilp_pixmaps_logo.xpm
+Location: usr/share/tilp/pixmaps/logo.xpm
+Package: tilp
+
+File: _usr_share_tuxmath_images_icons_icon.png
+Location: usr/share/tuxmath/images/icons/icon.png
+Package: tuxmath
+
+File: _usr_share_twinkle_twinkle48.png
+Location: usr/share/twinkle/twinkle48.png
+Package: twinkle
+
+File: _usr_share_virt-manager_pixmaps_virt-manager-icon.svg
+Location: usr/share/virt-manager/pixmaps/virt-manager-icon.svg
+Package: virt-manager
+
+File: _usr_share_xdx_pixmaps_xdx.png
+Location: usr/share/xdx/pixmaps/xdx.png
+Package: xdx
+
+File: _usr_share_xmms2tray_data_xmms2_24.png
+Location: usr/share/xmms2tray/data/xmms2_24.png
+Package: xmms2tray
+
+File: a7xpg.xpm
+Location: usr/share/pixmaps/a7xpg.xpm
+Package: a7xpg
+
+File: abiword.png
+Location: usr/share/pixmaps/abiword.png
+Package: abiword-common
+Orig-Package: abiword
+
+File: abuse.png
+Location: usr/share/pixmaps/abuse.png
+Package: abuse
+
+File: accerciser.png
+Location: usr/share/icons/hicolor/48x48/apps/accerciser.png
+Package: accerciser
+
+File: achilles.svg
+Location: usr/share/pixmaps/achilles.svg
+Package: achilles
+
+File: adanaxisgpl32x32.xpm
+Location: usr/share/pixmaps/adanaxisgpl32x32.xpm
+Package: adanaxisgpl
+
+File: aeskulap.png
+Location: usr/share/icons/hicolor/48x48/apps/aeskulap.png
+Package: aeskulap
+
+File: agave.png
+Location: usr/share/icons/hicolor/32x32/apps/agave.png
+Package: agave
+
+File: airstrike.xpm
+Location: usr/share/pixmaps/airstrike.xpm
+Package: airstrike
+
+File: akregator.png
+Location: usr/share/icons/hicolor/48x48/apps/akregator.png
+Package: akregator
+
+File: alacarte.png
+Location: usr/share/icons/hicolor/22x22/apps/alacarte.png
+Package: alacarte
+
+File: alarm-clock.svg
+Location: usr/share/pixmaps/alarm-clock.svg
+Package: alarm-clock
+
+File: alc.xpm
+Location: usr/share/pixmaps/alc.xpm
+Package: amule-utils-gui
+
+File: alex4.xpm
+Location: usr/share/pixmaps/alex4.xpm
+Package: alex4
+
+File: alexandria.png
+Location: usr/share/alexandria/icons/alexandria.png
+Package: alexandria
+Orig-Location: usr/share/pixmaps/alexandria.png
+
+File: alltray.png
+Location: usr/share/pixmaps/alltray.png
+Package: alltray
+
+File: amarok.xpm
+Location: usr/share/pixmaps/amarok.xpm
+Package: amarok
+
+File: amide_logo.png
+Location: usr/share/pixmaps/amide_logo.png
+Package: amide
+
+File: amor.png
+Location: usr/share/icons/hicolor/48x48/apps/amor.png
+Package: amor
+
+File: amph.xpm
+Location: usr/share/pixmaps/amph.xpm
+Package: amphetamine
+
+File: amsn.xpm
+Location: usr/share/pixmaps/amsn/amsn.xpm
+Package: amsn
+
+File: amule.xpm
+Location: usr/share/pixmaps/amule.xpm
+Package: amule
+
+File: amulegui.xpm
+Location: usr/share/pixmaps/amulegui.xpm
+Package: amule-utils-gui
+
+File: anjuta.xpm
+Location: usr/share/pixmaps/anjuta.xpm
+Package: anjuta
+
+File: anki.xpm
+Location: usr/share/pixmaps/anki.xpm
+Package: anki
+
+File: anymeal.png
+Location: usr/share/icons/hicolor/48x48/apps/anymeal.png
+Package: anymeal
+
+File: apcupsd.png
+Location: usr/share/gapcmon/apcupsd.png
+Package: gapcmon
+Orig-Location: usr/share/icons/apcupsd.png
+
+File: aptoncd.png
+Location: usr/share/icons/hicolor/48x48/apps/aptoncd.png
+Package: aptoncd
+
+File: aqualung.xpm
+Location: usr/share/pixmaps/aqualung.xpm
+Package: aqualung
+
+File: aranym.png
+Location: usr/share/icons/hicolor/48x48/apps/aranym.png
+Package: aranym
+
+File: ario.png
+Location: usr/share/icons/hicolor/48x48/apps/ario.png
+Package: ario
+
+File: ark.png
+Location: usr/share/icons/hicolor/48x48/apps/ark.png
+Package: ark
+
+File: arora.png
+Location: usr/share/icons/hicolor/128x128/apps/arora.png
+Package: arora
+
+File: artsbuilder.png
+Location: usr/share/icons/hicolor/16x16/apps/artsbuilder.png
+Package: artsbuilder
+
+File: artscontrol.png
+Location: usr/share/icons/hicolor/48x48/apps/artscontrol.png
+Package: artsbuilder
+
+File: assistant.png
+Location: usr/share/icons/crystalsvg/32x32/apps/assistant.png
+Package: kdebase-data
+Orig-Package: qt3-assistant
+
+File: atanks-icon.xpm
+Location: usr/share/pixmaps/atanks-icon.xpm
+Package: atanks
+
+File: atlantik.png
+Location: usr/share/icons/hicolor/48x48/apps/atlantik.png
+Package: atlantik
+
+File: atlantikdesigner.png
+Location: usr/share/icons/hicolor/32x32/apps/atlantikdesigner.png
+Package: atlantikdesigner
+
+File: atomix-icon.png
+Location: usr/share/pixmaps/atomix-icon.png
+Package: atomix-data
+
+File: audacious.png
+Location: usr/share/icons/hicolor/48x48/apps/audacious.png
+Package: audacious
+
+File: aven.png
+Location: usr/share/pixmaps/aven.png
+Package: survex-aven
+
+File: avogadro.png
+Location: usr/share/pixmaps/avogadro.png
+Package: avogadro
+
+File: awn-manager.png
+Location: usr/share/icons/hicolor/48x48/apps/awn-manager.png
+Package: awn-manager
+
+File: balder2d.xpm
+Location: usr/share/pixmaps/balder2d.xpm
+Package: balder2d
+
+File: baobab.png
+Location: usr/share/icons/hicolor/24x24/apps/baobab.png
+Package: gnome-utils
+
+File: barrage.xpm
+Location: usr/share/pixmaps/barrage.xpm
+Package: barrage
+
+File: basket.png
+Location: usr/share/icons/crystalsvg/48x48/apps/basket.png
+Package: basket
+
+File: beast.png
+Location: usr/share/pixmaps/beast.png
+Package: beast
+
+File: beer-mini.xpm
+Location: usr/share/pixmaps/beer-mini.xpm
+Package: gerstensaft
+
+File: bibledit.xpm
+Location: usr/share/pixmaps/bibledit.xpm
+Package: bibledit
+
+File: biblememorizer.svg
+Location: usr/share/icons/hicolor/scalable/apps/biblememorizer.svg
+Package: biblememorizer
+
+File: bibletime.png
+Location: usr/share/icons/hicolor/48x48/apps/bibletime.png
+Package: bibletime
+
+File: billard-gl.xpm
+Location: usr/share/pixmaps/billard-gl.xpm
+Package: billard-gl
+
+File: biloba.png
+Location: usr/share/pixmaps/biloba.png
+Package: biloba
+
+File: biniax2.xpm
+Location: usr/share/pixmaps/biniax2.xpm
+Package: biniax2
+
+File: bitscope.xpm
+Location: usr/share/pixmaps/bitscope.xpm
+Package: bitscope
+
+File: bittornado.xpm
+Location: usr/share/pixmaps/bittornado.xpm
+Package: bittornado-gui
+
+File: bkchem.png
+Location: usr/share/pixmaps/bkchem.png
+Package: bkchem
+
+File: blender.png
+Location: usr/share/icons/hicolor/32x32/apps/blender.png
+Package: blender
+
+File: bless-48x48.png
+Location: usr/share/pixmaps/bless-48x48.png
+Package: bless
+
+File: blinken.png
+Location: usr/share/icons/hicolor/48x48/apps/blinken.png
+Package: blinken
+
+File: bloboats.xpm
+Location: usr/share/pixmaps/bloboats.xpm
+Package: bloboats
+
+File: blobwars.xpm
+Location: usr/share/pixmaps/blobwars.xpm
+Package: blobwars
+
+File: blockattack32.xpm
+Location: usr/share/pixmaps/blockattack32.xpm
+Package: blockattack
+
+File: blueproximity.svg
+Location: usr/share/icons/hicolor/scalable/apps/blueproximity.svg
+Package: blueproximity
+
+File: blueradio-48.png
+Location: usr/share/pixmaps/blueradio-48.png
+Package: gnome-bluetooth
+
+File: bluetooth.png
+Location: usr/share/icons/hicolor/48x48/apps/bluetooth.png
+Package: bluez-gnome
+
+File: bmpx.png
+Location: usr/share/icons/hicolor/48x48/apps/bmpx.png
+Package: bmpx
+
+File: boa-constructor.xpm
+Location: usr/share/pixmaps/boa-constructor.xpm
+Package: boa-constructor
+
+File: boincmgr-32.xpm
+Location: usr/share/pixmaps/boincmgr-32.xpm
+Package: boinc-manager
+
+File: boson.png
+Location: usr/share/icons/hicolor/48x48/apps/boson.png
+Package: boson
+
+File: bouml.png
+Location: usr/share/icons/hicolor/48x48/apps/bouml.png
+Package: bouml
+
+File: bouncy.xpm
+Location: usr/share/pixmaps/bouncy.xpm
+Package: bouncy
+
+File: brasero.png
+Location: usr/share/icons/hicolor/48x48/apps/brasero.png
+Package: brasero
+
+File: brutalchess.xpm
+Location: usr/share/pixmaps/brutalchess.xpm
+Package: brutalchess
+
+File: btanks.xpm
+Location: usr/share/pixmaps/btanks.xpm
+Package: btanks
+
+File: bubbros.png
+Location: usr/share/pixmaps/bubbros.png
+Package: bubbros
+
+File: bug-buddy.png
+Location: usr/share/icons/hicolor/48x48/apps/bug-buddy.png
+Package: bug-buddy
+
+File: bugsquish-icon.xpm
+Location: usr/share/pixmaps/bugsquish-icon.xpm
+Package: bugsquish
+
+File: buoh.png
+Location: usr/share/icons/hicolor/64x64/apps/buoh.png
+Package: buoh
+
+File: burgerspace.png
+Location: usr/share/pixmaps/burgerspace.png
+Package: burgerspace
+
+File: buxon.xpm
+Location: usr/share/pixmaps/buxon.xpm
+Package: buxon
+
+File: bzflag-48x48.png
+Location: usr/share/pixmaps/bzflag-48x48.png
+Package: bzflag-data
+
+File: bzr-icon-64.png
+Location: usr/share/pixmaps/bzr-icon-64.png
+Package: bzr-gtk
+
+File: cairo-clock.png
+Location: usr/share/pixmaps/cairo-clock.png
+Package: cairo-clock
+
+File: camorama.png
+Location: usr/share/pixmaps/camorama.png
+Package: camorama
+
+File: catalogmanager.png
+Location: usr/share/icons/hicolor/48x48/apps/catalogmanager.png
+Package: kbabel
+
+File: catfish.svg
+Location: usr/share/pixmaps/catfish.svg
+Package: catfish
+
+File: ccsm.png
+Location: usr/share/icons/hicolor/48x48/apps/ccsm.png
+Package: compizconfig-settings-manager
+
+File: cdaudio_unmount.png
+Location: usr/share/icons/crystalsvg/48x48/devices/cdaudio_unmount.png
+Package: kdelibs-data
+Orig-Package: kdemultimedia-kio-plugins
+
+File: ceferino.svg
+Location: usr/share/pixmaps/ceferino.svg
+Package: ceferino
+
+File: celestia.png
+Location: usr/share/pixmaps/celestia.png
+Package: celestia-gnome
+Orig-Package: celestia-glut
+
+File: cellwriter.svg
+Location: usr/share/icons/hicolor/scalable/apps/cellwriter.svg
+Package: cellwriter
+
+File: cervisia.png
+Location: usr/share/icons/hicolor/48x48/apps/cervisia.png
+Package: cervisia
+
+File: cgoban_icon.png
+Location: usr/share/pixmaps/cgoban_icon.png
+Package: cgoban
+
+File: chatzilla.xpm
+Location: usr/share/pixmaps/chatzilla.xpm
+Package: iceape-chatzilla
+
+File: checkgmail.svg
+Location: usr/share/pixmaps/checkgmail.svg
+Package: checkgmail
+
+File: cheese.png
+Location: usr/share/icons/hicolor/48x48/apps/cheese.png
+Package: cheese
+
+File: chemtool.xpm
+Location: usr/share/pixmaps/chemtool.xpm
+Package: chemtool
+
+File: chmsee-icon.png
+Location: usr/share/pixmaps/chmsee-icon.png
+Package: chmsee
+
+File: chromium.png
+Location: usr/share/pixmaps/chromium.png
+Package: chromium
+
+File: circuslinux-icon.xpm
+Location: usr/share/pixmaps/circuslinux-icon.xpm
+Package: circuslinux
+
+File: clamtk.xpm
+Location: usr/share/pixmaps/clamtk.xpm
+Package: clamtk
+
+File: claws-mail.png
+Location: usr/share/icons/hicolor/48x48/apps/claws-mail.png
+Package: claws-mail
+
+File: clips.xpm
+Location: usr/share/pixmaps/clips.xpm
+Package: clips
+
+File: comix.png
+Location: usr/share/icons/hicolor/48x48/apps/comix.png
+Package: comix
+
+File: compcal.png
+Location: usr/share/icons/hicolor/48x48/apps/compcal.png
+Package: ggz-kde-client
+
+File: conduit.png
+Location: usr/share/icons/hicolor/48x48/apps/conduit.png
+Package: conduit
+
+File: conglomerate-icon-16.png
+Location: usr/share/pixmaps/conglomerate-icon-16.png
+Package: conglomerate-common
+
+File: contacts.png
+Location: usr/share/icons/hicolor/48x48/apps/contacts.png
+Package: contacts
+
+File: convertall.svg
+Location: usr/share/pixmaps/convertall/convertall.svg
+Package: convertall
+
+File: coq.xpm
+Location: usr/share/pixmaps/coq.xpm
+Package: coq
+Orig-Package: coqide
+
+File: cournol.png
+Location: usr/share/pixmaps/cournol.png
+Package: cournol
+
+File: cowbell.png
+Location: usr/share/icons/hicolor/48x48/apps/cowbell.png
+Package: cowbell
+
+File: crack-attack.xpm
+Location: usr/share/pixmaps/crack-attack.xpm
+Package: crack-attack
+
+File: cryptkeeper.png
+Location: usr/share/pixmaps/cryptkeeper.png
+Package: cryptkeeper
+
+File: cubeview48.png
+Location: usr/share/pixmaps/cubeview48.png
+Package: yorick-cubeview
+
+File: cultivation.xpm
+Location: usr/share/pixmaps/cultivation.xpm
+Package: cultivation
+
+File: d3lphin.png
+Location: usr/share/icons/hicolor/48x48/apps/d3lphin.png
+Package: d3lphin
+
+File: daemons.png
+Location: usr/share/icons/crystalsvg/32x32/apps/daemons.png
+Package: kde-guidance
+
+File: dasher.png
+Location: usr/share/icons/hicolor/48x48/apps/dasher.png
+Package: dasher-data
+Orig-Package: dasher
+
+File: date.png
+Location: usr/share/icons/crystalsvg/48x48/apps/date.png
+Package: kdebase-data
+Orig-Package: kdelibs-data
+
+File: dates.png
+Location: usr/share/icons/hicolor/48x48/apps/dates.png
+Package: dates
+
+File: dc_gui2.xpm
+Location: usr/share/pixmaps/dc_gui2.xpm
+Package: dcgui
+
+File: de.xpm
+Location: usr/share/pixmaps/de.xpm
+Package: diff-ext
+
+File: deb-gview.xpm
+Location: usr/share/pixmaps/deb-gview.xpm
+Package: deb-gview
+
+File: decibel-audio-player.png
+Location: usr/share/pixmaps/decibel-audio-player.png
+Package: decibel-audio-player
+
+File: defendguin-icon.xpm
+Location: usr/share/pixmaps/defendguin-icon.xpm
+Package: defendguin
+
+File: deluge-torrent.png
+Location: usr/share/icons/hicolor/48x48/apps/deluge-torrent.png
+Package: deluge-torrent-common
+Orig-Package: deluge-torrent
+
+File: denemo.png
+Location: usr/share/icons/denemo.png
+Package: denemo
+
+File: designer.png
+Location: usr/share/icons/crystalsvg/48x48/apps/designer.png
+Package: kdebase-data
+Orig-Package: qt3-designer
+
+File: devhelp.png
+Location: usr/share/icons/hicolor/48x48/apps/devhelp.png
+Package: devhelp-common
+Orig-Package: devhelp
+
+File: dfeet-icon.png
+Location: usr/share/icons/hicolor/48x48/apps/dfeet-icon.png
+Package: d-feet
+
+File: dia_gnome_icon.png
+Location: usr/share/pixmaps/dia_gnome_icon.png
+Package: dia-common
+
+File: diffuse.png
+Location: usr/share/pixmaps/diffuse.png
+Package: diffuse
+
+File: digikam.png
+Location: usr/share/icons/hicolor/48x48/apps/digikam.png
+Package: digikam
+
+File: dillo.png
+Location: usr/share/pixmaps/dillo.png
+Package: dillo
+
+File: disk-manager.png
+Location: usr/share/icons/hicolor/22x22/apps/disk-manager.png
+Package: disk-manager
+
+File: disksearch.xpm
+Location: usr/share/pixmaps/disksearch.xpm
+Package: disksearch
+
+File: disksfilesystems.png
+Location: usr/share/icons/crystalsvg/32x32/apps/disksfilesystems.png
+Package: kde-guidance
+
+File: displayconfig.png
+Location: usr/share/icons/crystalsvg/32x32/apps/displayconfig.png
+Package: kde-guidance
+
+File: djvulibre-djview3.xpm
+Location: usr/share/icons/hicolor/32x32/apps/djvulibre-djview3.xpm
+Package: djview3
+
+File: djvulibre-djview4.xpm
+Location: usr/share/icons/hicolor/32x32/apps/djvulibre-djview4.xpm
+Package: djview4
+
+File: dlume.xpm
+Location: usr/share/pixmaps/dlume.xpm
+Package: dlume
+
+File: dopewars-weed.png
+Location: usr/share/pixmaps/dopewars-weed.png
+Package: dopewars-data
+Orig-Package: dopewars
+
+File: dosbox.xpm
+Location: usr/share/pixmaps/dosbox.xpm
+Package: dosbox
+
+File: download.svg
+Location: usr/share/pixmaps/download.svg
+Package: gnome-btdownload
+
+File: drapes.png
+Location: usr/share/icons/hicolor/48x48/apps/drapes.png
+Package: drapes
+
+File: dreamchess.xpm
+Location: usr/share/pixmaps/dreamchess.xpm
+Package: dreamchess
+
+File: drivel-48.png
+Location: usr/share/pixmaps/drivel-48.png
+Package: drivel
+
+File: droidbattles.xpm
+Location: usr/share/pixmaps/droidbattles.xpm
+Package: droidbattles
+
+File: drpython.xpm
+Location: usr/share/pixmaps/drpython.xpm
+Package: drpython
+
+File: ds9.xpm
+Location: usr/share/pixmaps/ds9.xpm
+Package: saods9
+
+File: dvdisaster.png
+Location: usr/share/icons/dvdisaster.png
+Package: dvdisaster
+
+File: dxicon.xpm
+Location: usr/share/pixmaps/dxicon.xpm
+Package: dx
+
+File: earth.xpm
+Location: usr/share/pixmaps/earth.xpm
+Package: earth3d
+
+File: easychem.xpm
+Location: usr/share/pixmaps/easychem.xpm
+Package: easychem
+
+File: eboard.xpm
+Location: usr/share/pixmaps/eboard.xpm
+Package: eboard
+
+File: ecawave.xpm
+Location: usr/share/pixmaps/ecawave.xpm
+Package: ecawave
+
+File: eclipse48.png
+Location: usr/share/pixmaps/eclipse48.png
+Package: eclipse
+
+File: egoboo.xpm
+Location: usr/share/pixmaps/egoboo.xpm
+Package: egoboo
+
+File: einstein.png
+Location: usr/share/icons/einstein.png
+Package: einstein
+
+File: ekiga.png
+Location: usr/share/pixmaps/ekiga.png
+Package: ekiga
+
+File: elisa.svg
+Location: usr/share/pixmaps/elisa.svg
+Package: elisa
+
+File: emesene.png
+Location: usr/share/pixmaps/emesene.png
+Package: emesene
+
+File: empathy.png
+Location: usr/share/icons/hicolor/32x32/apps/empathy.png
+Package: libempathy-gtk-common
+Orig-Package: empathy
+
+File: enemylines3.xpm
+Location: usr/share/pixmaps/enemylines3.xpm
+Package: enemylines3
+
+File: enemylines7.xpm
+Location: usr/share/pixmaps/enemylines7.xpm
+Package: enemylines7
+
+File: enigma.png
+Location: usr/share/icons/hicolor/48x48/apps/enigma.png
+Package: enigma-data
+
+File: entagged.png
+Location: usr/share/icons/hicolor/128x128/apps/entagged.png
+Package: entagged
+
+File: eog.png
+Location: usr/share/icons/hicolor/32x32/apps/eog.png
+Package: eog
+
+File: epiphany-bookmarks.png
+Location: usr/share/icons/hicolor/48x48/apps/epiphany-bookmarks.png
+Package: epiphany-browser-data
+
+File: epiphany-game.xpm
+Location: usr/share/pixmaps/epiphany-game.xpm
+Package: epiphany
+
+File: eqonomize.png
+Location: usr/share/icons/hicolor/48x48/apps/eqonomize.png
+Package: eqonomize
+
+File: eric.xpm
+Location: usr/share/pixmaps/eric.xpm
+Package: eric
+
+File: etherape.png
+Location: usr/share/pixmaps/etherape.png
+Package: etherape
+
+File: etracericon.svg
+Location: usr/share/pixmaps/etracericon.svg
+Package: extremetuxracer
+
+File: etw.xpm
+Location: usr/share/pixmaps/etw.xpm
+Package: etw
+
+File: euler-32.xpm
+Location: usr/share/pixmaps/euler-32.xpm
+Package: euler
+
+File: evilvte.png
+Location: usr/share/pixmaps/evilvte.png
+Package: evilvte
+
+File: evince.png
+Location: usr/share/icons/hicolor/48x48/apps/evince.png
+Package: evince
+
+File: evolution.xpm
+Location: usr/share/pixmaps/evolution.xpm
+Package: evolution
+Orig-Package: evolution-common
+
+File: exaile.png
+Location: usr/share/icons/exaile.png
+Package: exaile
+
+File: exfalso.png
+Location: usr/share/pixmaps/exfalso.png
+Package: exfalso
+
+File: extrema.xpm
+Location: usr/share/pixmaps/extrema.xpm
+Package: extrema
+
+File: f-spot.png
+Location: usr/share/icons/hicolor/32x32/apps/f-spot.png
+Package: f-spot
+
+File: fantasdic.png
+Location: usr/share/pixmaps/fantasdic.png
+Package: fantasdic
+
+File: ffanvil32.xpm
+Location: usr/share/icons/ffanvil32.xpm
+Package: fontforge
+
+File: file-roller.png
+Location: usr/share/icons/hicolor/32x32/apps/file-roller.png
+Package: file-roller
+
+File: filelight.png
+Location: usr/share/icons/hicolor/48x48/apps/filelight.png
+Package: filelight
+
+File: filezilla.png
+Location: usr/share/pixmaps/filezilla.png
+Package: filezilla
+
+File: fillets-ng.png
+Location: usr/share/pixmaps/fillets-ng.png
+Package: fillets-ng
+
+File: firestarter.png
+Location: usr/share/pixmaps/firestarter.png
+Package: firestarter
+
+File: fityk.png
+Location: usr/share/pixmaps/fityk.png
+Package: fityk
+
+File: flblocks.png
+Location: usr/share/icons/hicolor/128x128/apps/flblocks.png
+Package: fltk1.1-games
+
+File: flcheckers.png
+Location: usr/share/icons/hicolor/128x128/apps/flcheckers.png
+Package: fltk1.1-games
+
+File: fldigi.xpm
+Location: usr/share/pixmaps/fldigi.xpm
+Package: fldigi
+
+File: flobopuyo.png
+Location: usr/share/pixmaps/flobopuyo.png
+Package: flobopuyo
+
+File: flsudoku.png
+Location: usr/share/icons/hicolor/128x128/apps/flsudoku.png
+Package: fltk1.1-games
+
+File: fluid.png
+Location: usr/share/icons/hicolor/48x48/apps/fluid.png
+Package: fluid
+
+File: flumotion.png
+Location: usr/share/pixmaps/flumotion.png
+Package: flumotion
+
+File: folder_image.png
+Location: usr/share/icons/crystalsvg/48x48/filesystems/folder_image.png
+Package: kdelibs-data
+Orig-Package: kmrml
+
+File: fontmatrix.png
+Location: usr/share/pixmaps/fontmatrix.png
+Package: fontmatrix
+
+File: fontypython.png
+Location: usr/share/pixmaps/fontypython.png
+Package: fontypython
+
+File: foobillard.png
+Location: usr/share/icons/foobillard.png
+Package: foobillard
+
+File: foomatic-gui-logo.png
+Location: usr/share/pixmaps/foomatic-gui-logo.png
+Package: foomatic-gui
+
+File: fotoprint.png
+Location: usr/share/icons/hicolor/48x48/apps/fotoprint.png
+Package: photoprint
+
+File: fraqtive.png
+Location: usr/share/icons/hicolor/48x48/apps/fraqtive.png
+Package: fraqtive
+
+File: freeciv-client.png
+Location: usr/share/icons/hicolor/64x64/apps/freeciv-client.png
+Package: freeciv-data
+Orig-Package: freeciv-client-gtk
+
+File: freecol.xpm
+Location: usr/share/pixmaps/freecol.xpm
+Package: freecol
+
+File: freedm.xpm
+Location: usr/share/pixmaps/freedm.xpm
+Package: freedm
+
+File: freedoom.xpm
+Location: usr/share/pixmaps/freedoom.xpm
+Package: freedoom
+
+File: freetennis.xpm
+Location: usr/share/pixmaps/freetennis.xpm
+Package: freetennis
+
+File: freevial.png
+Location: usr/share/pixmaps/freevial.png
+Package: freevial
+
+File: freqtweak_logo32x18.xpm
+Location: usr/share/pixmaps/freqtweak_logo32x18.xpm
+Package: freqtweak
+
+File: frozen-bubble-icon-48x48.png
+Location: usr/share/pixmaps/frozen-bubble-icon-48x48.png
+Package: frozen-bubble
+
+File: fslint_icon.png
+Location: usr/share/fslint/fslint_icon.png
+Package: fslint
+Orig-Location: usr/share/pixmaps/fslint_icon.png
+
+File: fslview.xpm
+Location: usr/share/pixmaps/fslview.xpm
+Package: fslview
+
+File: funnyboat.xpm
+Location: usr/share/pixmaps/funnyboat.xpm
+Package: funnyboat
+
+File: fusion-icon.png
+Location: usr/share/icons/hicolor/48x48/apps/fusion-icon.png
+Package: fusion-icon
+
+File: fyrdman.png
+Location: usr/share/icons/hicolor/32x32/apps/fyrdman.png
+Package: ggz-kde-games-data
+
+File: g.png
+Location: usr/share/pixmaps/littlewizard/g.png
+Package: littlewizard-data
+Orig-Package: gtweakui
+
+File: gPicon.png
+Location: usr/share/icons/gPicon.png
+Package: gplanarity
+
+File: gSTM.png
+Location: usr/share/pixmaps/gSTM.png
+Package: gstm
+
+File: gabedit.png
+Location: usr/share/icons/hicolor/48x48/apps/gabedit.png
+Package: gabedit
+
+File: gadmin-bind.png
+Location: usr/share/icons/gadmin-bind.png
+Package: gadmin-bind
+
+File: gadmin-dhcpd.png
+Location: usr/share/icons/gadmin-dhcpd.png
+Package: gadmin-dhcpd
+
+File: gadmin-proftpd.png
+Location: usr/share/icons/gadmin-proftpd.png
+Package: gadmin-proftpd
+
+File: gadmin-rsync.png
+Location: usr/share/icons/gadmin-rsync.png
+Package: gadmin-rsync
+
+File: gadmin-samba.png
+Location: usr/share/icons/gadmin-samba.png
+Package: gadmin-samba
+
+File: gadmin-squid.png
+Location: usr/share/icons/gadmin-squid.png
+Package: gadmin-squid
+
+File: gajim.png
+Location: usr/share/pixmaps/gajim.png
+Package: gajim
+
+File: galeon.png
+Location: usr/share/pixmaps/galeon.png
+Package: galeon-common
+
+File: gambit.xpm
+Location: usr/share/pixmaps/gambit.xpm
+Package: gambit
+
+File: gamine.xpm
+Location: usr/share/pixmaps/gamine.xpm
+Package: gamine
+
+File: gaphor.xpm
+Location: usr/share/pixmaps/gaphor.xpm
+Package: gaphor
+
+File: garlic.xpm
+Location: usr/share/pixmaps/garlic.xpm
+Package: garlic
+
+File: gato.xpm
+Location: usr/share/pixmaps/gato.xpm
+Package: gato
+
+File: gaupol.png
+Location: usr/share/icons/hicolor/32x32/apps/gaupol.png
+Package: gaupol
+
+File: gausssum.xpm
+Location: usr/share/pixmaps/gausssum.xpm
+Package: gausssum
+
+File: gbemol.png
+Location: usr/share/pixmaps/gbemol.png
+Package: gbemol
+
+File: gbonds.png
+Location: usr/share/pixmaps/gbonds.png
+Package: gbonds
+
+File: gbrainy.png
+Location: usr/share/icons/hicolor/48x48/apps/gbrainy.png
+Package: gbrainy
+
+File: gcdmaster.png
+Location: usr/share/pixmaps/gcdmaster.png
+Package: gcdmaster
+
+File: gchem3d-viewer.png
+Location: usr/share/icons/hicolor/48x48/apps/gchem3d-viewer.png
+Package: gcu-bin
+
+File: gchemcalc.png
+Location: usr/share/icons/hicolor/48x48/apps/gchemcalc.png
+Package: gcu-bin
+
+File: gchempaint.png
+Location: usr/share/icons/hicolor/48x48/apps/gchempaint.png
+Package: gchempaint
+
+File: gchemtable.png
+Location: usr/share/icons/hicolor/48x48/apps/gchemtable.png
+Package: gcu-bin
+
+File: gcin.png
+Location: usr/share/pixmaps/gcin.png
+Package: gcin
+
+File: gco-gco.png
+Location: usr/share/pixmaps/gco-gco.png
+Package: gco
+
+File: gcompris-edit.png
+Location: usr/share/pixmaps/gcompris-edit.png
+Package: gcompris-data
+Orig-Package: gcompris
+
+File: gcompris.png
+Location: usr/share/pixmaps/gcompris.png
+Package: gcompris-data
+Orig-Package: gcompris
+
+File: gconf-editor.png
+Location: usr/share/icons/hicolor/48x48/apps/gconf-editor.png
+Package: gconf-editor
+
+File: gconjugue.png
+Location: usr/share/pixmaps/gconjugue.png
+Package: gconjugue
+
+File: gcrystal.png
+Location: usr/share/icons/hicolor/48x48/apps/gcrystal.png
+Package: gcrystal
+
+File: gcx.svg
+Location: usr/share/pixmaps/gcx.svg
+Package: gcx
+
+File: gddccontrol.png
+Location: usr/share/pixmaps/gddccontrol.png
+Package: gddccontrol
+
+File: gdesklets.png
+Location: usr/share/pixmaps/gdesklets.png
+Package: gdesklets
+
+File: gdmap_icon.png
+Location: usr/share/pixmaps/gdmap_icon.png
+Package: gdmap
+
+File: geany.png
+Location: usr/share/pixmaps/geany.png
+Package: geany
+
+File: geda-gattrib.png
+Location: usr/share/icons/hicolor/48x48/apps/geda-gattrib.png
+Package: geda-gattrib
+
+File: geda-gschem.png
+Location: usr/share/icons/hicolor/48x48/apps/geda-gschem.png
+Package: geda-gschem
+
+File: geda-xgsch2pcb.png
+Location: usr/share/icons/hicolor/48x48/apps/geda-xgsch2pcb.png
+Package: geda-xgsch2pcb
+
+File: geekast.xpm
+Location: usr/share/pixmaps/geekast.xpm
+Package: geekast-binary
+
+File: geeqie.png
+Location: usr/share/pixmaps/geeqie.png
+Package: geeqie
+
+File: gelemental.png
+Location: usr/share/icons/hicolor/48x48/apps/gelemental.png
+Package: gelemental
+
+File: gemdropx-icon.xpm
+Location: usr/share/pixmaps/gemdropx-icon.xpm
+Package: gemdropx
+
+File: gerbv.png
+Location: usr/share/icons/hicolor/48x48/apps/gerbv.png
+Package: gerbv
+
+File: gfax.png
+Location: usr/share/pixmaps/gfax.png
+Package: gfax
+
+File: gfpoken.png
+Location: usr/share/games/gfpoken/png/gfpoken.png
+Package: gfpoken
+Orig-Location: usr/share/pixmaps/gfpoken.png
+
+File: gftp.png
+Location: usr/share/pixmaps/gftp.png
+Package: gftp-gtk
+
+File: ggcov64.png
+Location: usr/share/pixmaps/ggcov64.png
+Package: ggcov
+
+File: ggobi.png
+Location: usr/share/pixmaps/ggobi.png
+Package: ggobi
+
+File: ggz.png
+Location: usr/share/icons/hicolor/64x64/apps/ggz.png
+Package: ggz-kde-client
+
+File: ggzap.png
+Location: usr/share/icons/hicolor/32x32/apps/ggzap.png
+Package: ggz-kde-client
+
+File: ghex.png
+Location: usr/share/icons/hicolor/48x48/apps/ghex.png
+Package: ghex
+
+File: giggle.png
+Location: usr/share/icons/hicolor/48x48/apps/giggle.png
+Package: giggle
+
+File: gimp.xpm
+Location: usr/share/pixmaps/gimp.xpm
+Package: gimp
+
+File: giver.png
+Location: usr/share/icons/hicolor/48x48/apps/giver.png
+Package: giver
+
+File: gjots.png
+Location: usr/share/pixmaps/gjots.png
+Package: gjots2
+
+File: gkrellm.xpm
+Location: usr/share/pixmaps/gkrellm.xpm
+Package: gkrellm
+
+File: glabels.png
+Location: usr/share/pixmaps/glabels.png
+Package: glabels-data
+
+File: glade-3.png
+Location: usr/share/icons/hicolor/48x48/apps/glade-3.png
+Package: glade
+
+File: glpuzzle.png
+Location: usr/share/icons/glpuzzle.png
+Package: glpuzzle
+
+File: glurp.svg
+Location: usr/share/pixmaps/glurp.svg
+Package: glurp
+
+File: gmail-notify-icon.png
+Location: usr/share/pixmaps/gmail-notify-icon.png
+Package: gmail-notify
+
+File: gmdb2.xpm
+Location: usr/share/pixmaps/gmdb2.xpm
+Package: mdbtools-gmdb
+
+File: gmpc.png
+Location: usr/share/pixmaps/gmpc.png
+Package: gmpc
+
+File: gmsh16x16-smooth.xpm
+Location: usr/share/pixmaps/gmsh16x16-smooth.xpm
+Package: gmsh
+
+File: gmult.png
+Location: usr/share/icons/hicolor/48x48/apps/gmult.png
+Package: gmult
+
+File: gmysqlcc-32.png
+Location: usr/share/pixmaps/gmysqlcc-32.png
+Package: gmysqlcc
+
+File: gnash.png
+Location: usr/share/pixmaps/gnash.png
+Package: gnash-common
+Orig-Package: gnash
+
+File: gnochm.png
+Location: usr/share/pixmaps/gnochm.png
+Package: gnochm
+
+File: gnoemoe-logo.svg
+Location: usr/share/pixmaps/gnoemoe-logo.svg
+Package: gnoemoe
+
+File: gnomad2-logo.png
+Location: usr/share/pixmaps/gnomad2-logo.png
+Package: gnomad2
+
+File: gnome-aisleriot.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-aisleriot.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-apt.png
+Location: usr/share/pixmaps/gnome-apt.png
+Package: gnome-apt
+
+File: gnome-balsa2.png
+Location: usr/share/pixmaps/gnome-balsa2.png
+Package: balsa
+
+File: gnome-blackjack.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-blackjack.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-blog.png
+Location: usr/share/pixmaps/gnome-blog.png
+Package: gnome-blog
+
+File: gnome-calc2.png
+Location: usr/share/pixmaps/gnome-calc2.png
+Package: gnome-desktop-data
+Orig-Package: galculator
+
+File: gnome-chess.png
+Location: usr/share/pixmaps/gnome-chess.png
+Package: gnome-chess
+
+File: gnome-color-chooser.svg
+Location: usr/share/pixmaps/gnome-color-chooser.svg
+Package: gnome-color-chooser
+
+File: gnome-commander.png
+Location: usr/share/pixmaps/gnome-commander.png
+Package: gnome-commander
+
+File: gnome-cromagnon.png
+Location: usr/share/pixmaps/gnome-cromagnon.png
+Package: gnome-desktop-data
+Orig-Package: gnotime
+
+File: gnome-db.png
+Location: usr/share/pixmaps/gnome-db.png
+Package: libgnomedb3-common
+Orig-Package: libgnomedb3-bin
+
+File: gnome-device-manager.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-device-manager.png
+Package: gnome-device-manager
+
+File: gnome-freecell.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-freecell.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-gamazons.png
+Location: usr/share/pixmaps/gamazons/gnome-gamazons.png
+Package: gamazons
+
+File: gnome-genius.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-genius.png
+Package: gnome-genius
+
+File: gnome-glchess.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-glchess.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-glines.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-glines.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-gnect.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-gnect.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-gnibbles.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-gnibbles.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-gnometris.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-gnometris.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-gnumeric.png
+Location: usr/share/pixmaps/gnumeric/gnome-gnumeric.png
+Package: gnumeric-common
+
+File: gnome-hearts.png
+Location: usr/share/pixmaps/gnome-hearts.png
+Package: gnome-hearts
+
+File: gnome-iagno.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-iagno.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-klotski.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-klotski.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-mahjongg.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-mahjongg.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-mastermind.png
+Location: usr/share/icons/hicolor/32x32/apps/gnome-mastermind.png
+Package: gnome-mastermind
+
+File: gnome-mime-application-x-cisco-vpn-settings.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-mime-application-x-cisco-vpn-settings.png
+Package: network-manager-vpnc-gnome
+
+File: gnome-mime-application-x-openvpn-settings.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-mime-application-x-openvpn-settings.png
+Package: network-manager-openvpn-gnome
+
+File: gnome-mime-application-x-pptp-settings.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-mime-application-x-pptp-settings.png
+Package: network-manager-pptp-gnome
+
+File: gnome-mines.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-mines.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-mud.png
+Location: usr/share/pixmaps/gnome-mud.png
+Package: gnome-mud
+
+File: gnome-nettool.png
+Location: usr/share/icons/hicolor/32x32/apps/gnome-nettool.png
+Package: gnome-nettool
+
+File: gnome-oregano.svg
+Location: usr/share/pixmaps/gnome-oregano.svg
+Package: oregano
+
+File: gnome-palm.png
+Location: usr/share/pixmaps/gnome-palm.png
+Package: gnome-pilot
+
+File: gnome-panel.png
+Location: usr/share/icons/hicolor/32x32/apps/gnome-panel.png
+Package: gnome-panel-data
+
+File: gnome-photo-printer.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-photo-printer.png
+Package: gnome-photo-printer
+
+File: gnome-planner.png
+Location: usr/share/pixmaps/gnome-planner.png
+Package: planner
+
+File: gnome-power-manager.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-power-manager.png
+Package: gnome-power-manager
+
+File: gnome-power-statistics.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-power-statistics.png
+Package: gnome-power-manager
+
+File: gnome-ppp.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-ppp.png
+Package: gnome-ppp
+
+File: gnome-rdp-logo.png
+Location: usr/share/pixmaps/gnome-rdp-logo.png
+Package: gnome-rdp
+
+File: gnome-reclevel.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-reclevel.png
+Package: gnome-media-common
+Orig-Package: gnome-media
+
+File: gnome-robots.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-robots.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-samegnome.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-samegnome.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-specimen.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-specimen.png
+Package: gnome-specimen
+
+File: gnome-subtitles.png
+Location: usr/share/pixmaps/gnome-subtitles.png
+Package: gnome-subtitles
+
+File: gnome-sudoku.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-sudoku.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-tali.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-tali.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-tetravex.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-tetravex.png
+Package: gnome-games-data
+Orig-Package: gnome-games
+
+File: gnome-vumeter.png
+Location: usr/share/icons/hicolor/48x48/apps/gnome-vumeter.png
+Package: gnome-media-common
+Orig-Package: gnome-media
+
+File: gnome-web-browser.png
+Location: usr/share/icons/hicolor/32x32/apps/gnome-web-browser.png
+Package: epiphany-browser-data
+
+File: gnome-week.png
+Location: usr/share/pixmaps/gnome-week.png
+Package: gnome-desktop-data
+Orig-Package: gtimelog
+
+File: gnome_apps.png
+Location: usr/share/icons/crystalsvg/48x48/apps/gnome_apps.png
+Package: kdebase-data
+Orig-Package: gtk-qt-engine
+
+File: gnomebaker-48.png
+Location: usr/share/icons/hicolor/48x48/apps/gnomebaker-48.png
+Package: gnomebaker
+
+File: gnomeicu.png
+Location: usr/share/pixmaps/gnomeicu.png
+Package: gnomeicu-common
+
+File: gnomeradio.png
+Location: usr/share/icons/hicolor/48x48/apps/gnomeradio.png
+Package: gnomeradio
+
+File: gnucash-icon.png
+Location: usr/share/icons/hicolor/48x48/apps/gnucash-icon.png
+Package: gnucash-common
+Orig-Package: gnucash
+
+File: gnumed.xpm
+Location: usr/share/pixmaps/gnumed.xpm
+Package: gnumed-client
+
+File: gnunet-gtk.png
+Location: usr/share/icons/gnunet-gtk.png
+Package: gnunet-gtk
+
+File: gnunet-qt.png
+Location: usr/share/icons/gnunet-qt.png
+Package: gnunet-qt
+
+File: goadmin.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+Orig-Location: usr/share/pixmaps/goadmin.xpm
+
+File: goattrk2.xpm
+Location: usr/share/icons/goattrk2.xpm
+Package: goattracker
+
+File: gobby.png
+Location: usr/share/pixmaps/gobby.png
+Package: gobby
+
+File: gok.png
+Location: usr/share/pixmaps/gok.png
+Package: gok
+
+File: golearn.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+Orig-Location: usr/share/pixmaps/golearn.xpm
+
+File: golly.xpm
+Location: usr/share/pixmaps/golly.xpm
+Package: golly
+
+File: gonet.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+Orig-Location: usr/share/pixmaps/gonet.xpm
+
+File: goobox.png
+Location: usr/share/icons/hicolor/48x48/apps/goobox.png
+Package: goobox
+
+File: gooffice.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+Orig-Location: usr/share/pixmaps/gooffice.xpm
+
+File: googlizer.png
+Location: usr/share/pixmaps/googlizer.png
+Package: googlizer
+
+File: gopchop.png
+Location: usr/share/pixmaps/gopchop.png
+Package: gopchop
+
+File: goplay.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+
+File: gosa.xpm
+Location: usr/share/pixmaps/gosa.xpm
+Package: gosa-desktop
+
+File: gosafe.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+Orig-Location: usr/share/pixmaps/gosafe.xpm
+
+File: gossip.png
+Location: usr/share/icons/hicolor/48x48/apps/gossip.png
+Package: gossip-common
+
+File: goweb.xpm
+Location: usr/share/pixmaps/goplay.xpm
+Package: goplay
+Orig-Location: usr/share/pixmaps/goweb.xpm
+
+File: gpaint.xpm
+Location: usr/share/pixmaps/gpaint.xpm
+Package: gpaint
+
+File: gparted.png
+Location: usr/share/pixmaps/gparted.png
+Package: gparted
+
+File: gpass-icon.png
+Location: usr/share/pixmaps/gpass-icon.png
+Package: gpass
+
+File: gpe-calendar.png
+Location: usr/share/pixmaps/gpe-calendar.png
+Package: gpe-calendar
+
+File: gpe-clock.png
+Location: usr/share/pixmaps/gpe-clock.png
+Package: gpe-clock
+
+File: gpe-contacts.png
+Location: usr/share/pixmaps/gpe-contacts.png
+Package: gpe-contacts
+
+File: gpe-edit.png
+Location: usr/share/pixmaps/gpe-edit.png
+Package: gpe-edit
+
+File: gpe-expenses.xpm
+Location: usr/share/pixmaps/gpe-expenses.xpm
+Package: gpe-expenses
+
+File: gpe-julia.png
+Location: usr/share/pixmaps/gpe-julia.png
+Package: gpe-julia
+
+File: gpe-lights.png
+Location: usr/share/pixmaps/gpe-lights.png
+Package: gpe-lights
+
+File: gpe-mininet.xpm
+Location: usr/share/pixmaps/gpe-mininet.xpm
+Package: gpe-mininet
+
+File: gpe-mixer.xpm
+Location: usr/share/pixmaps/gpe-mixer.xpm
+Package: gpe-mixer
+
+File: gpe-othello.png
+Location: usr/share/pixmaps/gpe-othello.png
+Package: gpe-othello
+
+File: gpe-screenshot.xpm
+Location: usr/share/pixmaps/gpe-screenshot.xpm
+Package: gpe-screenshot
+
+File: gpe-shield.xpm
+Location: usr/share/pixmaps/gpe-shield.xpm
+Package: gpe-shield
+
+File: gpe-soundbite-play.xpm
+Location: usr/share/pixmaps/gpe-soundbite-play.xpm
+Package: gpe-soundbite
+
+File: gpe-soundbite-record.xpm
+Location: usr/share/pixmaps/gpe-soundbite-record.xpm
+Package: gpe-soundbite
+
+File: gpe-su.xpm
+Location: usr/share/pixmaps/gpe-su.xpm
+Package: gpe-su
+
+File: gpe-taskmanager.png
+Location: usr/share/pixmaps/gpe-taskmanager.png
+Package: gpe-taskmanager
+
+File: gpe-tetris.png
+Location: usr/share/pixmaps/gpe-tetris.png
+Package: gpe-tetris
+
+File: gpe-timesheet.png
+Location: usr/share/pixmaps/gpe-timesheet.png
+Package: gpe-timesheet
+
+File: gpe-todo.png
+Location: usr/share/pixmaps/gpe-todo.png
+Package: gpe-todo
+
+File: gpe-watch.png
+Location: usr/share/pixmaps/gpe-watch.png
+Package: gpe-watch
+
+File: gpe-what.xpm
+Location: usr/share/pixmaps/gpe-what.xpm
+Package: gpe-what
+
+File: gperiodic.png
+Location: usr/share/pixmaps/gperiodic.png
+Package: gperiodic
+
+File: gphpedit.png
+Location: usr/share/pixmaps/gphpedit.png
+Package: gphpedit
+
+File: gpicview.png
+Location: usr/share/pixmaps/gpicview.png
+Package: gpicview
+
+File: gpodder.png
+Location: usr/share/icons/hicolor/48x48/apps/gpodder.png
+Package: gpodder
+
+File: gpomme.png
+Location: usr/share/icons/hicolor/48x48/apps/gpomme.png
+Package: gpomme
+
+File: gpredict.png
+Location: usr/share/pixmaps/gpredict.png
+Package: gpredict
+
+File: gps.xpm
+Location: usr/share/pixmaps/gps.xpm
+Package: gps
+
+File: gpsk31.png
+Location: usr/share/pixmaps/gpsk31.png
+Package: gpsk31
+
+File: gquilt.xpm
+Location: usr/share/pixmaps/gquilt.xpm
+Package: gquilt
+
+File: gqview.png
+Location: usr/share/pixmaps/gqview.png
+Package: gqview
+
+File: grace.png
+Location: usr/share/pixmaps/grace.png
+Package: grace
+Orig-Location: usr/share/icons/hicolor/48x48/apps/grace.png
+
+File: grace6.png
+Location: usr/share/pixmaps/grace6.png
+Package: grace6
+Orig-Location: usr/share/icons/hicolor/48x48/apps/grace6.png
+
+File: gramps.png
+Location: usr/share/pixmaps/gramps.png
+Package: gramps
+
+File: granule.png
+Location: usr/share/pixmaps/granule.png
+Package: granule
+
+File: graphthing.xpm
+Location: usr/share/pixmaps/graphthing.xpm
+Package: graphthing
+
+File: gravitation.xpm
+Location: usr/share/pixmaps/gravitation.xpm
+Package: gravitation
+
+File: grdesktop.png
+Location: usr/share/pixmaps/grdesktop/icon.png
+Package: grdesktop
+Orig-Location: usr/share/pixmaps/grdesktop.png
+
+File: greenwich.png
+Location: usr/share/icons/hicolor/48x48/apps/greenwich.png
+Package: greenwich
+
+File: gresolver.png
+Location: usr/share/pixmaps/gresolver.png
+Package: gresolver
+
+File: gretl.xpm
+Location: usr/share/pixmaps/gretl.xpm
+Package: gretl-common
+
+File: grhino.png
+Location: usr/share/pixmaps/grhino.png
+Package: grhino
+
+File: griffith.png
+Location: usr/share/pixmaps/griffith.png
+Package: griffith
+
+File: gripicon.png
+Location: usr/share/pixmaps/gripicon.png
+Package: grip
+
+File: grisbi.png
+Location: usr/share/pixmaps/grisbi/grisbi.png
+Package: grisbi
+Orig-Package: xshogi
+
+File: grsync.png
+Location: usr/share/icons/grsync.png
+Package: grsync
+
+File: gsoko.png
+Location: usr/share/pixmaps/gsoko.png
+Package: gsoko
+
+File: gstreamer-properties.png
+Location: usr/share/icons/hicolor/48x48/apps/gstreamer-properties.png
+Package: gnome-media-common
+Orig-Package: gnome-media
+
+File: gtetrinet.png
+Location: usr/share/pixmaps/gtetrinet.png
+Package: gtetrinet
+
+File: gthumb.png
+Location: usr/share/icons/hicolor/48x48/apps/gthumb.png
+Package: gthumb-data
+Orig-Package: gthumb
+
+File: gtimer.xpm
+Location: usr/share/pixmaps/gtimer.xpm
+Package: gtimer
+
+File: gtk-gnutella.png
+Location: usr/share/pixmaps/gtk-gnutella.png
+Package: gtk-gnutella
+
+File: gtk-recordmydesktop.png
+Location: usr/share/pixmaps/gtk-recordmydesktop.png
+Package: gtk-recordmydesktop
+
+File: gtkam.png
+Location: usr/share/pixmaps/gtkam.png
+Package: gtkam
+
+File: gtkboard.png
+Location: usr/share/pixmaps/gtkboard.png
+Package: gtkboard
+
+File: gtkpycad.xpm
+Location: usr/share/pixmaps/gtkpycad.xpm
+Package: pythoncad
+
+File: gtm.png
+Location: usr/share/pixmaps/gtm.png
+Package: gtm
+
+File: gtodo.png
+Location: usr/share/pixmaps/gtodo.png
+Package: gtodo
+
+File: gtorrentviewer.png
+Location: usr/share/pixmaps/gtorrentviewer.png
+Package: gtorrent-viewer
+
+File: gtranslator.png
+Location: usr/share/pixmaps/gtranslator.png
+Package: gtranslator
+
+File: guarddog.png
+Location: usr/share/icons/hicolor/48x48/apps/guarddog.png
+Package: guarddog
+
+File: gui-apt-key.xpm
+Location: usr/share/pixmaps/gui-apt-key.xpm
+Package: gui-apt-key
+
+File: gunroar.xpm
+Location: usr/share/pixmaps/gunroar.xpm
+Package: gunroar
+
+File: gurlchecker.png
+Location: usr/share/pixmaps/gurlchecker.png
+Package: gurlchecker
+
+File: gvb.svg
+Location: usr/share/pixmaps/gvb.svg
+Package: gvb
+
+File: gwc-logo.png
+Location: usr/share/pixmaps/gwc-logo.png
+Package: gwc
+
+File: gweled.png
+Location: usr/share/pixmaps/gweled.png
+Package: gweled
+
+File: gwenview.png
+Location: usr/share/icons/hicolor/48x48/apps/gwenview.png
+Package: gwenview
+
+File: gwget.png
+Location: usr/share/pixmaps/gwget.png
+Package: gwget
+
+File: gworldclock.png
+Location: usr/share/pixmaps/gworldclock.png
+Package: gworldclock
+
+File: gwyddion.png
+Location: usr/share/icons/hicolor/48x48/apps/gwyddion.png
+Package: gwyddion-common
+Orig-Package: gwyddion
+
+File: gxine.png
+Location: usr/share/icons/hicolor/64x64/apps/gxine.png
+Package: gxine
+
+File: gxneur.xpm
+Location: usr/share/pixmaps/gxneur.xpm
+Package: gxneur
+
+File: hannah.xpm
+Location: usr/share/pixmaps/hannah.xpm
+Package: hannah-data
+Orig-Package: hannah
+
+File: happydigger.png
+Location: usr/share/pixmaps/happydigger.png
+Package: happydigger
+
+File: heroes.xpm
+Location: usr/share/pixmaps/heroes.xpm
+Package: heroes-common
+
+File: hex-a-hop.xpm
+Location: usr/share/pixmaps/hex-a-hop.xpm
+Package: hex-a-hop
+
+File: hi48-app-wireshark.png
+Location: usr/share/pixmaps/hi48-app-wireshark.png
+Package: wireshark
+
+File: hocr1-48.png
+Location: usr/share/pixmaps/hocr1-48.png
+Package: hocr-gtk
+
+File: holotz-castle.xpm
+Location: usr/share/pixmaps/holotz-castle.xpm
+Package: holotz-castle
+
+File: homebank.png
+Location: usr/share/icons/hicolor/48x48/apps/homebank.png
+Package: homebank
+
+File: hotwire.png
+Location: usr/share/icons/hicolor/22x22/apps/hotwire.png
+Package: hotwire
+
+File: htop.png
+Location: usr/share/pixmaps/htop.png
+Package: htop
+
+File: hugin.png
+Location: usr/share/pixmaps/hugin.png
+Package: hugin-data
+Orig-Package: hugin
+
+File: iceape-addressbook.xpm
+Location: usr/share/pixmaps/iceape-addressbook.xpm
+Package: iceape-mailnews
+
+File: iceape-composer.xpm
+Location: usr/share/pixmaps/iceape-composer.xpm
+Package: iceape-browser
+
+File: iceape-mail-compose.xpm
+Location: usr/share/pixmaps/iceape-mail-compose.xpm
+Package: iceape-mailnews
+
+File: iceape-mailnews.xpm
+Location: usr/share/pixmaps/iceape-mailnews.xpm
+Package: iceape-mailnews
+
+File: iceape.xpm
+Location: usr/share/pixmaps/iceape.xpm
+Package: iceape-browser
+
+File: icebreaker_48.xpm
+Location: usr/share/pixmaps/icebreaker_48.xpm
+Package: icebreaker
+
+File: icedove.png
+Location: usr/share/icedove/icons/default.png
+Package: icedove
+Orig-Location: usr/share/pixmaps/icedove.png
+
+File: iceowl.png
+Location: usr/share/iceowl/icons/mozicon50.png
+Package: iceowl
+Orig-Location: usr/share/pixmaps/iceowl.png
+
+File: iceweasel.png
+Location: usr/share/iceweasel/chrome/icons/default/default48.png
+Package: iceweasel
+Orig-Location: usr/share/icons/hicolor/48x48/apps/iceweasel.png
+
+File: icon_kicad.xpm
+Location: usr/share/pixmaps/icon_kicad.xpm
+Package: kicad
+
+File: ii-esu.xpm
+Location: usr/share/pixmaps/ii-esu.xpm
+Package: ii-esu
+
+File: ikea.png
+Location: usr/share/pixmaps/ikea.png
+Package: ike-qtgui
+
+File: imview.xpm
+Location: usr/share/pixmaps/imview.xpm
+Package: imview
+
+File: inkblot.png
+Location: usr/share/icons/hicolor/48x48/apps/inkblot.png
+Package: inkblot
+
+File: inkscape.png
+Location: usr/share/pixmaps/inkscape.png
+Package: inkscape
+
+File: ipe.png
+Location: usr/share/pixmaps/ipe.png
+Package: ipe
+
+File: irkick.png
+Location: usr/share/icons/hicolor/32x32/apps/irkick.png
+Package: kdelirc
+
+File: istanbul.png
+Location: usr/share/pixmaps/istanbul.png
+Package: istanbul
+
+File: jaaa.xpm
+Location: usr/share/pixmaps/jaaa.xpm
+Package: jaaa
+
+File: jack-rack-icon.png
+Location: usr/share/pixmaps/jack-rack-icon.png
+Package: jack-rack
+
+File: jackbeat.xpm
+Location: usr/share/pixmaps/jackbeat.xpm
+Package: jackbeat
+
+File: jamin.svg
+Location: usr/share/icons/jamin.svg
+Package: jamin
+
+File: jclic.png
+Location: usr/share/pixmaps/jclic.png
+Package: jclic
+
+File: jclicauthor.png
+Location: usr/share/pixmaps/jclicauthor.png
+Package: jclic
+
+File: jclicreports.png
+Location: usr/share/pixmaps/jclicreports.png
+Package: jclic
+
+File: jd.png
+Location: usr/share/pixmaps/jd.png
+Package: jd
+
+File: jiten.png
+Location: usr/share/pixmaps/jiten.png
+Package: gjiten
+
+File: jpilot.xpm
+Location: usr/share/pixmaps/jpilot.xpm
+Package: jpilot
+
+File: juk.png
+Location: usr/share/icons/hicolor/48x48/apps/juk.png
+Package: juk
+
+File: k3b.xpm
+Location: usr/share/pixmaps/k3b.xpm
+Package: k3b
+
+File: kaboodle.png
+Location: usr/share/icons/hicolor/48x48/apps/kaboodle.png
+Package: kaboodle
+
+File: kaddressbook.png
+Location: usr/share/icons/hicolor/48x48/apps/kaddressbook.png
+Package: kaddressbook
+
+File: kadu.xpm
+Location: usr/share/pixmaps/kadu.xpm
+Package: kadu
+
+File: kaffeine.png
+Location: usr/share/icons/hicolor/48x48/apps/kaffeine.png
+Package: kaffeine
+
+File: kalarm.png
+Location: usr/share/icons/hicolor/48x48/apps/kalarm.png
+Package: kalarm
+
+File: kallery.png
+Location: usr/share/icons/hicolor/48x48/apps/kallery.png
+Package: kallery
+
+File: kalzium.png
+Location: usr/share/icons/hicolor/48x48/apps/kalzium.png
+Package: kalzium
+
+File: kanagram.png
+Location: usr/share/icons/hicolor/48x48/apps/kanagram.png
+Package: kanagram
+
+File: kanatest.png
+Location: usr/share/games/pixmaps/kanatest.png
+Package: kanatest
+Orig-Location: usr/share/pixmaps/kanatest.png
+
+File: kappfinder.png
+Location: usr/share/icons/hicolor/48x48/apps/kappfinder.png
+Package: kappfinder
+
+File: karbon.png
+Location: usr/share/icons/hicolor/48x48/apps/karbon.png
+Package: karbon
+
+File: karm.png
+Location: usr/share/icons/hicolor/48x48/apps/karm.png
+Package: karm
+
+File: kasablanca.png
+Location: usr/share/icons/hicolor/48x48/apps/kasablanca.png
+Package: kasablanca
+
+File: kasteroids.png
+Location: usr/share/icons/hicolor/48x48/apps/kasteroids.png
+Package: kasteroids
+
+File: kasumi.png
+Location: usr/share/pixmaps/kasumi.png
+Package: kasumi
+
+File: katapult.png
+Location: usr/share/icons/hicolor/48x48/apps/katapult.png
+Package: katapult
+
+File: kate.png
+Location: usr/share/icons/hicolor/48x48/apps/kate.png
+Package: kate
+
+File: katomic.png
+Location: usr/share/icons/hicolor/48x48/apps/katomic.png
+Package: katomic
+
+File: kaudiocreator.png
+Location: usr/share/icons/hicolor/32x32/apps/kaudiocreator.png
+Package: kaudiocreator
+
+File: kazehakase-icon.png
+Location: usr/share/pixmaps/kazehakase-icon.png
+Package: kazehakase
+
+File: kbabel.png
+Location: usr/share/icons/hicolor/48x48/apps/kbabel.png
+Package: kbabel
+
+File: kbabeldict.png
+Location: usr/share/icons/hicolor/48x48/apps/kbabeldict.png
+Package: kbabel
+
+File: kbackgammon.png
+Location: usr/share/icons/hicolor/48x48/apps/kbackgammon.png
+Package: kbackgammon
+
+File: kball.xpm
+Location: usr/share/pixmaps/kball.xpm
+Package: kball
+
+File: kbarcode.png
+Location: usr/share/icons/hicolor/64x64/apps/kbarcode.png
+Package: kbarcode
+
+File: kbattleship.png
+Location: usr/share/icons/hicolor/48x48/apps/kbattleship.png
+Package: kbattleship
+
+File: kbfxconfigapp.png
+Location: usr/share/icons/hicolor/32x32/apps/kbfxconfigapp.png
+Package: kbfx
+
+File: kbibtex.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kbibtex.png
+Package: kbibtex
+
+File: kblackbox.png
+Location: usr/share/icons/hicolor/48x48/apps/kblackbox.png
+Package: kblackbox
+
+File: kboincspy.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kboincspy.png
+Package: kboincspy
+
+File: kbounce.png
+Location: usr/share/icons/hicolor/48x48/apps/kbounce.png
+Package: kbounce
+
+File: kbruch.png
+Location: usr/share/icons/hicolor/48x48/apps/kbruch.png
+Package: kbruch
+
+File: kbugbuster.png
+Location: usr/share/icons/hicolor/48x48/apps/kbugbuster.png
+Package: kbugbuster
+
+File: kcachegrind.png
+Location: usr/share/icons/hicolor/48x48/apps/kcachegrind.png
+Package: kcachegrind
+
+File: kcc.png
+Location: usr/share/icons/hicolor/48x48/apps/kcc.png
+Package: ggz-kde-games-data
+
+File: kchart.png
+Location: usr/share/icons/hicolor/48x48/apps/kchart.png
+Package: kchart
+
+File: kcheckgmail.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kcheckgmail.png
+Package: kcheckgmail
+
+File: kchmviewer.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kchmviewer.png
+Package: kchmviewer
+
+File: kcmdf.png
+Location: usr/share/icons/crystalsvg/32x32/apps/kcmdf.png
+Package: kdf
+
+File: kcmkicker.png
+Location: usr/share/icons/crystalsvg/32x32/apps/kcmkicker.png
+Package: kdebase-data
+Orig-Package: kicker
+
+File: kcmsambaconf.png
+Location: usr/share/icons/hicolor/16x16/apps/kcmsambaconf.png
+Package: kdenetwork-filesharing
+
+File: kcolorchooser.png
+Location: usr/share/icons/hicolor/22x22/apps/kcolorchooser.png
+Package: kcoloredit
+
+File: kcoloredit.png
+Location: usr/share/icons/hicolor/32x32/apps/kcoloredit.png
+Package: kcoloredit
+
+File: kcron.png
+Location: usr/share/icons/hicolor/32x32/apps/kcron.png
+Package: kcron
+
+File: kdat.png
+Location: usr/share/icons/hicolor/48x48/apps/kdat.png
+Package: kdat
+
+File: kdbg.png
+Location: usr/share/icons/hicolor/48x48/apps/kdbg.png
+Package: kdbg
+
+File: kdebluetooth.png
+Location: usr/share/icons/hicolor/48x48/apps/kdebluetooth.png
+Package: kdebluetooth
+
+File: kdeprintfax.png
+Location: usr/share/icons/hicolor/48x48/apps/kdeprintfax.png
+Package: kdeprint
+
+File: kdesvn.png
+Location: usr/share/icons/hicolor/48x48/apps/kdesvn.png
+Package: kdesvn
+
+File: kdevdesigner.png
+Location: usr/share/icons/hicolor/48x48/apps/kdevdesigner.png
+Package: kdevelop-data
+
+File: kdevelop.xpm
+Location: usr/share/pixmaps/kdevelop.xpm
+Package: kdevelop
+Orig-Package: kdevelop-data
+
+File: kdf.png
+Location: usr/share/icons/hicolor/48x48/apps/kdf.png
+Package: kdf
+
+File: kdict.png
+Location: usr/share/icons/hicolor/48x48/apps/kdict.png
+Package: kdict
+
+File: kdiff3.png
+Location: usr/share/icons/hicolor/32x32/apps/kdiff3.png
+Package: kdiff3
+
+File: kdissert.png
+Location: usr/share/icons/hicolor/64x64/apps/kdissert.png
+Package: kdissert
+
+File: kdmconfig.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kdmconfig.png
+Package: kdebase-data
+Orig-Package: kdmtheme
+
+File: kdvi.png
+Location: usr/share/icons/hicolor/48x48/apps/kdvi.png
+Package: kdvi
+
+File: keduca.png
+Location: usr/share/icons/hicolor/48x48/apps/keduca.png
+Package: keduca
+
+File: keep.png
+Location: usr/share/icons/hicolor/48x48/apps/keep.png
+Package: keep
+
+File: keepalive.png
+Location: usr/share/icons/hicolor/32x32/apps/keepalive.png
+Package: ggz-kde-games-data
+
+File: keepalivecontrol.png
+Location: usr/share/icons/hicolor/48x48/apps/keepalivecontrol.png
+Package: ggz-kde-client
+
+File: keepassx.xpm
+Location: usr/share/pixmaps/keepassx.xpm
+Package: keepassx
+
+File: kenolaba.png
+Location: usr/share/icons/hicolor/48x48/apps/kenolaba.png
+Package: kenolaba
+
+File: kerry.png
+Location: usr/share/icons/hicolor/48x48/apps/kerry.png
+Package: kerry
+
+File: ketm.xpm
+Location: usr/share/pixmaps/ketm.xpm
+Package: ketm
+
+File: kexi.png
+Location: usr/share/icons/hicolor/48x48/apps/kexi.png
+Package: kexi
+
+File: key16.png
+Location: usr/share/pixmaps/key16.png
+Package: trustedqsl
+
+File: keyjnotegui.png
+Location: usr/share/icons/hicolor/48x48/apps/keyjnotegui.png
+Package: keyjnotegui
+
+File: kfax.png
+Location: usr/share/icons/hicolor/48x48/apps/kfax.png
+Package: kfax
+
+File: kfaxview.png
+Location: usr/share/icons/hicolor/48x48/apps/kfaxview.png
+Package: kfaxview
+
+File: kfilereplace.png
+Location: usr/share/icons/hicolor/48x48/apps/kfilereplace.png
+Package: kfilereplace
+
+File: kflickr.png
+Location: usr/share/icons/hicolor/32x32/apps/kflickr.png
+Package: kflickr
+
+File: kfloppy.png
+Location: usr/share/icons/hicolor/48x48/apps/kfloppy.png
+Package: kfloppy
+
+File: kformula.png
+Location: usr/share/icons/hicolor/48x48/apps/kformula.png
+Package: kformula
+
+File: kfouleggs.png
+Location: usr/share/icons/hicolor/48x48/apps/kfouleggs.png
+Package: kfouleggs
+
+File: kftpgrabber.png
+Location: usr/share/icons/hicolor/48x48/apps/kftpgrabber.png
+Package: kftpgrabber
+
+File: kgamma.png
+Location: usr/share/icons/hicolor/48x48/apps/kgamma.png
+Package: kgamma
+
+File: kgeography.png
+Location: usr/share/icons/hicolor/48x48/apps/kgeography.png
+Package: kgeography
+
+File: kget.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kget.png
+Package: kget
+
+File: kggz.png
+Location: usr/share/icons/hicolor/32x32/apps/kggz.png
+Package: ggz-kde-client
+
+File: kghostview.png
+Location: usr/share/icons/hicolor/48x48/apps/kghostview.png
+Package: kghostview
+
+File: kgoldrunner.png
+Location: usr/share/icons/hicolor/48x48/apps/kgoldrunner.png
+Package: kgoldrunner
+
+File: kgpg.png
+Location: usr/share/icons/hicolor/48x48/apps/kgpg.png
+Package: kgpg
+
+File: kgrubby.png
+Location: usr/share/icons/hicolor/64x64/apps/kgrubby.png
+Package: ggz-kde-client
+
+File: khangman.png
+Location: usr/share/icons/hicolor/48x48/apps/khangman.png
+Package: khangman
+
+File: khexedit.png
+Location: usr/share/icons/hicolor/48x48/apps/khexedit.png
+Package: khexedit
+
+File: khmerconverter.png
+Location: usr/share/pixmaps/khmerconverter.png
+Package: khmerconverter
+
+File: khotkeys.png
+Location: usr/share/icons/hicolor/32x32/apps/khotkeys.png
+Package: kdebase-data
+
+File: kiconedit.png
+Location: usr/share/icons/hicolor/48x48/apps/kiconedit.png
+Package: kiconedit
+
+File: kid3-qt.png
+Location: usr/share/icons/hicolor/48x48/apps/kid3-qt.png
+Package: kid3-qt
+
+File: kid3.png
+Location: usr/share/icons/hicolor/48x48/apps/kid3.png
+Package: kid3
+
+File: kig.png
+Location: usr/share/icons/hicolor/48x48/apps/kig.png
+Package: kig
+
+File: kildclient.png
+Location: usr/share/pixmaps/kildclient.png
+Package: kildclient
+
+File: kile.png
+Location: usr/share/icons/hicolor/48x48/apps/kile.png
+Package: kile
+
+File: kimagemapeditor.png
+Location: usr/share/icons/hicolor/48x48/apps/kimagemapeditor.png
+Package: kimagemapeditor
+
+File: kino.png
+Location: usr/share/pixmaps/kino.png
+Package: kino
+
+File: kiosktool.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kiosktool.png
+Package: kiosktool
+
+File: kipina.png
+Location: usr/share/pixmaps/kipina.png
+Package: kipina
+
+File: kitchensync.png
+Location: usr/share/icons/hicolor/48x48/apps/kitchensync.png
+Package: kitchensync
+
+File: kiten.png
+Location: usr/share/icons/hicolor/48x48/apps/kiten.png
+Package: kiten
+
+File: kivio.png
+Location: usr/share/icons/hicolor/48x48/apps/kivio.png
+Package: kivio-data
+
+File: kjots.png
+Location: usr/share/icons/hicolor/48x48/apps/kjots.png
+Package: kjots
+
+File: kjumpingcube.png
+Location: usr/share/icons/hicolor/48x48/apps/kjumpingcube.png
+Package: kjumpingcube
+
+File: kkbswitch.xpm
+Location: usr/share/pixmaps/kkbswitch.xpm
+Package: kkbswitch
+
+File: klatin.png
+Location: usr/share/icons/hicolor/48x48/apps/klatin.png
+Package: klatin
+
+File: klettres.png
+Location: usr/share/icons/hicolor/48x48/apps/klettres.png
+Package: klettres
+
+File: klibido.png
+Location: usr/share/icons/hicolor/32x32/apps/klibido.png
+Package: klibido
+
+File: klickety.png
+Location: usr/share/icons/hicolor/48x48/apps/klickety.png
+Package: klickety
+
+File: klines.png
+Location: usr/share/icons/hicolor/48x48/apps/klines.png
+Package: klines
+
+File: klinkstatus.png
+Location: usr/share/icons/hicolor/48x48/apps/klinkstatus.png
+Package: klinkstatus
+
+File: klipper.png
+Location: usr/share/icons/hicolor/48x48/apps/klipper.png
+Package: klipper
+
+File: klogic.xpm
+Location: usr/share/pixmaps/klogic.xpm
+Package: klogic
+
+File: kluppe.png
+Location: usr/share/pixmaps/kluppe.png
+Package: kluppe
+
+File: kmahjongg.png
+Location: usr/share/icons/hicolor/48x48/apps/kmahjongg.png
+Package: kmahjongg
+
+File: kmail.png
+Location: usr/share/icons/hicolor/48x48/apps/kmail.png
+Package: kmail
+
+File: kmchart.png
+Location: usr/share/pixmaps/kmchart.png
+Package: kmchart
+
+File: kmenuedit.png
+Location: usr/share/icons/hicolor/48x48/apps/kmenuedit.png
+Package: kmenuedit
+
+File: kmess.png
+Location: usr/share/icons/hicolor/48x48/apps/kmess.png
+Package: kmess
+
+File: kmid.png
+Location: usr/share/icons/hicolor/48x48/apps/kmid.png
+Package: kmid
+
+File: kmidimon.png
+Location: usr/share/icons/hicolor/32x32/apps/kmidimon.png
+Package: kmidimon
+
+File: kmines.png
+Location: usr/share/icons/hicolor/48x48/apps/kmines.png
+Package: kmines
+
+File: kmix.png
+Location: usr/share/icons/hicolor/48x48/apps/kmix.png
+Package: kmix
+
+File: kmplayer.png
+Location: usr/share/icons/hicolor/48x48/apps/kmplayer.png
+Package: kmplayer-common
+Orig-Package: kmplayer
+
+File: kmplot.png
+Location: usr/share/icons/hicolor/48x48/apps/kmplot.png
+Package: kmplot
+
+File: kmyfirewall.png
+Location: usr/share/icons/hicolor/48x48/apps/kmyfirewall.png
+Package: kmyfirewall
+
+File: kmymoney2.png
+Location: usr/share/icons/hicolor/48x48/apps/kmymoney2.png
+Package: kmymoney2
+
+File: knemo.png
+Location: usr/share/icons/crystalsvg/32x32/apps/knemo.png
+Package: knemo
+
+File: knetattach.png
+Location: usr/share/icons/hicolor/48x48/apps/knetattach.png
+Package: kdebase-data
+
+File: knetdockapp.png
+Location: usr/share/icons/hicolor/48x48/apps/knetdockapp.png
+Package: knetdockapp
+
+File: knetload.png
+Location: usr/share/icons/crystalsvg/48x48/apps/knetload.png
+Package: knetload
+
+File: knetwalk.png
+Location: usr/share/icons/hicolor/64x64/apps/knetwalk.png
+Package: knetwalk
+
+File: knetworkconf.png
+Location: usr/share/icons/hicolor/32x32/apps/knetworkconf.png
+Package: knetworkconf
+
+File: knetworkmanager.png
+Location: usr/share/icons/crystalsvg/48x48/apps/knetworkmanager.png
+Package: network-manager-kde
+
+File: knewsticker.png
+Location: usr/share/icons/hicolor/48x48/apps/knewsticker.png
+Package: knewsticker
+
+File: knmap.png
+Location: usr/share/icons/hicolor/32x32/apps/knmap.png
+Package: knmap
+
+File: knode.png
+Location: usr/share/icons/hicolor/48x48/apps/knode.png
+Package: knode
+
+File: knotes.png
+Location: usr/share/icons/hicolor/48x48/apps/knotes.png
+Package: knotes
+
+File: kobo-icon.xpm
+Location: usr/share/pixmaps/kobo-icon.xpm
+Package: kobodeluxe
+
+File: kodo.png
+Location: usr/share/icons/hicolor/48x48/apps/kodo.png
+Package: kodo
+
+File: kolf.png
+Location: usr/share/icons/hicolor/48x48/apps/kolf.png
+Package: kolf
+
+File: kolourpaint.png
+Location: usr/share/icons/hicolor/48x48/apps/kolourpaint.png
+Package: kolourpaint
+
+File: kommander.png
+Location: usr/share/icons/crystalsvg/64x64/apps/kommander.png
+Package: kommander
+
+File: kommando.png
+Location: usr/share/icons/hicolor/64x64/apps/kommando.png
+Package: kommando
+
+File: komparator.png
+Location: usr/share/icons/hicolor/64x64/apps/komparator.png
+Package: komparator
+
+File: kompare.png
+Location: usr/share/icons/hicolor/48x48/apps/kompare.png
+Package: kompare
+
+File: konqueror.png
+Location: usr/share/icons/hicolor/48x48/apps/konqueror.png
+Package: konqueror
+Orig-Package: konqueror-nsplugins
+
+File: konquest.png
+Location: usr/share/icons/hicolor/48x48/apps/konquest.png
+Package: konquest
+
+File: konsolekalendar.png
+Location: usr/share/icons/crystalsvg/32x32/apps/konsolekalendar.png
+Package: konsolekalendar
+
+File: kontact.png
+Location: usr/share/icons/hicolor/48x48/apps/kontact.png
+Package: kontact
+Orig-Package: kdepim-wizards
+
+File: konversation.png
+Location: usr/share/icons/hicolor/48x48/apps/konversation.png
+Package: konversation
+
+File: kopete.png
+Location: usr/share/icons/hicolor/48x48/apps/kopete.png
+Package: kopete
+
+File: korganizer.png
+Location: usr/share/icons/hicolor/48x48/apps/korganizer.png
+Package: korganizer
+
+File: korn.png
+Location: usr/share/icons/hicolor/48x48/apps/korn.png
+Package: korn
+
+File: koshell.png
+Location: usr/share/icons/hicolor/48x48/apps/koshell.png
+Package: koshell
+
+File: koules.png
+Location: usr/share/pixmaps/koules.png
+Package: koules
+
+File: kpackage.png
+Location: usr/share/icons/hicolor/48x48/apps/kpackage.png
+Package: kpackage
+
+File: kpager.png
+Location: usr/share/icons/hicolor/48x48/apps/kpager.png
+Package: kpager
+
+File: kpalmdoc.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kpalmdoc.png
+Package: kpilot
+
+File: kpar2.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kpar2.png
+Package: kpar2
+
+File: kpat.png
+Location: usr/share/icons/hicolor/48x48/apps/kpat.png
+Package: kpat
+
+File: kpdf.png
+Location: usr/share/icons/hicolor/48x48/apps/kpdf.png
+Package: kpdf
+
+File: kpercentage.png
+Location: usr/share/icons/hicolor/48x48/apps/kpercentage.png
+Package: kpercentage
+
+File: kpersonalizer.png
+Location: usr/share/icons/crystalsvg/32x32/apps/kpersonalizer.png
+Package: kpersonalizer
+
+File: kphotoalbum.png
+Location: usr/share/icons/hicolor/48x48/apps/kphotoalbum.png
+Package: kphotoalbum
+
+File: kphotobymail.png
+Location: usr/share/pixmaps/kphotobymail.png
+Package: kphotobymail
+
+File: kpilot.png
+Location: usr/share/icons/hicolor/48x48/apps/kpilot.png
+Package: kpilot
+
+File: kpilot.xpm
+Location: usr/share/pixmaps/kpilot.xpm
+Package: kpilot
+
+File: kplato.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kplato.png
+Package: kplato
+
+File: kpoker.png
+Location: usr/share/icons/hicolor/48x48/apps/kpoker.png
+Package: kpoker
+
+File: kpovmodeler.png
+Location: usr/share/icons/hicolor/48x48/apps/kpovmodeler.png
+Package: kpovmodeler
+
+File: kpowersave.png
+Location: usr/share/icons/hicolor/48x48/apps/kpowersave.png
+Package: kpowersave
+
+File: kppp.png
+Location: usr/share/icons/hicolor/48x48/apps/kppp.png
+Package: kppp
+
+File: kpresenter.png
+Location: usr/share/icons/hicolor/48x48/apps/kpresenter.png
+Package: kpresenter-data
+
+File: krdc.png
+Location: usr/share/icons/crystalsvg/48x48/apps/krdc.png
+Package: krdc
+
+File: krec.png
+Location: usr/share/icons/hicolor/48x48/apps/krec.png
+Package: krec
+
+File: kregexpeditor.png
+Location: usr/share/icons/hicolor/48x48/apps/kregexpeditor.png
+Package: kregexpeditor
+
+File: krename.png
+Location: usr/share/icons/hicolor/48x48/apps/krename.png
+Package: krename
+
+File: kreversi.png
+Location: usr/share/icons/hicolor/48x48/apps/kreversi.png
+Package: kreversi
+
+File: krita.png
+Location: usr/share/icons/hicolor/48x48/apps/krita.png
+Package: krita-data
+
+File: kruler.png
+Location: usr/share/icons/hicolor/48x48/apps/kruler.png
+Package: kruler
+
+File: krusader_root.png
+Location: usr/share/icons/crystalsvg/48x48/apps/krusader_root.png
+Package: krusader
+
+File: krusader_user.png
+Location: usr/share/icons/crystalsvg/48x48/apps/krusader_user.png
+Package: krusader
+
+File: ksame.png
+Location: usr/share/icons/hicolor/48x48/apps/ksame.png
+Package: ksame
+
+File: ksayit.png
+Location: usr/share/icons/hicolor/32x32/apps/ksayit.png
+Package: ksayit
+
+File: kscd.png
+Location: usr/share/icons/hicolor/48x48/apps/kscd.png
+Package: kscd
+
+File: kscope.png
+Location: usr/share/icons/hicolor/32x32/apps/kscope.png
+Package: kscope
+
+File: kseg.xpm
+Location: usr/share/pixmaps/kseg.xpm
+Package: kseg
+
+File: kshisen.png
+Location: usr/share/icons/hicolor/48x48/apps/kshisen.png
+Package: kshisen
+
+File: kshutdown.png
+Location: usr/share/icons/hicolor/48x48/apps/kshutdown.png
+Package: kshutdown
+
+File: ksig.png
+Location: usr/share/icons/hicolor/32x32/apps/ksig.png
+Package: ksig
+
+File: ksimus.png
+Location: usr/share/icons/hicolor/32x32/apps/ksimus.png
+Package: ksimus
+
+File: ksirc.png
+Location: usr/share/icons/hicolor/48x48/apps/ksirc.png
+Package: ksirc
+
+File: ksirtet.png
+Location: usr/share/icons/hicolor/48x48/apps/ksirtet.png
+Package: ksirtet
+
+File: ksmiletris.png
+Location: usr/share/icons/hicolor/48x48/apps/ksmiletris.png
+Package: ksmiletris
+
+File: ksnake.png
+Location: usr/share/icons/hicolor/48x48/apps/ksnake.png
+Package: ksnake
+
+File: ksnapshot.png
+Location: usr/share/icons/hicolor/48x48/apps/ksnapshot.png
+Package: ksnapshot
+
+File: ksniffer.png
+Location: usr/share/icons/hicolor/48x48/apps/ksniffer.png
+Package: ksniffer
+
+File: ksokoban.png
+Location: usr/share/icons/hicolor/48x48/apps/ksokoban.png
+Package: ksokoban
+
+File: kspaceduel.png
+Location: usr/share/icons/hicolor/48x48/apps/kspaceduel.png
+Package: kspaceduel
+
+File: ksplash.png
+Location: usr/share/icons/hicolor/48x48/apps/ksplash.png
+Package: ksplash
+
+File: kspread.png
+Location: usr/share/icons/hicolor/48x48/apps/kspread.png
+Package: kspread
+
+File: kst.png
+Location: usr/share/icons/hicolor/32x32/mimetypes/kst.png
+Package: kst-bin
+
+File: kstars.png
+Location: usr/share/icons/hicolor/48x48/apps/kstars.png
+Package: kstars
+
+File: kstreamripper.png
+Location: usr/share/pixmaps/kstreamripper.png
+Package: kstreamripper
+
+File: ksubtile.png
+Location: usr/share/icons/hicolor/32x32/apps/ksubtile.png
+Package: ksubtile
+
+File: ksudoku.png
+Location: usr/share/icons/hicolor/128x128/apps/ksudoku.png
+Package: ksudoku
+
+File: ksystemlog.png
+Location: usr/share/icons/hicolor/48x48/apps/ksystemlog.png
+Package: ksystemlog
+
+File: ksysv.png
+Location: usr/share/icons/hicolor/48x48/apps/ksysv.png
+Package: ksysv
+
+File: ktalkd.png
+Location: usr/share/icons/crystalsvg/48x48/apps/ktalkd.png
+Package: ktalkd
+
+File: kteatime.png
+Location: usr/share/icons/hicolor/48x48/apps/kteatime.png
+Package: kteatime
+
+File: ktictactux.png
+Location: usr/share/icons/hicolor/48x48/apps/ktictactux.png
+Package: ggz-kde-games-data
+
+File: ktimer.png
+Location: usr/share/icons/hicolor/48x48/apps/ktimer.png
+Package: ktimer
+
+File: ktip.png
+Location: usr/share/icons/hicolor/48x48/apps/ktip.png
+Package: ktip
+
+File: ktnef.png
+Location: usr/share/icons/hicolor/48x48/apps/ktnef.png
+Package: ktnef
+
+File: ktorrent.png
+Location: usr/share/icons/hicolor/48x48/apps/ktorrent.png
+Package: ktorrent
+
+File: ktouch.png
+Location: usr/share/icons/hicolor/48x48/apps/ktouch.png
+Package: ktouch
+
+File: ktron.png
+Location: usr/share/icons/hicolor/48x48/apps/ktron.png
+Package: ktron
+
+File: kttsd.png
+Location: usr/share/icons/crystalsvg/48x48/apps/kttsd.png
+Package: kdelibs-data
+Orig-Package: kttsd
+
+File: ktuberling.png
+Location: usr/share/icons/hicolor/48x48/apps/ktuberling.png
+Package: ktuberling
+
+File: kturtle.png
+Location: usr/share/icons/hicolor/32x32/apps/kturtle.png
+Package: kturtle
+
+File: kugar.png
+Location: usr/share/icons/hicolor/48x48/apps/kugar.png
+Package: kugar
+
+File: kuickshow.png
+Location: usr/share/icons/hicolor/32x32/apps/kuickshow.png
+Package: kuickshow
+
+File: kuiviewer.png
+Location: usr/share/icons/hicolor/48x48/apps/kuiviewer.png
+Package: kuiviewer
+
+File: kverbos.png
+Location: usr/share/icons/hicolor/48x48/apps/kverbos.png
+Package: kverbos
+
+File: kview.png
+Location: usr/share/icons/hicolor/48x48/apps/kview.png
+Package: kview
+
+File: kvoctrain.png
+Location: usr/share/icons/hicolor/48x48/apps/kvoctrain.png
+Package: kvoctrain
+
+File: kvpnc.png
+Location: usr/share/icons/hicolor/32x32/apps/kvpnc.png
+Package: kvpnc
+
+File: kwalletmanager.png
+Location: usr/share/icons/hicolor/48x48/apps/kwalletmanager.png
+Package: kwalletmanager
+
+File: kwifimanager.png
+Location: usr/share/icons/hicolor/48x48/apps/kwifimanager.png
+Package: kwifimanager
+
+File: kwikdisk.png
+Location: usr/share/icons/hicolor/48x48/apps/kwikdisk.png
+Package: kdf
+
+File: kwin4.png
+Location: usr/share/icons/hicolor/48x48/apps/kwin4.png
+Package: kwin4
+
+File: kwlan.png
+Location: usr/share/icons/hicolor/22x22/apps/kwlan.png
+Package: kwlan
+
+File: kword.png
+Location: usr/share/icons/hicolor/48x48/apps/kword.png
+Package: kword-data
+
+File: kwordquiz.png
+Location: usr/share/icons/hicolor/48x48/apps/kwordquiz.png
+Package: kwordquiz
+
+File: kworldclock.png
+Location: usr/share/icons/hicolor/48x48/apps/kworldclock.png
+Package: kworldclock
+
+File: kwrite.png
+Location: usr/share/icons/hicolor/48x48/apps/kwrite.png
+Package: kate
+
+File: kxneur.xpm
+Location: usr/share/pixmaps/kxneur.xpm
+Package: kxneur
+
+File: kzenexplorer.png
+Location: usr/share/icons/hicolor/48x48/apps/kzenexplorer.png
+Package: kzenexplorer
+
+File: laptop.png
+Location: usr/share/icons/crystalsvg/48x48/devices/laptop.png
+Package: kdebase-data
+Orig-Package: kmilo
+
+File: last-exit.png
+Location: usr/share/icons/hicolor/22x22/apps/last-exit.png
+Package: last-exit
+
+File: lastfm.png
+Location: usr/share/icons/hicolor/48x48/apps/lastfm.png
+Package: lastfm
+
+File: lat.png
+Location: usr/share/pixmaps/lat.png
+Package: lat
+
+File: leafpad.png
+Location: usr/share/icons/hicolor/32x32/apps/leafpad.png
+Package: leafpad
+
+File: licq.png
+Location: usr/share/icons/crystalsvg/48x48/apps/licq.png
+Package: kdebase-data
+Orig-Package: licq-plugin-kde
+
+File: liferea.png
+Location: usr/share/icons/hicolor/48x48/apps/liferea.png
+Package: liferea
+
+File: lightyears.xpm
+Location: usr/share/pixmaps/lightyears.xpm
+Package: lightyears
+
+File: liguidsoap.xpm
+Location: usr/share/pixmaps/liguidsoap.xpm
+Package: liguidsoap
+
+File: lincity-ng.png
+Location: usr/share/pixmaps/lincity-ng.png
+Package: lincity-ng
+
+File: linguist.png
+Location: usr/share/icons/crystalsvg/32x32/apps/linguist.png
+Package: kdebase-data
+Orig-Package: qt3-linguist
+
+File: linphone2.png
+Location: usr/share/pixmaps/linphone/linphone2.png
+Package: linphone
+
+File: liquidwar.xpm
+Location: usr/share/pixmaps/liquidwar.xpm
+Package: liquidwar
+
+File: listen.png
+Location: usr/share/pixmaps/listen.png
+Package: listen
+
+File: lletters.xpm
+Location: usr/share/pixmaps/lletters.xpm
+Package: lletters
+
+File: lmarbles.xpm
+Location: usr/share/pixmaps/lmarbles.xpm
+Package: lmarbles
+
+File: logo_cp_48x48.xpm
+Location: usr/share/pixmaps/logo_cp_48x48.xpm
+Package: childsplay
+
+File: lopster.xpm
+Location: usr/share/pixmaps/lopster.xpm
+Package: lopster
+
+File: lordsawar.xpm
+Location: usr/share/pixmaps/lordsawar.xpm
+Package: lordsawar
+
+File: lostirc.png
+Location: usr/share/pixmaps/lostirc.png
+Package: lostirc
+
+File: lprof.png
+Location: usr/share/pixmaps/lprof.png
+Package: lprof
+
+File: lshw-gtk.xpm
+Location: usr/share/pixmaps/lshw-gtk.xpm
+Package: lshw-gtk
+
+File: lskat.png
+Location: usr/share/icons/hicolor/48x48/apps/lskat.png
+Package: lskat
+
+File: luola-icon.xpm
+Location: usr/share/pixmaps/luola-icon.xpm
+Package: luola
+
+File: lxterminal.png
+Location: usr/share/pixmaps/lxterminal.png
+Package: lxterminal
+
+File: lybniz.png
+Location: usr/share/pixmaps/lybniz.png
+Package: lybniz
+
+File: madbomber-icon.xpm
+Location: usr/share/pixmaps/madbomber-icon.xpm
+Package: madbomber
+
+File: mail-notification.png
+Location: usr/share/icons/hicolor/48x48/apps/mail-notification.png
+Package: mail-notification
+
+File: mailody.png
+Location: usr/share/icons/hicolor/128x128/apps/mailody.png
+Package: mailody
+
+File: manedit.xpm
+Location: usr/share/icons/manedit.xpm
+Package: manedit
+
+File: manview.xpm
+Location: usr/share/icons/manview.xpm
+Package: manedit
+
+File: marble.xpm
+Location: usr/share/pixmaps/marble.xpm
+Package: marble
+Orig-Package: marble-data
+
+File: matchbox-keyboard.png
+Location: usr/share/pixmaps/matchbox-keyboard.png
+Package: matchbox-keyboard
+
+File: mathomatic.png
+Location: usr/share/pixmaps/mathomatic.png
+Package: mathomatic
+
+File: mathwar.png
+Location: usr/share/pixmaps/mathwar.png
+Package: mathwar
+
+File: matroskalogo.xpm
+Location: usr/share/pixmaps/matroskalogo.xpm
+Package: mkvtoolnix-gui
+
+File: maxima-icon.png
+Location: usr/share/doc/xmaxima/maxima-icon.png
+Package: xmaxima
+Orig-Location: usr/share/pixmaps/maxima-icon.png
+
+File: mbpanelmgr.png
+Location: usr/share/pixmaps/mbpanelmgr.png
+Package: matchbox-panel-manager
+
+File: me-tv.xpm
+Location: usr/share/pixmaps/me-tv.xpm
+Package: me-tv
+
+File: media-player-banshee.png
+Location: usr/share/icons/hicolor/48x48/apps/media-player-banshee.png
+Package: banshee
+
+File: medit.png
+Location: usr/share/icons/hicolor/48x48/apps/medit.png
+Package: medit
+
+File: meld.png
+Location: usr/share/pixmaps/meld.png
+Package: meld
+
+File: mergeant.png
+Location: usr/share/pixmaps/mergeant.png
+Package: mergeant
+
+File: meritous.xpm
+Location: usr/share/pixmaps/meritous.xpm
+Package: meritous
+
+File: mhwaveedit.xpm
+Location: usr/share/pixmaps/mhwaveedit.xpm
+Package: mhwaveedit
+
+File: milkytracker.png
+Location: usr/share/icons/milkytracker.png
+Package: milkytracker
+
+File: minbar.png
+Location: usr/share/icons/hicolor/48x48/apps/minbar.png
+Package: minbar
+
+File: mini-gsmc.xpm
+Location: usr/share/pixmaps/mini-gsmc.xpm
+Package: gsmc
+
+File: minirok.png
+Location: usr/share/icons/hicolor/48x48/apps/minirok.png
+Package: minirok
+
+File: mirage.png
+Location: usr/share/pixmaps/mirage.png
+Package: mirage
+
+File: miro-72x72.png
+Location: usr/share/pixmaps/miro-72x72.png
+Package: miro
+
+File: mlgui.xpm
+Location: usr/share/pixmaps/mlgui.xpm
+Package: mldonkey-gui
+
+File: mlterm-icon-24colors-1.xpm
+Location: usr/share/pixmaps/mlterm-icon-24colors-1.xpm
+Package: mlterm-common
+
+File: mnemosyne.png
+Location: usr/share/icons/mnemosyne.png
+Package: mnemosyne
+
+File: monodevelop.png
+Location: usr/share/icons/hicolor/48x48/apps/monodevelop.png
+Package: monodevelop
+
+File: monodoc.png
+Location: usr/share/pixmaps/monodoc.png
+Package: monodoc-browser
+Orig-Package: mono-tools-gui
+
+File: monster-masher.png
+Location: usr/share/pixmaps/monster-masher.png
+Package: monster-masher
+
+File: mousepad.png
+Location: usr/share/pixmaps/mousepad.png
+Package: mousepad
+
+File: mplayer.xpm
+Location: usr/share/pixmaps/mplayer.xpm
+Package: mplayer
+
+File: mscore.png
+Location: usr/share/pixmaps/mscore.png
+Package: mscore
+
+File: mu-cade.xpm
+Location: usr/share/pixmaps/mu-cade.xpm
+Package: mu-cade
+
+File: muehle.png
+Location: usr/share/icons/hicolor/64x64/apps/muehle.png
+Package: ggz-kde-games-data
+
+File: mumble.png
+Location: usr/share/icons/hicolor/apps/48x48/mumble.png
+Package: mumble
+
+File: murmur.png
+Location: usr/share/icons/hicolor/48x48/apps/murmur.png
+Package: murmur
+
+File: muse.xpm
+Location: usr/share/pixmaps/muse.xpm
+Package: muse
+
+File: museeq.png
+Location: usr/share/icons/hicolor/48x48/apps/museeq.png
+Package: museeq
+
+File: musetup-gtk.png
+Location: usr/share/icons/hicolor/48x48/apps/musetup-gtk.png
+Package: musetup-gtk
+
+File: mysql-navigator.xpm
+Location: usr/share/pixmaps/mysql-navigator.xpm
+Package: mysql-navigator
+
+File: nateon.png
+Location: usr/share/icons/hicolor/48x48/apps/nateon.png
+Package: nateon
+
+File: nateon_messagebox.png
+Location: usr/share/icons/hicolor/48x48/apps/nateon_messagebox.png
+Package: nateon
+
+File: nautilus-actions.png
+Location: usr/share/icons/hicolor/48x48/apps/nautilus-actions.png
+Package: nautilus-actions
+
+File: nautilus-cd-burner.png
+Location: usr/share/icons/hicolor/22x22/apps/nautilus-cd-burner.png
+Package: nautilus-cd-burner
+
+File: ncbilogo.png
+Location: usr/share/icons/hicolor/48x48/ncbilogo.png
+Package: ncbi-data
+Orig-Package: ncbi-tools-x11
+
+File: ndisgtk.png
+Location: usr/share/icons/hicolor/48x48/apps/ndisgtk.png
+Package: ndisgtk
+
+File: nemiver.png
+Location: usr/share/icons/hicolor/48x48/apps/nemiver.png
+Package: nemiver
+
+File: nessus.xpm
+Location: usr/share/pixmaps/nessus.xpm
+Package: nessus
+
+File: netapplet.png
+Location: usr/share/pixmaps/netapplet.png
+Package: netapplet
+
+File: netpanzer.png
+Location: usr/share/pixmaps/netpanzer.png
+Package: netpanzer
+
+File: netsurf.png
+Location: usr/share/pixmaps/netsurf.png
+Package: netsurf
+
+File: neverball-128.xpm
+Location: usr/share/pixmaps/neverball-128.xpm
+Package: neverball
+
+File: neverputt-128.xpm
+Location: usr/share/pixmaps/neverputt-128.xpm
+Package: neverputt
+
+File: nexuiz48x48.png
+Location: usr/share/icons/hicolor/48x48/apps/nexuiz48x48.png
+Package: nexuiz
+
+File: nicotine-plus-32px.png
+Location: usr/share/pixmaps/nicotine-plus-32px.png
+Package: nicotine
+
+File: nikwi.xpm
+Location: usr/share/pixmaps/nikwi.xpm
+Package: nikwi
+
+File: noatun.png
+Location: usr/share/icons/hicolor/48x48/apps/noatun.png
+Package: noatun
+
+File: noteedit.xpm
+Location: usr/share/pixmaps/noteedit.xpm
+Package: noteedit
+
+File: notification-settings.png
+Location: usr/share/icons/hicolor/48x48/apps/notification-settings.png
+Package: notification-daemon-xfce
+
+File: nt.png
+Location: usr/share/pixmaps/nt.png
+Package: d4x
+Orig-Package: d4x-common
+
+File: nted.png
+Location: usr/share/icons/nted.png
+Package: nted
+
+File: nuapplet2-running.png
+Location: usr/share/pixmaps/nuapplet2-running.png
+Package: nuapplet
+
+File: nvtv.xpm
+Location: usr/share/pixmaps/nvtv.xpm
+Package: nvtv
+
+File: obconf.png
+Location: usr/share/pixmaps/obconf.png
+Package: obconf
+
+File: oggconvert.svg
+Location: usr/share/pixmaps/oggconvert.svg
+Package: oggconvert
+
+File: okular.png
+Location: usr/share/icons/hicolor/48x48/apps/okular.png
+Package: okular
+
+File: olive-gtk.png
+Location: usr/share/pixmaps/olive-gtk.png
+Package: bzr-gtk
+
+File: oneisenough.png
+Location: usr/share/games/oneisenough/bin/pictures/star.png
+Package: oneisenough
+Orig-Location: usr/share/pixmaps/oneisenough.png
+
+File: ooo-base.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-base.png
+Package: openoffice.org-common
+Orig-Package: openoffice.org-base
+
+File: ooo-calc.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-calc.png
+Package: openoffice.org-common
+Orig-Package: openoffice.org-calc
+
+File: ooo-draw.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-draw.png
+Package: openoffice.org-common
+Orig-Package: openoffice.org-draw
+
+File: ooo-impress.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-impress.png
+Package: openoffice.org-common
+Orig-Package: openoffice.org-impress
+
+File: ooo-math.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-math.png
+Package: openoffice.org-common
+Orig-Package: openoffice.org-math
+
+File: ooo-template.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-template.png
+Package: openoffice.org-common
+
+File: ooo-writer.png
+Location: usr/share/icons/hicolor/48x48/apps/ooo-writer.png
+Package: openoffice.org-common
+Orig-Package: openoffice.org-writer
+
+File: open-invaders.xpm
+Location: usr/share/pixmaps/open-invaders.xpm
+Package: open-invaders
+
+File: openarena128.png
+Location: usr/share/icons/hicolor/128x128/apps/openarena128.png
+Package: openarena
+
+File: opencity.xpm
+Location: usr/share/pixmaps/opencity.xpm
+Package: opencity
+
+File: opendict.png
+Location: usr/share/icons/hicolor/48x48/apps/opendict.png
+Package: opendict
+
+File: openjdk-6.xpm
+Location: usr/share/pixmaps/openjdk-6.xpm
+Package: openjdk-6-jre
+
+File: ophcrack.xpm
+Location: usr/share/pixmaps/ophcrack.xpm
+Package: ophcrack
+
+File: orbital-eunuchs-sniper.png
+Location: usr/share/icons/hicolor/48x48/apps/orbital-eunuchs-sniper.png
+Package: orbital-eunuchs-sniper
+
+File: orca.png
+Location: usr/share/icons/hicolor/48x48/apps/orca.png
+Package: gnome-orca
+
+File: osmo.png
+Location: usr/share/pixmaps/osmo.png
+Package: osmo
+
+File: packagesearch.png
+Location: usr/share/pixmaps/packagesearch.png
+Package: packagesearch
+
+File: pan.png
+Location: usr/share/pixmaps/pan.png
+Package: pan
+
+File: paper_green.xpm
+Location: usr/share/pixmaps/paper_green.xpm
+Package: yarssr
+
+File: parsec47.xpm
+Location: usr/share/pixmaps/parsec47.xpm
+Package: parsec47
+
+File: passage.xpm
+Location: usr/share/pixmaps/passage.xpm
+Package: passage
+
+File: password-gorilla.png
+Location: usr/share/icons/hicolor/48x48/password-gorilla.png
+Package: password-gorilla
+
+File: password.png
+Location: usr/share/icons/crystalsvg/48x48/apps/password.png
+Package: kdelibs-data
+Orig-Package: kdepasswd
+
+File: pathological.xpm
+Location: usr/share/pixmaps/pathological.xpm
+Package: pathological
+
+File: paw.xpm
+Location: usr/share/pixmaps/paw48x48.xpm
+Package: paw-common
+Orig-Location: usr/share/icons/hicolor/48x48/apps/paw.xpm
+Orig-Package: paw++
+
+File: pcb.png
+Location: usr/share/icons/hicolor/48x48/apps/pcb.png
+Package: pcb-common
+
+File: pcmanfm.png
+Location: usr/share/pixmaps/pcmanfm.png
+Package: pcmanfm
+
+File: pcsx-icon.png
+Location: usr/share/pixmaps/pcsx-icon.png
+Package: pcsx-df
+
+File: pengupop.png
+Location: usr/share/pixmaps/pengupop.png
+Package: pengupop
+
+File: perlprimer.xpm
+Location: usr/share/pixmaps/perlprimer.xpm
+Package: perlprimer
+
+File: personal.png
+Location: usr/share/icons/crystalsvg/48x48/apps/personal.png
+Package: kdebase-data
+Orig-Package: kdepasswd
+
+File: pgadmin3.xpm
+Location: usr/share/pixmaps/pgadmin3.xpm
+Package: pgadmin3
+
+File: phatch.png
+Location: usr/share/icons/hicolor/48x48/apps/phatch.png
+Package: phatch
+
+File: picard-32.png
+Location: usr/share/icons/picard-32.png
+Package: picard
+
+File: pida-icon.png
+Location: usr/share/icons/hicolor/48x48/apps/pida-icon.png
+Package: pida
+
+File: pidgin.png
+Location: usr/share/icons/hicolor/48x48/apps/pidgin.png
+Package: pidgin-data
+Orig-Package: pidgin
+
+File: piklab.png
+Location: usr/share/icons/hicolor/64x64/apps/piklab.png
+Package: piklab
+
+File: piklab.xpm
+Location: usr/share/pixmaps/piklab.xpm
+Package: piklab
+
+File: pinball.xpm
+Location: usr/share/pixmaps/pinball.xpm
+Package: pinball
+
+File: pingus.xpm
+Location: usr/share/pixmaps/pingus.xpm
+Package: pingus
+
+File: pinot.png
+Location: usr/share/icons/hicolor/48x48/apps/pinot.png
+Package: pinot
+
+File: pioneers-editor.png
+Location: usr/share/pixmaps/pioneers-editor.png
+Package: pioneers-data
+Orig-Package: pioneers
+
+File: pioneers-server.png
+Location: usr/share/pixmaps/pioneers-server.png
+Package: pioneers-data
+Orig-Package: pioneers
+
+File: pioneers.png
+Location: usr/share/pixmaps/pioneers.png
+Package: pioneers-data
+Orig-Package: pioneers
+
+File: pitivi.png
+Location: usr/share/pixmaps/pitivi.png
+Package: pitivi
+
+File: pixelize.xpm
+Location: usr/share/pixmaps/pixelize.xpm
+Package: pixelize
+
+File: pixfrogger.xpm
+Location: usr/share/pixmaps/pixfrogger.xpm
+Package: pixfrogger
+
+File: planets.png
+Location: usr/share/pixmaps/planets.png
+Package: planets
+
+File: plotdrop.png
+Location: usr/share/pixmaps/plotdrop.png
+Package: plotdrop
+
+File: podbrowser.png
+Location: usr/share/icons/hicolor/48x48/apps/podbrowser.png
+Package: podbrowser
+
+File: poedit.png
+Location: usr/share/icons/hicolor/48x48/apps/poedit.png
+Package: poedit
+
+File: pokerth.png
+Location: usr/share/pixmaps/pokerth.png
+Package: pokerth
+
+File: pondus.png
+Location: usr/share/icons/hicolor/48x48/apps/pondus.png
+Package: pondus
+
+File: postr.png
+Location: usr/share/icons/hicolor/32x32/apps/postr.png
+Package: postr
+
+File: potamus.png
+Location: usr/share/icons/hicolor/48x48/apps/potamus.png
+Package: potamus
+
+File: powermanga.xpm
+Location: usr/share/pixmaps/powermanga.xpm
+Package: powermanga
+
+File: ppracer-128x128.png
+Location: usr/share/pixmaps/ppracer-128x128.png
+Package: planetpenguin-racer
+
+File: praat.xpm
+Location: usr/share/pixmaps/praat.xpm
+Package: praat
+
+File: preferences-desktop-default-applications.png
+Location: usr/share/icons/hicolor/48x48/apps/preferences-desktop-default-applications.png
+Package: libexo-0.3-0
+Orig-Package: exo-utils
+
+File: prism-icon4.png
+Location: usr/share/pixmaps/prism-icon4.png
+Package: prismstumbler
+
+File: projectControl.png
+Location: usr/share/icons/hicolor/48x48/apps/projectControl.png
+Package: bouml
+
+File: projectSynchro.png
+Location: usr/share/icons/hicolor/48x48/apps/projectSynchro.png
+Package: bouml
+
+File: projectl.xpm
+Location: usr/share/pixmaps/projectl.xpm
+Package: projectl
+
+File: psi.png
+Location: usr/share/icons/hicolor/48x48/apps/psi.png
+Package: psi
+
+File: pterm.png
+Location: usr/share/pixmaps/pterm.png
+Package: pterm
+
+File: puredata.xpm
+Location: usr/share/pixmaps/puredata.xpm
+Package: puredata
+
+File: putty.png
+Location: usr/share/pixmaps/putty.png
+Package: putty
+
+File: pychess.png
+Location: usr/share/icons/hicolor/24x24/apps/pychess.png
+Package: pychess
+
+File: pydance.png
+Location: usr/share/pixmaps/pydance.png
+Package: pydance
+
+File: pygmy.png
+Location: usr/share/pixmaps/pygmy.png
+Package: pygmy
+
+File: pymol.xpm
+Location: usr/share/pixmaps/pymol.xpm
+Package: pymol
+
+File: pympd.svg
+Location: usr/share/pixmaps/pympd.svg
+Package: pympd
+
+File: pyntor.png
+Location: usr/share/icons/pyntor.png
+Package: pyntor
+
+File: pypar2.png
+Location: usr/share/pixmaps/pypar2.png
+Package: pypar2
+
+File: pyscrabble.png
+Location: usr/share/icons/hicolor/48x48/apps/pyscrabble.png
+Package: pyscrabble
+
+File: qa-icon.png
+Location: usr/share/pixmaps/qa-icon.png
+Package: qa-assistant
+
+File: qalculate.png
+Location: usr/share/pixmaps/qalculate.png
+Package: qalculate-gtk
+
+File: qalculate_kde.png
+Location: usr/share/icons/hicolor/48x48/apps/qalculate_kde.png
+Package: qalculate-kde
+
+File: qbittorrent.png
+Location: usr/share/icons/hicolor/48x48/apps/qbittorrent.png
+Package: qbittorrent
+
+File: qemu-launcher.svg
+Location: usr/share/icons/hicolor/scalable/apps/qemu-launcher.svg
+Package: qemu-launcher
+
+File: qemulator.svg
+Location: usr/share/icons/hicolor/scalable/apps/qemulator.svg
+Package: qemulator
+
+File: qfreefax.png
+Location: usr/share/pixmaps/qfreefax_32x32.png
+Package: qfreefax
+Orig-Location: usr/share/pixmaps/qfreefax.png
+
+File: qink.png
+Location: usr/share/icons/hicolor/48x48/apps/qink.png
+Package: qink
+
+File: qjackctl.xpm
+Location: usr/share/pixmaps/qjackctl.xpm
+Package: qjackctl
+
+File: qlandkarte.xpm
+Location: usr/share/pixmaps/qlandkarte16.xpm
+Package: qlandkarte
+Orig-Location: usr/share/pixmaps/qlandkarte.xpm
+
+File: qrfcview.png
+Location: usr/share/icons/qrfcview.png
+Package: qrfcview
+
+File: qstardict.png
+Location: usr/share/pixmaps/qstardict.png
+Package: qstardict
+
+File: qtconfig.png
+Location: usr/share/pixmaps/qtconfig.png
+Package: qt4-qtconfig
+Orig-Package: qt3-qtconfig
+
+File: qtiplot.xpm
+Location: usr/share/pixmaps/qtiplot.xpm
+Package: qtiplot
+
+File: qtoctave.png
+Location: usr/share/icons/hicolor/32x32/apps/qtoctave.png
+Package: qtoctave
+
+File: qtparted.xpm
+Location: usr/share/pixmaps/qtparted.xpm
+Package: qtparted
+
+File: qtpfsgui.png
+Location: usr/share/icons/hicolor/48x48/apps/qtpfsgui.png
+Package: qtpfsgui
+
+File: quanta.png
+Location: usr/share/icons/hicolor/48x48/apps/quanta.png
+Package: quanta
+
+File: quark.png
+Location: usr/share/pixmaps/quark.png
+Package: quark
+
+File: quarry.png
+Location: usr/share/pixmaps/quarry.png
+Package: quarry
+
+File: quicklist.xpm
+Location: usr/share/pixmaps/quicklist.xpm
+Package: quicklist
+
+File: quicksynergy.xpm
+Location: usr/share/pixmaps/quicksynergy.xpm
+Package: quicksynergy
+
+File: quodlibet.png
+Location: usr/share/pixmaps/quodlibet.png
+Package: quodlibet
+
+File: rapidsvn.png
+Location: usr/share/pixmaps/rapidsvn.png
+Package: rapidsvn
+
+File: rawstudio.png
+Location: usr/share/icons/rawstudio.png
+Package: rawstudio
+
+File: recoll.png
+Location: usr/share/icons/hicolor/48x48/apps/recoll.png
+Package: recoll
+
+File: referencer.svg
+Location: usr/share/pixmaps/referencer.svg
+Package: referencer
+
+File: regexxer.png
+Location: usr/share/icons/hicolor/48x48/apps/regexxer.png
+Package: regexxer
+
+File: regina.png
+Location: usr/share/icons/hicolor/48x48/apps/regina.png
+Package: regina-normal
+
+File: renpy-demo.xpm
+Location: usr/share/pixmaps/renpy-demo.xpm
+Package: renpy-demo
+
+File: renpy-thequestion.xpm
+Location: usr/share/pixmaps/renpy-thequestion.xpm
+Package: renpy-thequestion
+
+File: renpy.xpm
+Location: usr/share/pixmaps/renpy.xpm
+Package: renpy
+
+File: revelation.png
+Location: usr/share/icons/hicolor/48x48/apps/revelation.png
+Package: revelation
+
+File: rezound32.xpm
+Location: usr/share/pixmaps/rezound32.xpm
+Package: rezound
+
+File: rhinote.png
+Location: usr/share/icons/hicolor/48x48/apps/rhinote.png
+Package: rhinote
+
+File: rhythmbox.png
+Location: usr/share/icons/hicolor/48x48/apps/rhythmbox.png
+Package: rhythmbox
+
+File: ri-li.xpm
+Location: usr/share/pixmaps/ri-li.xpm
+Package: ri-li
+
+File: ripperx.xpm
+Location: usr/share/pixmaps/ripperx.xpm
+Package: ripperx
+
+File: ristretto.png
+Location: usr/share/icons/hicolor/48x48/apps/ristretto.png
+Package: ristretto
+
+File: rkward.png
+Location: usr/share/icons/crystalsvg/48x48/apps/rkward.png
+Package: rkward
+
+File: root-system-bin.png
+Location: usr/share/icons/hicolor/48x48/apps/root-system-bin.png
+Package: root-system-bin
+
+File: rosegarden.png
+Location: usr/share/icons/hicolor/48x48/apps/rosegarden.png
+Package: rosegarden-data
+Orig-Package: rosegarden
+
+File: roxterm.svg
+Location: usr/share/icons/hicolor/scalable/apps/roxterm.svg
+Package: roxterm
+
+File: rrootage.xpm
+Location: usr/share/pixmaps/rrootage.xpm
+Package: rrootage
+
+File: rsibreak.png
+Location: usr/share/icons/hicolor/128x128/apps/rsibreak.png
+Package: rsibreak
+
+File: run.png
+Location: usr/share/icons/crystalsvg/32x32/actions/run.png
+Package: kdelibs-data
+Orig-Package: kdebase-kio-plugins
+
+File: rutilt.png
+Location: usr/share/icons/hicolor/48x48/apps/rutilt.png
+Package: rutilt
+
+File: sabayon.png
+Location: usr/share/icons/hicolor/48x48/apps/sabayon.png
+Package: sabayon
+
+File: sagasu.png
+Location: usr/share/pixmaps/sagasu.png
+Package: sagasu
+
+File: schism-icon-128.png
+Location: usr/share/icons/schism-icon-128.png
+Package: schism
+
+File: schism-itf-icon-128.png
+Location: usr/share/icons/schism-itf-icon-128.png
+Package: schism
+
+File: scorched3d.png
+Location: usr/share/icons/hicolor/48x48/apps/scorched3d.png
+Package: scorched3d
+
+File: screem.png
+Location: usr/share/pixmaps/screem.png
+Package: screem
+
+File: screenruler.png
+Location: usr/share/pixmaps/screenruler.png
+Package: screenruler
+
+File: scribes.png
+Location: usr/share/icons/hicolor/48x48/apps/scribes.png
+Package: scribes
+
+File: scribus-ng.png
+Location: usr/share/pixmaps/scribus-ng.png
+Package: scribus-ng
+
+File: scribus.png
+Location: usr/share/pixmaps/scribus.png
+Package: scribus
+
+File: scummvm.svg
+Location: usr/share/icons/scummvm.svg
+Package: scummvm
+
+File: sdljump.png
+Location: usr/share/pixmaps/sdljump.png
+Package: gnujump-data
+
+File: seahorse-preferences.png
+Location: usr/share/icons/hicolor/48x48/apps/seahorse-preferences.png
+Package: seahorse
+
+File: seahorse.png
+Location: usr/share/icons/hicolor/48x48/apps/seahorse.png
+Package: seahorse
+
+File: seaview.xpm
+Location: usr/share/pixmaps/seaview.xpm
+Package: seaview
+
+File: secpanel.xpm
+Location: usr/share/pixmaps/secpanel.xpm
+Package: secpanel
+
+File: session-properties.png
+Location: usr/share/icons/hicolor/32x32/apps/session-properties.png
+Package: gnome-session
+
+File: shadowbridge.png
+Location: usr/share/icons/hicolor/48x48/apps/shadowbridge.png
+Package: ggz-kde-client
+
+File: share.png
+Location: usr/share/icons/crystalsvg/48x48/actions/share.png
+Package: kdelibs-data
+Orig-Package: kdenetwork-filesharing
+
+File: shoes.png
+Location: usr/share/icons/hicolor/128x128/apps/shoes.png
+Package: shoes
+
+File: showfoto.png
+Location: usr/share/icons/hicolor/48x48/apps/showfoto.png
+Package: showfoto
+
+File: skencil.png
+Location: usr/share/icons/skencil.png
+Package: skencil
+
+File: slashem.xpm
+Location: usr/share/pixmaps/slashem.xpm
+Package: slashem-common
+Orig-Package: slashem-gtk
+
+File: smb4k.png
+Location: usr/share/icons/crystalsvg/48x48/apps/smb4k.png
+Package: smb4k
+
+File: smplayer.png
+Location: usr/share/icons/hicolor/64x64/apps/smplayer.png
+Package: smplayer
+
+File: snowballz.xpm
+Location: usr/share/pixmaps/snowballz.xpm
+Package: snowballz
+
+File: software-properties.png
+Location: usr/share/icons/hicolor/48x48/apps/software-properties.png
+Package: software-properties-gtk
+
+File: solarwolf.png
+Location: usr/share/pixmaps/solarwolf.png
+Package: solarwolf
+
+File: solfege.png
+Location: usr/share/pixmaps/solfege.png
+Package: solfege
+
+File: sonata.png
+Location: usr/share/pixmaps/sonata.png
+Package: sonata
+
+File: sopwith.png
+Location: usr/share/pixmaps/sopwith.png
+Package: sopwith
+
+File: sound-juicer.png
+Location: usr/share/icons/hicolor/48x48/apps/sound-juicer.png
+Package: sound-juicer
+
+File: soundconverter.png
+Location: usr/share/icons/hicolor/48x48/apps/soundconverter.png
+Package: soundconverter
+
+File: soundkonverter.png
+Location: usr/share/icons/hicolor/48x48/apps/soundkonverter.png
+Package: soundkonverter
+
+File: spe.png
+Location: usr/share/spe/_spe/images/spe.png
+Package: spe
+Orig-Location: usr/share/pixmaps/spe.png
+
+File: specto.svg
+Location: usr/share/icons/hicolor/scalable/apps/specto.svg
+Package: specto
+
+File: speedcrunch.png
+Location: usr/share/pixmaps/speedcrunch.png
+Package: speedcrunch
+
+File: spydr48.png
+Location: usr/share/pixmaps/spydr48.png
+Package: yorick-spydr
+
+File: sqlitebrowser.png
+Location: usr/share/icons/sqlitebrowser.png
+Package: sqlitebrowser
+
+File: squeeze.png
+Location: usr/share/icons/hicolor/48x48/apps/squeeze.png
+Package: squeeze
+
+File: stardict.png
+Location: usr/share/pixmaps/stardict.png
+Package: stardict-common
+
+File: starplot32x32.xpm
+Location: usr/share/pixmaps/starplot32x32.xpm
+Package: starplot
+
+File: stellarium.xpm
+Location: usr/share/pixmaps/stellarium.xpm
+Package: stellarium
+
+File: stopmotion.png
+Location: usr/share/pixmaps/stopmotion.png
+Package: stopmotion
+
+File: stormbaancoureur.xpm
+Location: usr/share/pixmaps/stormbaancoureur.xpm
+Package: stormbaancoureur
+
+File: straw.png
+Location: usr/share/pixmaps/straw.png
+Package: straw
+
+File: streamtuner.png
+Location: usr/share/pixmaps/streamtuner.png
+Package: streamtuner
+
+File: subtitleeditor.png
+Location: usr/share/icons/hicolor/32x32/apps/subtitleeditor.png
+Package: subtitleeditor
+
+File: sunflow.png
+Location: usr/share/pixmaps/sunflow.png
+Package: sunflow
+
+File: supertuxkart.xpm
+Location: usr/share/icons/hicolor/64x64/apps/supertuxkart.xpm
+Package: supertuxkart
+
+File: svxedit.png
+Location: usr/share/pixmaps/svxedit.png
+Package: survex-svxedit
+
+File: sweep.svg
+Location: usr/share/pixmaps/sweep.svg
+Package: sweep
+
+File: swfdec.png
+Location: usr/share/icons/hicolor/48x48/apps/swfdec.png
+Package: libswfdec-0.6-90
+Orig-Package: swfdec-gnome
+
+File: swscanner.png
+Location: usr/share/icons/hicolor/64x64/apps/swscanner.png
+Package: swscanner
+
+File: sylpheed.png
+Location: usr/share/pixmaps/sylpheed.png
+Package: sylpheed
+
+File: synaptic.png
+Location: usr/share/pixmaps/synaptic.png
+Package: synaptic
+
+File: synfig_icon.png
+Location: usr/share/pixmaps/synfigstudio/synfig_icon.png
+Package: synfigstudio
+
+File: sysprof.xpm
+Location: usr/share/pixmaps/sysprof.xpm
+Package: sysprof
+
+File: tangerine.png
+Location: usr/share/icons/hicolor/22x22/apps/tangerine.png
+Package: tangerine
+
+File: tangogps.png
+Location: usr/share/pixmaps/tangogps.png
+Package: tangogps
+
+File: taskjuggler.png
+Location: usr/share/icons/hicolor/32x32/apps/taskjuggler.png
+Package: taskjuggler
+
+File: tasks.png
+Location: usr/share/icons/hicolor/48x48/apps/tasks.png
+Package: tasks
+
+File: tasque.png
+Location: usr/share/icons/hicolor/48x48/apps/tasque.png
+Package: tasque
+
+File: tatan.xpm
+Location: usr/share/pixmaps/tatan.xpm
+Package: tatan
+
+File: taxbird.xpm
+Location: usr/share/pixmaps/taxbird.xpm
+Package: taxbird
+
+File: tea.xpm
+Location: usr/share/pixmaps/tea.xpm
+Package: tea
+
+File: teeworlds.xpm
+Location: usr/share/pixmaps/teeworlds.xpm
+Package: teeworlds
+
+File: teg.png
+Location: usr/share/pixmaps/teg.png
+Package: teg
+
+File: teleport.png
+Location: usr/share/pixmaps/teleport.png
+Package: teleport
+
+File: tellico.xpm
+Location: usr/share/pixmaps/tellico.xpm
+Package: tellico
+
+File: tennix.png
+Location: usr/share/pixmaps/tennix.png
+Package: tennix
+
+File: terminator.png
+Location: usr/share/icons/hicolor/48x48/apps/terminator.png
+Package: terminator
+
+File: texmaker.png
+Location: usr/share/icons/hicolor/32x32/apps/texmaker32x32.png
+Package: texmaker
+Orig-Location: usr/share/pixmaps/texmaker.png
+
+File: thoggen.png
+Location: usr/share/pixmaps/thoggen.png
+Package: thoggen
+
+File: tilda.png
+Location: usr/share/pixmaps/tilda.png
+Package: tilda
+
+File: time-admin.png
+Location: usr/share/icons/hicolor/48x48/apps/time-admin.png
+Package: gnome-system-tools
+
+File: titanion.xpm
+Location: usr/share/pixmaps/titanion.xpm
+Package: titanion
+
+File: tkcvs.xpm
+Location: usr/share/pixmaps/tkcvs.xpm
+Package: tkcvs
+
+File: tkdiff.xpm
+Location: usr/share/pixmaps/tkdiff.xpm
+Package: tkdiff
+
+File: tkgate.xpm
+Location: usr/share/pixmaps/tkgate.xpm
+Package: tkgate
+
+File: tleenx2.xpm
+Location: usr/share/pixmaps/tleenx2.xpm
+Package: tleenx2
+
+File: tomboy.png
+Location: usr/share/icons/hicolor/48x48/apps/tomboy.png
+Package: tomboy
+
+File: tora.xpm
+Location: usr/share/icons/hicolor/32x32/apps/tora.xpm
+Package: tora
+
+File: torcs.xpm
+Location: usr/share/pixmaps/torcs.xpm
+Package: torcs
+
+File: tork.png
+Location: usr/share/icons/hicolor/48x48/apps/tork.png
+Package: tork
+
+File: torus-trooper.xpm
+Location: usr/share/pixmaps/torus-trooper.xpm
+Package: torus-trooper
+
+File: totem.png
+Location: usr/share/icons/hicolor/48x48/apps/totem.png
+Package: totem-common
+
+File: touchpad.png
+Location: usr/share/pixmaps/touchpad.png
+Package: gsynaptics
+
+File: tplogo.xpm
+Location: usr/share/pixmaps/tplogo.xpm
+Package: tunapie
+
+File: trackballs.png
+Location: usr/share/icons/hicolor/48x48/apps/trackballs.png
+Package: trackballs-data
+Orig-Package: trackballs
+
+File: tracker.png
+Location: usr/share/icons/hicolor/48x48/apps/tracker.png
+Package: tracker
+Orig-Package: tracker-search-tool
+
+File: transcriber.xpm
+Location: usr/share/doc/transcriber/html/img/trans.xpm
+Package: transcriber
+Orig-Location: usr/share/pixmaps/transcriber.xpm
+
+File: transfermii_gui.xpm
+Location: usr/share/pixmaps/transfermii_gui.xpm
+Package: transfermii-gui
+
+File: transmission.png
+Location: usr/share/icons/hicolor/48x48/apps/transmission.png
+Package: transmission-gtk
+
+File: tree-ppuzzle.xpm
+Location: usr/share/pixmaps/tree-ppuzzle.xpm
+Package: tree-ppuzzle
+
+File: tree-puzzle.xpm
+Location: usr/share/pixmaps/tree-puzzle.xpm
+Package: tree-puzzle
+
+File: treeviewx.xpm
+Location: usr/share/pixmaps/treeviewx.xpm
+Package: treeviewx
+
+File: trigger.xpm
+Location: usr/share/icons/hicolor/64x64/apps/trigger.xpm
+Package: trigger
+
+File: tsclient.png
+Location: usr/share/pixmaps/tsclient/tsclient.png
+Package: tsclient
+
+File: tumiki-fighters.xpm
+Location: usr/share/pixmaps/tumiki-fighters.xpm
+Package: tumiki-fighters
+
+File: tuxpaint-config.png
+Location: usr/share/icons/hicolor/48x48/apps/tuxpaint-config.png
+Package: tuxpaint-config
+
+File: tuxpaint.png
+Location: usr/share/pixmaps/tuxpaint.png
+Package: tuxpaint
+
+File: tvtime.png
+Location: usr/share/icons/hicolor/48x48/apps/tvtime.png
+Package: tvtime
+
+File: twitux.png
+Location: usr/share/icons/hicolor/48x48/apps/twitux.png
+Package: twitux
+
+File: ufraw.png
+Location: usr/share/pixmaps/ufraw.png
+Package: ufraw
+
+File: ultrastar-ng.xpm
+Location: usr/share/pixmaps/ultrastar-ng.xpm
+Package: ultrastar-ng-gstreamer
+
+File: umbrello.png
+Location: usr/share/icons/hicolor/48x48/apps/umbrello.png
+Package: umbrello
+
+File: unison-gtk.svg
+Location: usr/share/pixmaps/unison-gtk.svg
+Package: unison-gtk
+
+File: unison2.13.16-gtk.svg
+Location: usr/share/pixmaps/unison2.13.16-gtk.svg
+Package: unison2.13.16-gtk
+
+File: user_icon.png
+Location: usr/share/pixmaps/user_icon.png
+Package: usermode
+
+File: userconfig.png
+Location: usr/share/icons/crystalsvg/32x32/apps/userconfig.png
+Package: kde-guidance
+
+File: vagalume.png
+Location: usr/share/icons/hicolor/48x48/apps/vagalume.png
+Package: vagalume
+
+File: val-and-rick.xpm
+Location: usr/share/pixmaps/val-and-rick.xpm
+Package: val-and-rick
+
+File: valknut.xpm
+Location: usr/share/pixmaps/valknut.xpm
+Package: valknut
+
+File: verbiste.png
+Location: usr/share/pixmaps/verbiste.png
+Package: verbiste
+Orig-Package: verbiste-gnome
+
+File: videocut.svg
+Location: usr/share/icons/hicolor/scalable/apps/videocut.svg
+Package: videocut
+
+File: viewmol.png
+Location: usr/share/icons/crystalsvg/48x48/apps/viewmol.png
+Package: viewmol
+
+File: viking_icon.png
+Location: usr/share/icons/viking_icon.png
+Package: viking
+
+File: vinagre.png
+Location: usr/share/icons/hicolor/48x48/apps/vinagre.png
+Package: vinagre
+
+File: virtualbox.png
+Location: usr/share/virtualbox/VBox.png
+Package: virtualbox-ose
+Orig-Location: usr/share/icons/virtualbox.png
+
+File: viruskiller.png
+Location: usr/share/icons/viruskiller.png
+Package: viruskiller
+
+File: vkeybd.xpm
+Location: usr/share/pixmaps/vkeybd.xpm
+Package: vkeybd
+
+File: vlc.png
+Location: usr/share/pixmaps/vlc.png
+Package: vlc
+
+File: vodovod.xpm
+Location: usr/share/pixmaps/vodovod.xpm
+Package: vodovod
+
+File: wammu.png
+Location: usr/share/pixmaps/wammu.png
+Package: wammu
+
+File: wavbreaker.png
+Location: usr/share/icons/hicolor/48x48/apps/wavbreaker.png
+Package: wavbreaker
+
+File: webissues.png
+Location: usr/share/icons/hicolor/48x48/apps/webissues.png
+Package: webissues
+
+File: wengophone.png
+Location: usr/share/icons/hicolor/48x48/apps/wengophone.png
+Package: wengophone
+
+File: wesnoth-icon.png
+Location: usr/share/games/wesnoth/images/wesnoth-icon.png
+Package: wesnoth-data
+Orig-Location: usr/share/icons/wesnoth-icon.png
+Orig-Package: wesnoth
+
+File: wesnoth_editor-icon.png
+Location: usr/share/games/wesnoth/images/wesnoth_editor-icon.png
+Package: wesnoth-editor
+Orig-Location: usr/share/icons/wesnoth_editor-icon.png
+
+File: whichwayisup.xpm
+Location: usr/share/pixmaps/whichwayisup.xpm
+Package: whichwayisup
+
+File: wifi-radar.svg
+Location: usr/share/pixmaps/wifi-radar.svg
+Package: wifi-radar
+
+File: wine.xpm
+Location: usr/share/pixmaps/wine.xpm
+Package: wine-bin
+
+File: wineconfig.png
+Location: usr/share/icons/crystalsvg/32x32/apps/wineconfig.png
+Package: kde-guidance
+
+File: winpdb.png
+Location: usr/share/icons/hicolor/64x64/apps/winpdb.png
+Package: winpdb
+
+File: wmgui.xpm
+Location: usr/share/pixmaps/wmgui.xpm
+Package: wmgui
+
+File: wmtweaks.png
+Location: usr/share/icons/hicolor/48x48/apps/wmtweaks.png
+Package: xfwm4
+
+File: wormux_128x128.xpm
+Location: usr/share/pixmaps/wormux_128x128.xpm
+Package: wormux
+
+File: wsjt.png
+Location: usr/share/pixmaps/wsjt.png
+Package: wsjt
+
+File: wxcas.xpm
+Location: usr/share/pixmaps/wxcas.xpm
+Package: amule-utils-gui
+
+File: wxglade.xpm
+Location: usr/share/pixmaps/wxglade.xpm
+Package: python-wxglade
+
+File: xaos.png
+Location: usr/share/pixmaps/xaos.png
+Package: xaos
+
+File: xarchive.png
+Location: usr/share/icons/xarchive.png
+Package: xarchive
+
+File: xarchiver.png
+Location: usr/share/icons/hicolor/48x48/apps/xarchiver.png
+Package: xarchiver
+
+File: xawtv48x48.xpm
+Location: usr/share/pixmaps/xawtv48x48.xpm
+Package: xawtv
+
+File: xbill.xpm
+Location: usr/share/pixmaps/xbill.xpm
+Package: xbill
+
+File: xboing.xpm
+Location: usr/share/pixmaps/xboing.xpm
+Package: xboing
+
+File: xcdroast.xpm
+Location: usr/share/pixmaps/xcdroast.xpm
+Package: xcdroast
+
+File: xchat-gnome.png
+Location: usr/share/icons/hicolor/48x48/apps/xchat-gnome.png
+Package: xchat-gnome-common
+
+File: xchat.png
+Location: usr/share/pixmaps/xchat.png
+Package: xchat
+
+File: xchm.xpm
+Location: usr/share/pixmaps/xchm.xpm
+Package: xchm
+
+File: xdc.xpm
+Location: usr/share/pixmaps/xdc.xpm
+Package: xdrawchem
+
+File: xdigger.xpm
+Location: usr/share/pixmaps/xdigger.xpm
+Package: xdigger
+
+File: xfcalendar.png
+Location: usr/share/icons/hicolor/48x48/apps/xfcalendar.png
+Package: orage
+
+File: xfce-sound.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce-sound.png
+Package: libxfcegui4-4
+Orig-Package: xfce4-mixer
+
+File: xfce4-appfinder.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce4-appfinder.png
+Package: xfce4-appfinder
+
+File: xfce4-dict.svg
+Location: usr/share/icons/hicolor/scalable/apps/xfce4-dict.svg
+Package: xfce4-dict
+
+File: xfce4-menueditor.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce4-menueditor.png
+Package: xfdesktop4-data
+Orig-Package: xfdesktop4
+
+File: xfce4-panel.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce4-panel.png
+Package: xfce4-panel
+
+File: xfce4-session.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce4-session.png
+Package: xfce4-session
+
+File: xfce4-splash.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce4-splash.png
+Package: xfce4-session
+
+File: xfce4-workspaces.png
+Location: usr/share/icons/hicolor/48x48/apps/xfce4-workspaces.png
+Package: xfwm4
+
+File: xfmedia.png
+Location: usr/share/icons/hicolor/48x48/apps/xfmedia.png
+Package: xfmedia
+
+File: xgalaga-icon.xpm
+Location: usr/share/pixmaps/xgalaga-icon.xpm
+Package: xgalaga
+
+File: xine.png
+Location: usr/share/icons/hicolor/48x48/apps/xine.png
+Package: xine-ui
+
+File: xiterm+thai.png
+Location: usr/share/pixmaps/xiterm+thai.png
+Package: xiterm+thai
+
+File: xjump-icon.xpm
+Location: usr/share/pixmaps/xjump-icon.xpm
+Package: xjump
+
+File: xlog-icon.png
+Location: usr/share/pixmaps/xlog/xlog-icon.png
+Package: xlog-data
+
+File: xmotd.xpm
+Location: usr/share/pixmaps/xmotd.xpm
+Package: xmotd
+
+File: xmoto.xpm
+Location: usr/share/pixmaps/xmoto.xpm
+Package: xmoto
+
+File: xnc.png
+Location: usr/share/pixmaps/xnc.png
+Package: xnc
+
+File: xnetcardconfig.png
+Location: usr/share/pixmaps/xnetcardconfig.png
+Package: xnetcardconfig
+
+File: xoo.png
+Location: usr/share/pixmaps/xoo.png
+Package: xoo
+
+File: xournal.svg
+Location: usr/share/icons/hicolor/scalable/apps/xournal.svg
+Package: xournal
+
+File: xpad.png
+Location: usr/share/icons/hicolor/48x48/apps/xpad.png
+Package: xpad
+
+File: xpdf.xpm
+Location: usr/share/pixmaps/xpdf.xpm
+Package: xpdf-reader
+
+File: xpn.png
+Location: usr/share/xpn/pixmaps/xpn-icon.png
+Package: xpn
+Orig-Location: usr/share/pixmaps/xpn.png
+
+File: xqf_32x32.png
+Location: usr/share/pixmaps/xqf_32x32.png
+Package: xqf
+
+File: xsabre.xpm
+Location: usr/share/pixmaps/xsabre.xpm
+Package: xsabre
+
+File: xsane.xpm
+Location: usr/share/pixmaps/xsane.xpm
+Package: xsane
+
+File: xtide.png
+Location: usr/share/icons/hicolor/48x48/apps/xtide.png
+Package: xtide
+
+File: xtraceroute.png
+Location: usr/share/pixmaps/xtraceroute.png
+Package: xt
+
+File: xwelltris.xpm
+Location: usr/share/pixmaps/xwelltris.xpm
+Package: xwelltris
+
+File: xwhois.xpm
+Location: usr/share/pixmaps/xwhois.xpm
+Package: xwhois
+
+File: yakuake.png
+Location: usr/share/icons/hicolor/32x32/apps/yakuake.png
+Package: yakuake
+
+File: zenmap.xpm
+Location: usr/share/pixmaps/zenmap.xpm
+Package: zenmap
+
+File: zeroinstall-zero2desktop.png
+Location: usr/share/pixmaps/zeroinstall-zero2desktop.png
+Package: zeroinstall-injector
+
+File: zim.png
+Location: usr/share/pixmaps/zim.png
+Package: zim
+
+File: zsnes.xpm
+Location: usr/share/pixmaps/zsnes.xpm
+Package: zsnes
+

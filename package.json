@@ -1,0 +1,39 @@
+{
+  "name": "iobroker.icons-open-icon-library-png",
+  "description": "Icon set for visualisation as PNG from Open Icon Library project.",
+  "version": "0.1.0",
+  "author": "bluefox <bluefox@ccu.io>",
+  "contributors": [
+    "bluefox <bluefox@ccu.io>"
+  ],
+  "homepage": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png"
+  },
+  "licenses": [
+      {
+          "type": "GPLv3",
+          "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/blob/master/LICENSE"
+      }
+  ],
+  "keywords": [
+    "ioBroker",
+    "icons",
+    "material design",
+	"home automation"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/issues"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}

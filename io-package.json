@@ -1,0 +1,34 @@
+{
+    "common": {
+        "name":         "icons-open-icon-library-png",
+        "version":      "0.1.0",
+        "title":        "Addictive flavour icon set as PNG",
+        "desc":         {
+            "en": "Icon set for visualisation as PNG",
+            "de": "Bildersatz für die Visualisierung als PNG",
+            "ru": "Набор иконок для визуализации в PNG"
+        },
+        "authors": [
+            "bluefox <bluefox@ccu.io>"
+        ],
+        "platform":     "javascript/Node.js",
+        "icon":         "icons-open-icon-library-png.png",
+        "mode":         "none",
+        "keywords":     ["icons", "material design", "ioBroker"],
+        "extIcon":      "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-open-icon-library-png/master/admin/icons-open-icon-library-png.png",
+        "readme":       "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/blob/master/README.md",
+        "loglevel":     "info",
+        "dependencies": ["web"],
+        "enabled":      true,
+        "onlyWWW":      true,
+        "singleton":    true,
+        "localLink":    "http://%ip%:%web_port%/icons-open-icon-library-png/index.html",
+		"type":         "visualisation",
+        "license":      "GPLv3"
+    },
+    "native": {
+
+    },
+    "objects": [
+    ]
+}
