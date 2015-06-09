@@ -1,7 +1,7 @@
 {
     "common": {
         "name":         "icons-open-icon-library-png",
-        "version":      "0.1.0",
+        "version":      "0.1.1",
         "title":        "Open icon library set as PNG",
         "desc":         {
             "en": "Open icon library set for visualisation as PNG",
@@ -22,8 +22,8 @@
         "enabled":      true,
         "onlyWWW":      true,
         "singleton":    true,
-        "localLink":    "http://%ip%:%web_port%/icons-open-icon-library-png/index.html",
-		"type":         "visualisation",
+        "localLink":    "%web_protocol%://%ip%:%web_port%/icons-open-icon-library-png/index.html",
+		"type":         "vis",
         "license":      "GPLv3"
     },
     "native": {
