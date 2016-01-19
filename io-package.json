@@ -1,7 +1,7 @@
 {
     "common": {
         "name":         "icons-open-icon-library-png",
-        "version":      "0.1.1",
+        "version":      "0.1.2",
         "title":        "Open icon library set as PNG",
         "desc":         {
             "en": "Open icon library set for visualisation as PNG",
