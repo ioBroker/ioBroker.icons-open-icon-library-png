@@ -12,28 +12,29 @@
     "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png"
   },
   "licenses": [
-      {
-          "type": "GPLv3",
-          "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/blob/master/LICENSE"
-      }
+    {
+      "type": "GPLv3",
+      "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/blob/master/LICENSE"
+    }
   ],
   "keywords": [
     "ioBroker",
     "icons",
     "material design",
-	"home automation"
+    "home automation"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.4"
+    "grunt": "^0.4.5",
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/issues"
   },
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node node_modules/mocha/bin/mocha"
   },
   "license": "MIT"
 }
