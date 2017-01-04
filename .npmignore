@@ -1,3 +1,6 @@
 Gruntfile.js
 .build
 .idea
+test
+.travis.yml
+appveyor.yml
