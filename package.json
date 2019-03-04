@@ -23,12 +23,13 @@
     "material design",
     "home automation"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "@iobroker/adapter-core": "^1.0.3"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "mocha": "^4.1.0",
-    "chai": "^4.1.2",
-    "@iobroker/adapter-core": "^1.0.3"
+    "chai": "^4.1.2"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/issues"
