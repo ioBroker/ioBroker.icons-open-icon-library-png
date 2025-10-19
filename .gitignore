@@ -1,3 +1,5 @@
 .idea
 node_modules
 .build
+#ignore .commitinfo created by ioBroker release script
+.commitinfo
