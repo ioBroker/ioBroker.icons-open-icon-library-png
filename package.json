@@ -27,7 +27,7 @@
     "@iobroker/adapter-core": "^1.0.3"
   },
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.6.3",
     "mocha": "^4.1.0",
     "chai": "^4.1.2"
   },
