@@ -16,8 +16,7 @@
         "mode": "none",
         "keywords": [
             "icons",
-            "material design",
-            "ioBroker"
+            "material design"
         ],
         "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.icons-open-icon-library-png/master/admin/icons-open-icon-library-png.png",
         "readme": "https://github.com/ioBroker/ioBroker.icons-open-icon-library-png/blob/master/README.md",
